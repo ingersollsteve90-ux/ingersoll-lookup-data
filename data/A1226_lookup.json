@@ -1,0 +1,8171 @@
+{
+ "schemaVersion": "lookup-v1.1",
+ "catalog": {
+  "id": "A1226",
+  "title": "Case Model 108 Compact Tractor Parts Catalog No. A1226",
+  "brandAliases": [
+   "Case",
+   "Ingersoll"
+  ],
+  "editionDate": "6-75",
+  "editionAsPrinted": "Hi-Liter 2500 6-75 (page footers April, August and November 1975)",
+  "supersedes": [
+   "1226 (previous issue; cover: \"replaces the previous issue - 1226 - which is obsolete\")"
+  ],
+  "sourcePdf": "A1226.pdf",
+  "textLayer": false,
+  "books": [
+   {
+    "id": "A1226",
+    "title": "Case Model 108 Compact Tractor",
+    "pages": 23
+   }
+  ],
+  "coverage": "full",
+  "missingSections": [],
+  "structure": "PDF p1 cover + alphabetical index, p2 general info + model/engine ID, p3-21 diagram/table spreads (printed pages 5-37 incl. 23A/23B and 33A/33B), p22-23 numerical index"
+ },
+ "models": [
+  {
+   "id": "108",
+   "name": "108",
+   "aliases": [
+    {
+     "alias": "Case 108",
+     "source": "book"
+    },
+    {
+     "alias": "108YT",
+     "source": "tractordata"
+    }
+   ],
+   "family": "Case 100 compact",
+   "driveType": "gear",
+   "engines": [
+    {
+     "make": "Briggs & Stratton",
+     "catalogEngineNo": "C19070",
+     "appliesNote": "all serials in this book (ID table: 108 tractor = C19070 engine)"
+    }
+   ],
+   "editions": [
+    {
+     "catalogId": "A1226",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": "No range on the cover or ID page. One break: belts/pulleys/idlers used prior to S/N 9670643 / S/N 9670643 and after.",
+     "serialMeaning": "Case 7-digit (96xxxxx)"
+    }
+   ],
+   "relations": [
+    {
+     "type": "sharesPagesWith",
+     "target": "118",
+     "source": "book",
+     "note": "printed page 23A/23B"
+    }
+   ]
+  },
+  {
+   "id": "118",
+   "name": "118",
+   "ref": true,
+   "note": "Edition lives in A1227; only the shared 23A/23B belts page is in this catalog."
+  }
+ ],
+ "sections": [
+  {
+   "slug": "engine_c19070",
+   "title": "C19070 ENGINE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "5,7,9",
+   "pdfPage": "3-5",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "390640",
+     "partNoAsPrinted": "BR 390640",
+     "desc": "BLOCK ASSEMBLY - short",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "2",
+     "partNo": "390380",
+     "partNoAsPrinted": "BR 390380",
+     "desc": "BLOCK - cylinder, stripped",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "295962",
+     "partNoAsPrinted": "BR 295962",
+     "desc": "BUSHING - cylinder",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "294606",
+     "partNoAsPrinted": "BR 294606",
+     "desc": "SEAL - oil",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "5",
+     "partNo": "230927",
+     "partNoAsPrinted": "BR 230927",
+     "desc": "BUSHING - governor shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "66768",
+     "partNoAsPrinted": "BR 66768",
+     "desc": "PLUG - oil filler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "270538",
+     "partNoAsPrinted": "BR 270538",
+     "desc": "GASKET - carburetor mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "221-13",
+     "partNoAsPrinted": "221- 13",
+     "desc": "PLUG - oil drain",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "261038",
+     "partNoAsPrinted": "BR 261038",
+     "desc": "CRANKSHAFT",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "10",
+     "partNo": "298616",
+     "partNoAsPrinted": "BR 298616",
+     "desc": "OIL PAN ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "11",
+     "partNo": "295963",
+     "partNoAsPrinted": "BR 295963",
+     "desc": "BUSHING - oil pan",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "12",
+     "partNo": "298923",
+     "partNoAsPrinted": "BR 298923",
+     "desc": "SEAL - oil",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "13",
+     "partNo": "27750",
+     "partNoAsPrinted": "BR 27750",
+     "desc": "GASKET - oil pan",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "14",
+     "partNo": "93585",
+     "partNoAsPrinted": "BR 93585",
+     "desc": "SCREW - oil pan mtg.",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "390347",
+     "partNoAsPrinted": "BR 390347",
+     "desc": "PISTON ASSEMBLY - standard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "390348",
+     "partNoAsPrinted": "BR 390348",
+     "desc": "PISTON ASSEMBLY - .010 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "390349",
+     "partNoAsPrinted": "BR 390349",
+     "desc": "PISTON ASSEMBLY - .020 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "390350",
+     "partNoAsPrinted": "BR 390350",
+     "desc": "PISTON ASSEMBLY - .030 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "299569",
+     "partNoAsPrinted": "BR 299569",
+     "desc": "RING SET - standard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "299570",
+     "partNoAsPrinted": "BR 299570",
+     "desc": "RING SET - .010 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "299571",
+     "partNoAsPrinted": "BR 299571",
+     "desc": "RING SET - .020 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "299572",
+     "partNoAsPrinted": "BR 299572",
+     "desc": "RING SET - .030 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "17",
+     "partNo": "295840",
+     "partNoAsPrinted": "BR 295840",
+     "desc": "PIN ASSEMBLY - piston, standard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "17",
+     "partNo": "295841",
+     "partNoAsPrinted": "BR 295841",
+     "desc": "PIN ASSEMBLY - piston, .005 oversize",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "18",
+     "partNo": "298614",
+     "partNoAsPrinted": "BR 298614",
+     "desc": "BRACKET ASSEMBLY - governor gear & oil slinger",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "19",
+     "partNo": "270430",
+     "partNoAsPrinted": "BR 270430",
+     "desc": "GASKET - cylinder head",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "20",
+     "partNo": "390402",
+     "partNoAsPrinted": "BR 390402",
+     "desc": "CONNECTING ROD ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "21",
+     "partNo": "222114",
+     "partNoAsPrinted": "BR 222114",
+     "desc": "LOCK - connecting rod bolt",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "22",
+     "partNo": "92659",
+     "partNoAsPrinted": "BR 92659",
+     "desc": "BOLT - connecting rod",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "23",
+     "partNo": "27803",
+     "partNoAsPrinted": "BR 27803",
+     "desc": "GASKET - valve cover",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "24",
+     "partNo": "390419",
+     "partNoAsPrinted": "BR 390419",
+     "desc": "VALVE - exhaust",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "25",
+     "partNo": "93630",
+     "partNoAsPrinted": "BR 93630",
+     "desc": "LOCK - exhaust valve",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "26",
+     "partNo": "292260",
+     "partNoAsPrinted": "BR 292260",
+     "desc": "ROTATOR - exhaust valve",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "27",
+     "partNo": "261055",
+     "partNoAsPrinted": "BR 261055",
+     "desc": "VALVE - intake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "28",
+     "partNo": "221596",
+     "partNoAsPrinted": "BR 221596",
+     "desc": "KEEPER - intake valve",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "29",
+     "partNo": "65906",
+     "partNoAsPrinted": "BR 65906",
+     "desc": "SPRING - intake valve",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "30",
+     "partNo": "26828",
+     "partNoAsPrinted": "BR 26828",
+     "desc": "SPRING - exhaust valve",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "31",
+     "partNo": "260933",
+     "partNoAsPrinted": "BR 260933",
+     "desc": "TAPPET - valve",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "32",
+     "partNo": "210728",
+     "partNoAsPrinted": "BR 210728",
+     "desc": "GEAR - cam",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "33",
+     "partNo": "230759",
+     "partNoAsPrinted": "BR 230759",
+     "desc": "SHAFT - governor lever",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "34",
+     "partNo": "136-103",
+     "partNoAsPrinted": "136- 103",
+     "desc": "PIN - hair",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "35",
+     "partNo": "A27795",
+     "partNoAsPrinted": "A 27795",
+     "desc": "RETAINER",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "36",
+     "partNo": "221898",
+     "partNoAsPrinted": "BR 221898",
+     "desc": "BAFFLE - cylinder",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "37",
+     "partNo": "93163",
+     "partNoAsPrinted": "BR 93163",
+     "desc": "SCREW - baffle mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "38",
+     "partNo": "222117",
+     "partNoAsPrinted": "BR 222117",
+     "desc": "COVER - breaker points",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "39",
+     "partNo": "187-1041",
+     "partNoAsPrinted": "187- 1041",
+     "desc": "SCREW - sems",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "5",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "40",
+     "partNo": "299848",
+     "partNoAsPrinted": "BR 299848",
+     "desc": "BREATHER ASSEMBLY - crankcase",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "41",
+     "partNo": "280005",
+     "partNoAsPrinted": "BR 280005",
+     "desc": "TUBE - breather",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "42",
+     "partNo": "93536",
+     "partNoAsPrinted": "BR 93536",
+     "desc": "SCREW - sems",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "43",
+     "partNo": "211778",
+     "partNoAsPrinted": "BR 211778",
+     "desc": "HEAD - cylinder",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "44",
+     "partNo": "93210",
+     "partNoAsPrinted": "BR 93210",
+     "desc": "BOLT - cylinder head, 2-9/32\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "45",
+     "partNo": "93211",
+     "partNoAsPrinted": "BR 93211",
+     "desc": "BOLT - cylinder head, 2-21/32\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "46",
+     "partNo": "390180",
+     "partNoAsPrinted": "BR 390180",
+     "desc": "FLYWHEEL",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "47",
+     "partNo": "61760",
+     "partNoAsPrinted": "BR 61760",
+     "desc": "KEY - flywheel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "48",
+     "partNo": "220865",
+     "partNoAsPrinted": "BR 220865",
+     "desc": "WASHER - spring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "49",
+     "partNo": "221796",
+     "partNoAsPrinted": "BR 221796",
+     "desc": "SCREEN - flywheel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "50",
+     "partNo": "93042",
+     "partNoAsPrinted": "BR 93042",
+     "desc": "SCREW - sems",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "51",
+     "partNo": "211383",
+     "partNoAsPrinted": "BR 211383",
+     "desc": "HOUSING - screen mounting",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "52",
+     "partNo": "222277",
+     "partNoAsPrinted": "BR 222277",
+     "desc": "COVER - screen housing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "53",
+     "partNo": "260971",
+     "partNoAsPrinted": "BR 260971",
+     "desc": "LINK - governor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "54",
+     "partNo": "261129",
+     "partNoAsPrinted": "BR 261129",
+     "desc": "SPRING - governor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "55",
+     "partNo": "261117",
+     "partNoAsPrinted": "BR 261117",
+     "desc": "LINK - choke",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "56",
+     "partNo": "390662",
+     "partNoAsPrinted": "BR 390662",
+     "desc": "PLATE - governor control",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "57",
+     "partNo": "221559",
+     "partNoAsPrinted": "BR 221559",
+     "desc": "WASHER - governor lever",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "58",
+     "partNo": "93572",
+     "partNoAsPrinted": "BR 93572",
+     "desc": "SCREW - governor lever",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "59",
+     "partNo": "221535",
+     "partNoAsPrinted": "BR 221535",
+     "desc": "CLAMP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "60",
+     "partNo": "93496",
+     "partNoAsPrinted": "BR 93496",
+     "desc": "SCREW - sems",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "61",
+     "partNo": "298303",
+     "partNoAsPrinted": "BR 298303",
+     "desc": "LEVER ASSEMBLY - governor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "62",
+     "partNo": "220680",
+     "partNoAsPrinted": "BR 220680",
+     "desc": "WASHER - #10",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "63",
+     "partNo": "11-312",
+     "partNoAsPrinted": "11- 312",
+     "desc": "BOLT - #10 NC round head",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '11- 312' (index prints the same)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "64",
+     "partNo": "129-7",
+     "partNoAsPrinted": "129- 7",
+     "desc": "NUT - #10 NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "65",
+     "partNo": "221760",
+     "partNoAsPrinted": "BR 221760",
+     "desc": "GUIDE - air",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "66",
+     "partNo": "260584",
+     "partNoAsPrinted": "BR 260584",
+     "desc": "SPRING - governor link",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "67",
+     "partNo": "91920",
+     "partNoAsPrinted": "BR 91920",
+     "desc": "SCREW - #8 x 5/8\" flat head mach.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "68",
+     "partNo": "193-25",
+     "partNoAsPrinted": "193- 25",
+     "desc": "LOCKWASHER - #8 internal tooth",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "69",
+     "partNo": "66554",
+     "partNoAsPrinted": "BR 66554",
+     "desc": "COLLAR - insulating",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "70",
+     "partNo": "66068",
+     "partNoAsPrinted": "BR 66068",
+     "desc": "WASHER - insulating",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "71",
+     "partNo": "129-6",
+     "partNoAsPrinted": "129- 6",
+     "desc": "NUT - #8 NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "72",
+     "partNo": "299500",
+     "partNoAsPrinted": "BR 299500",
+     "desc": "WIRE - ground",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "73",
+     "partNo": "390918",
+     "partNoAsPrinted": "BR 390918",
+     "desc": "MUFFLER - exhaust",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "74",
+     "partNo": "221885",
+     "partNoAsPrinted": "BR 221885",
+     "desc": "SHIELD - heat",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "75",
+     "partNo": "222263",
+     "partNoAsPrinted": "BR 222263",
+     "desc": "LOCK - screw",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "76",
+     "partNo": "93704",
+     "partNoAsPrinted": "BR 93704",
+     "desc": "SCREW - muffler",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "77",
+     "partNo": "390693",
+     "partNoAsPrinted": "BR 390693",
+     "desc": "STATOR - alternator",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "78",
+     "partNo": "230976",
+     "partNoAsPrinted": "BR 230976",
+     "desc": "BUSHING - stator",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "79",
+     "partNo": "93621",
+     "partNoAsPrinted": "BR 93621",
+     "desc": "SCREW - stator mtg.",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "80",
+     "partNo": "222211",
+     "partNoAsPrinted": "BR 222211",
+     "desc": "BRACKET - fuse holder",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "81",
+     "partNo": "93536",
+     "partNoAsPrinted": "BR 93536",
+     "desc": "SCREW - bracket mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "82",
+     "partNo": "220680",
+     "partNoAsPrinted": "BR 220680",
+     "desc": "WASHER - bracket mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "83",
+     "partNo": "222212",
+     "partNoAsPrinted": "BR 222212",
+     "desc": "RETAINER - wire",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "84",
+     "partNo": "93438",
+     "partNoAsPrinted": "BR 93438",
+     "desc": "SCREW - retainer",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "7",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "85",
+     "partNo": "390892",
+     "partNoAsPrinted": "BR 390892",
+     "desc": "RECTIFIER - alternator",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "86",
+     "partNo": "93621",
+     "partNoAsPrinted": "BR 93621",
+     "desc": "SCREW - rectifier",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "87",
+     "partNo": "298968",
+     "partNoAsPrinted": "BR 298968",
+     "desc": "COIL ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "88",
+     "partNo": "93381",
+     "partNoAsPrinted": "BR 93381",
+     "desc": "SCREW - coil mtg.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "89",
+     "partNo": "221907",
+     "partNoAsPrinted": "BR 221907",
+     "desc": "CLIP - wire",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "90",
+     "partNo": "66538",
+     "partNoAsPrinted": "BR 66538",
+     "desc": "INSULATOR - spark plug",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "91",
+     "partNo": "M20677",
+     "partNoAsPrinted": "M 20677",
+     "desc": "SPARK PLUG",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "92",
+     "partNo": "299543",
+     "partNoAsPrinted": "BR 299543",
+     "desc": "GEAR - ring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "93",
+     "partNo": "390233",
+     "partNoAsPrinted": "BR 390233",
+     "desc": "SHIELD - starter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "94",
+     "partNo": "93410",
+     "partNoAsPrinted": "BR 93410",
+     "desc": "SCREW - shield mtg.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "95",
+     "partNo": "299392",
+     "partNoAsPrinted": "BR 299392",
+     "desc": "HOUSING - blower",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "96",
+     "partNo": "93158",
+     "partNoAsPrinted": "BR 93158",
+     "desc": "SCREW - blower housing mtg.",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "97",
+     "partNo": "221901",
+     "partNoAsPrinted": "BR 221901",
+     "desc": "BAFFLE - cylinder head",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "",
+     "partNo": "299577",
+     "partNoAsPrinted": "BR 299577",
+     "desc": "KIT - engine gasket (includes items 7, 13, 19 & 23)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "9",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number"
+     ],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "fuel_system",
+   "title": "FUEL SYSTEM",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "11",
+   "pdfPage": "6",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C15519",
+     "partNoAsPrinted": "C 15519",
+     "desc": "TANK - fuel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C15174",
+     "partNoAsPrinted": "C 15174",
+     "desc": "STRAP - tank",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "173-215",
+     "partNoAsPrinted": "173- 215",
+     "desc": "SCREW - round head mach. 1/4\" x 1-1/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "4",
+     "partNo": "129-504",
+     "partNoAsPrinted": "129- 504",
+     "desc": "NUT - 1/4\" sq.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "5",
+     "partNo": "C10657",
+     "partNoAsPrinted": "C 10657",
+     "desc": "ELBOW",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C15526",
+     "partNoAsPrinted": "C 15526",
+     "desc": "FUEL LINE - 18\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "214-103",
+     "partNoAsPrinted": "214- 103",
+     "desc": "CLAMP - hose",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "390811",
+     "partNoAsPrinted": "BR 390811",
+     "desc": "CARBURETOR - (repairs page 13)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "C18206",
+     "partNoAsPrinted": "C 18206",
+     "desc": "CONTROL - choke and throttle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "C15540",
+     "partNoAsPrinted": "C 15540",
+     "desc": "HANDLE - T",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "187-1047",
+     "partNoAsPrinted": "187- 1047",
+     "desc": "SCREW - self tapping Phillips head",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "390379",
+     "partNoAsPrinted": "BR 390379",
+     "desc": "CLEANER ASSEMBLY - air",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "13",
+     "partNo": "270528",
+     "partNoAsPrinted": "BR 270528",
+     "desc": "ELEMENT - air cleaner",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "14",
+     "partNo": "93622",
+     "partNoAsPrinted": "BR 93622",
+     "desc": "SCREW - air cleaner",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "93323",
+     "partNoAsPrinted": "BR 93323",
+     "desc": "SCREW - air cleaner",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "270539",
+     "partNoAsPrinted": "BR 270539",
+     "desc": "GASKET - air cleaner",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "17",
+     "partNo": "270538",
+     "partNoAsPrinted": "BR 270538",
+     "desc": "GASKET - carburetor mounting",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "18",
+     "partNo": "C11529",
+     "partNoAsPrinted": "C 11529",
+     "desc": "CAP - fuel (Includes insert)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "19",
+     "partNo": "C11545",
+     "partNoAsPrinted": "C 11545",
+     "desc": "INSERT - fuel cap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "11",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  },
+  {
+   "slug": "carburetor",
+   "title": "CARBURETOR",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "13",
+   "pdfPage": "7",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "93357",
+     "partNoAsPrinted": "BR 93357",
+     "desc": "SCREW - carburetor mtg.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "2",
+     "partNo": "41-24",
+     "partNoAsPrinted": "41- 24",
+     "desc": "PLUG - welch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "3",
+     "partNo": "27590",
+     "partNoAsPrinted": "BR 27590",
+     "desc": "FILTER - carburetor drain",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "220521",
+     "partNoAsPrinted": "BR 220521",
+     "desc": "RETAINER - carburetor drain filter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "5",
+     "partNo": "292681",
+     "partNoAsPrinted": "BR 292681",
+     "desc": "VALVE ASSEMBLY - carburetor idle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "26157",
+     "partNoAsPrinted": "BR 26157",
+     "desc": "SPRING - throttle adj.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "23108",
+     "partNoAsPrinted": "BR 23108",
+     "desc": "BUSHING - throttle shaft",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "93038",
+     "partNoAsPrinted": "BR 93038",
+     "desc": "SCREW - throttle and choke mtg.",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "91920",
+     "partNoAsPrinted": "BR 91920",
+     "desc": "SCREW - #8 x 5/8\" mach.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "10",
+     "partNo": "138-251",
+     "partNoAsPrinted": "138- 251",
+     "desc": "PIN - throttle stop",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "230896",
+     "partNoAsPrinted": "BR 230896",
+     "desc": "PIN - float hinge",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "12",
+     "partNo": "222010",
+     "partNoAsPrinted": "BR 222010",
+     "desc": "VALVE - choke",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "13",
+     "partNo": "299762",
+     "partNoAsPrinted": "BR 299762",
+     "desc": "VALVE ASSEMBLY - needle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "14",
+     "partNo": "270538",
+     "partNoAsPrinted": "BR 270538",
+     "desc": "GASKET - carburetor mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "15",
+     "partNo": "221986",
+     "partNoAsPrinted": "BR 221986",
+     "desc": "VALVE - throttle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "16",
+     "partNo": "299650",
+     "partNoAsPrinted": "BR 299650",
+     "desc": "SHAFT AND LEVER - throttle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "17",
+     "partNo": "211712",
+     "partNoAsPrinted": "BR 211712",
+     "desc": "STOP - throttle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "18",
+     "partNo": "299707",
+     "partNoAsPrinted": "BR 299707",
+     "desc": "FLOAT - carburetor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "19",
+     "partNo": "299096",
+     "partNoAsPrinted": "BR 299096",
+     "desc": "VALVE - fuel inlet assembly",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "20",
+     "partNo": "221995",
+     "partNoAsPrinted": "BR 221995",
+     "desc": "BOWL - float",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "21",
+     "partNo": "270511",
+     "partNoAsPrinted": "BR 270511",
+     "desc": "GASKET - float bowl",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "22",
+     "partNo": "222014",
+     "partNoAsPrinted": "BR 222014",
+     "desc": "WASHER - float bowl",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "23",
+     "partNo": "390684",
+     "partNoAsPrinted": "BR 390684",
+     "desc": "SHAFT AND LEVER - choke",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "24",
+     "partNo": "299740",
+     "partNoAsPrinted": "BR 299740",
+     "desc": "NOZZLE - carburetor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "25",
+     "partNo": "230932",
+     "partNoAsPrinted": "BR 230932",
+     "desc": "SCREW - nozzle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "26",
+     "partNo": "222027",
+     "partNoAsPrinted": "BR 222027",
+     "desc": "BRACKET - carburetor",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "27",
+     "partNo": "93572",
+     "partNoAsPrinted": "BR 93572",
+     "desc": "SCREW - bracket mtg.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "28",
+     "partNo": "270382",
+     "partNoAsPrinted": "BR 270382",
+     "desc": "WASHER - choke shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "29",
+     "partNo": "261116",
+     "partNoAsPrinted": "BR 261116",
+     "desc": "SPRING - choke return",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "30",
+     "partNo": "C10678",
+     "partNoAsPrinted": "C 10678",
+     "desc": "CONNECTOR - fuel pipe",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "31",
+     "partNo": "299852",
+     "partNoAsPrinted": "BR 299852",
+     "desc": "KIT - carburetor overhaul",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "engine_mounting_plate",
+   "title": "ENGINE MOUNTING PLATE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "13",
+   "pdfPage": "7",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19012",
+     "partNoAsPrinted": "C 19012",
+     "desc": "PLATE - engine mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "164-543",
+     "partNoAsPrinted": "164- 543",
+     "desc": "SCREW - cap hex socket head 5/16\" x 1-1/2\" NC",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "3",
+     "partNo": "C16752",
+     "partNoAsPrinted": "C 16752",
+     "desc": "WASHER - flat 5/16\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "5",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "6",
+     "partNo": "C19073",
+     "partNoAsPrinted": "C 19073",
+     "desc": "MOUNT - flex bolt",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "C19008",
+     "partNoAsPrinted": "C 19008",
+     "desc": "SPACER",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "131-1115",
+     "partNoAsPrinted": "131- 1115",
+     "desc": "LOCKNUT - 1/4\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "113-2",
+     "partNoAsPrinted": "113- 2",
+     "desc": "BOLT - 1/4\" x 5/8\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "192-19",
+     "partNoAsPrinted": "192- 19",
+     "desc": "LOCKWASHER - 1/4\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "195-102",
+     "partNoAsPrinted": "195- 102",
+     "desc": "WASHER - 1/4\" flat",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "113-3",
+     "partNoAsPrinted": "113- 3",
+     "desc": "BOLT - 1/4\" x 3/4\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "13",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "hood_frame_grille",
+   "title": "HOOD, FRAME AND GRILLE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "15",
+   "pdfPage": "8",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19020",
+     "partNoAsPrinted": "C 19020",
+     "desc": "FRAME - main",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C18670",
+     "partNoAsPrinted": "C 18670",
+     "desc": "HOOD AND GRILLE",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C18664",
+     "partNoAsPrinted": "C 18664",
+     "desc": "COVER - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C18661",
+     "partNoAsPrinted": "C 18661",
+     "desc": "HINGE - hood, L.H.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C18662",
+     "partNoAsPrinted": "C 18662",
+     "desc": "HINGE - hood, R.H.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: ref 4 used for both L.H. and R.H. hinge"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "6",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "113-207",
+     "partNoAsPrinted": "113- 207",
+     "desc": "BOLT - 3/8 x 1\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "192-21",
+     "partNoAsPrinted": "192- 21",
+     "desc": "LOCKWASHER - 3/8\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "129-103",
+     "partNoAsPrinted": "129- 103",
+     "desc": "NUT - 3/8\" NC hex",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "C18205",
+     "partNoAsPrinted": "C 18205",
+     "desc": "LINER - dash panel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "C19069",
+     "partNoAsPrinted": "C 19069",
+     "desc": "LANYARD - hood",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "113-4",
+     "partNoAsPrinted": "113- 4",
+     "desc": "BOLT - 1/4 x 1\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "14",
+     "partNo": "192-19",
+     "partNoAsPrinted": "192- 19",
+     "desc": "LOCKWASHER - 1/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "129-101",
+     "partNoAsPrinted": "129- 101",
+     "desc": "NUT - 1/4\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "C17038",
+     "partNoAsPrinted": "C 17038",
+     "desc": "BUMPER - rubber, hood",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "17",
+     "partNo": "C19117",
+     "partNoAsPrinted": "C 19117",
+     "desc": "TRAY - center",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "187-1036",
+     "partNoAsPrinted": "187- 1036",
+     "desc": "SCREW - 1/4 x 1/2\" self tapping",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "19",
+     "partNo": "C15116",
+     "partNoAsPrinted": "C 15116",
+     "desc": "DRAWBAR",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "20",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "WEIGHT BOX (optional, order as G14 machinery item)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "21",
+     "partNo": "113-206",
+     "partNoAsPrinted": "113- 206",
+     "desc": "BOLT - 3/8 x 3/4\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "353-406",
+     "partNoAsPrinted": "353- 406",
+     "desc": "PLUG - hole",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "15",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "seat_fenders",
+   "title": "SEAT AND FENDERS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "17",
+   "pdfPage": "9",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C16129",
+     "partNoAsPrinted": "C 16129",
+     "desc": "SEAT ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C15610",
+     "partNoAsPrinted": "C 15610",
+     "desc": "MOUNT - seat, rubber",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "113-122",
+     "partNoAsPrinted": "113- 122",
+     "desc": "BOLT - 5/16\" x 1-1/2\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "4",
+     "partNo": "C14534",
+     "partNoAsPrinted": "C 14534",
+     "desc": "BUMPER - seat, rubber",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C19118",
+     "partNoAsPrinted": "C 19118",
+     "desc": "BRACKET - hinge",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "113-102",
+     "partNoAsPrinted": "113- 102",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "C18702",
+     "partNoAsPrinted": "C 18702",
+     "desc": "FENDER AND SUPPORT",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "17",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  },
+  {
+   "slug": "steering_gear",
+   "title": "STEERING GEAR",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "19",
+   "pdfPage": "10",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C18016",
+     "partNoAsPrinted": "C 18016",
+     "desc": "CAP - steering",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "131-1113",
+     "partNoAsPrinted": "131- 1113",
+     "desc": "NUT - jam 5/8\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "3",
+     "partNo": "C18015",
+     "partNoAsPrinted": "C 18015",
+     "desc": "WHEEL - steering",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C15096",
+     "partNoAsPrinted": "C 15096",
+     "desc": "BUSHING - flanged nylon",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C15097",
+     "partNoAsPrinted": "C 15097",
+     "desc": "SHAFT - steering",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "126-16",
+     "partNoAsPrinted": "126- 16",
+     "desc": "KEY - Woodruff 3/16\" x 3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "C17106",
+     "partNoAsPrinted": "C 17106",
+     "desc": "BRACKET - steering",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "111-202",
+     "partNoAsPrinted": "111- 202",
+     "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck, ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex, ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "195-2069",
+     "partNoAsPrinted": "195- 2069",
+     "desc": "WASHER - 5/8\" plain, ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "C15104",
+     "partNoAsPrinted": "C 15104",
+     "desc": "GEAR - steering",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "C15105",
+     "partNoAsPrinted": "C 15105",
+     "desc": "PIVOT - steering gear",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "219-17",
+     "partNoAsPrinted": "219- 17",
+     "desc": "FITTING - lube",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex, ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\" plain, ZP",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "C14201",
+     "partNoAsPrinted": "C 14201",
+     "desc": "WASHER - shim",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "C12975",
+     "partNoAsPrinted": "C 12975",
+     "desc": "WASHER - 5/8\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "19",
+     "partNo": "C18017",
+     "partNoAsPrinted": "C 18017",
+     "desc": "CLIP - tinnerman",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "19",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  },
+  {
+   "slug": "front_axle",
+   "title": "FRONT AXLE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "21",
+   "pdfPage": "11",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C15066",
+     "partNoAsPrinted": "C 15066",
+     "desc": "AXLE - front",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C16946",
+     "partNoAsPrinted": "C 16946",
+     "desc": "SPINDLE - right hand",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C16724",
+     "partNoAsPrinted": "C 16724",
+     "desc": "SPINDLE - left hand",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "138-2055",
+     "partNoAsPrinted": "138- 2055",
+     "desc": "PIN - roll L.H. spindle 3/16\" x 1-1/2\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "5",
+     "partNo": "C11906",
+     "partNoAsPrinted": "C 11906",
+     "desc": "WASHER - thrust 13/16\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "219-404",
+     "partNoAsPrinted": "219- 404",
+     "desc": "FITTING - lube",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "C13106",
+     "partNoAsPrinted": "C 13106",
+     "desc": "COVER - lube fitting",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "C12975",
+     "partNoAsPrinted": "C 12975",
+     "desc": "WASHER - spindle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "9",
+     "partNo": "A30881",
+     "partNoAsPrinted": "A 30881",
+     "desc": "WASHER - wheel spacer",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "132-311",
+     "partNoAsPrinted": "132- 311",
+     "desc": "PIN - cotter 5/32\" x 1-1/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "C15067",
+     "partNoAsPrinted": "C 15067",
+     "desc": "ROD - tie and drag link",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "C15113",
+     "partNoAsPrinted": "C 15113",
+     "desc": "BALL JOINT - R.H. thread",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "C15068",
+     "partNoAsPrinted": "C 15068",
+     "desc": "BALL JOINT - L.H. thread",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "192-23",
+     "partNoAsPrinted": "192- 23",
+     "desc": "LOCKWASHER - 1/2\" ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "129-125",
+     "partNoAsPrinted": "129- 125",
+     "desc": "NUT - 1/2\" NF hex",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "129-325",
+     "partNoAsPrinted": "129- 325",
+     "desc": "NUT - 1/2\" NC hex, L.H. thread",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "C16948",
+     "partNoAsPrinted": "C 16948",
+     "desc": "ARM - upper spindle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "C18626",
+     "partNoAsPrinted": "C 18626",
+     "desc": "PIN - axle pivot",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "19",
+     "partNo": "131-1127",
+     "partNoAsPrinted": "131- 1127",
+     "desc": "NUT - jam 3/4\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "T33565",
+     "partNoAsPrinted": "T 33565",
+     "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "21",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "138-2040",
+     "partNoAsPrinted": "138- 2040",
+     "desc": "PIN - roll 1/4\" x 1-1/2\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "front_rear_wheels",
+   "title": "FRONT AND REAR WHEELS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "21",
+   "pdfPage": "11",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C15090",
+     "partNoAsPrinted": "C 15090",
+     "desc": "WHEEL - front (includes bearing)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C12110",
+     "partNoAsPrinted": "C 12110",
+     "desc": "BEARING - sealed, inner",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C12111",
+     "partNoAsPrinted": "C 12111",
+     "desc": "BEARING - outer",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "219-10",
+     "partNoAsPrinted": "219- 10",
+     "desc": "FITTING - lube",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "5",
+     "partNo": "C12370",
+     "partNoAsPrinted": "C 12370",
+     "desc": "CAP - hub",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C18644",
+     "partNoAsPrinted": "C 18644",
+     "desc": "WHEEL - rear",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "126-19",
+     "partNoAsPrinted": "126- 19",
+     "desc": "KEY - Woodruff",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "195-2027",
+     "partNoAsPrinted": "195- 2027",
+     "desc": "WASHER - 3/16 x 7/8\" plain, ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex, ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "195-545",
+     "partNoAsPrinted": "195- 545",
+     "desc": "WASHER - 3/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "A30881",
+     "partNoAsPrinted": "A 30881",
+     "desc": "WASHER, spacer",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "21",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  },
+  {
+   "slug": "belts_pulleys_idlers_early",
+   "title": "BELTS, PULLEYS AND IDLERS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": "USED PRIOR TO S/N 9670643",
+   "variantBasis": "serial",
+   "sourcePage": "23",
+   "pdfPage": "12",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19071",
+     "partNoAsPrinted": "C 19071",
+     "desc": "PULLEY - engine",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "T25070",
+     "partNoAsPrinted": "T 25070",
+     "desc": "KEY -",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "kept-as-printed: description is just \"KEY -\""
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "113-233",
+     "partNoAsPrinted": "113- 233",
+     "desc": "BOLT - 3/8\" x 1-3/4\" NC hex ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "4",
+     "partNo": "C17213",
+     "partNoAsPrinted": "C 17213",
+     "desc": "PULLEY - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C15672",
+     "partNoAsPrinted": "C 15672",
+     "desc": "PULLEY - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C19066",
+     "partNoAsPrinted": "C 19066",
+     "desc": "PULLEY - transaxle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "83-66",
+     "partNoAsPrinted": "83- 66",
+     "desc": "SETSCREW - 5/16\" x 3/8\" NC soc. head - cup point",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "126-13",
+     "partNoAsPrinted": "126- 13",
+     "desc": "KEY - Woodruff 3/16\" x 5/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex ZP (attaches rear keepers)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "C19035",
+     "partNoAsPrinted": "C 19035",
+     "desc": "KEEPER - belt L.H. rear",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "C19034",
+     "partNoAsPrinted": "C 19034",
+     "desc": "KEEPER - belt R.H. rear",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "13",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex ZP",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "14",
+     "partNo": "132-46",
+     "partNoAsPrinted": "132- 46",
+     "desc": "PIN - cotter 1/8\" x 3/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "C15677",
+     "partNoAsPrinted": "C 15677",
+     "desc": "SPRING - clutch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "16",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "ROD - clutch (order items 12, 13, 29, 30 and 31)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "NSS"
+     ]
+    },
+    {
+     "ref": "17",
+     "partNo": "C18634",
+     "partNoAsPrinted": "C 18634",
+     "desc": "BELT - traction drive",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "195-525",
+     "partNoAsPrinted": "195- 525",
+     "desc": "WASHER - 3/8\" plain ZP",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "19",
+     "partNo": "192-21",
+     "partNoAsPrinted": "192- 21",
+     "desc": "LOCKWASHER - 3/8\" ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "129-103",
+     "partNoAsPrinted": "129- 103",
+     "desc": "NUT - 3/8\" NC hex ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "C17203",
+     "partNoAsPrinted": "C 17203",
+     "desc": "SLEEVE - bearing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "22",
+     "partNo": "C18632",
+     "partNoAsPrinted": "C 18632",
+     "desc": "PIVOT PLATE - idler pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "23",
+     "partNo": "113-209",
+     "partNoAsPrinted": "113- 209",
+     "desc": "BOLT - 3/8\" x 1-1/2\" NC hex ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "C17164",
+     "partNoAsPrinted": "C 17164",
+     "desc": "KEEPER - belt idler pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "25",
+     "partNo": "C19033",
+     "partNoAsPrinted": "C 19033",
+     "desc": "KEEPER - belt engine pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "26",
+     "partNo": "113-102",
+     "partNoAsPrinted": "113- 102",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP (attaches front keepers)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\" plain ZP",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "178-858",
+     "partNoAsPrinted": "178- 858",
+     "desc": "SETSCREW",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "C21560",
+     "partNoAsPrinted": "C 21560",
+     "desc": "ROD - clutch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "30",
+     "partNo": "C21559",
+     "partNoAsPrinted": "C 21559",
+     "desc": "BALL JOINT",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "31",
+     "partNo": "129-122",
+     "partNoAsPrinted": "129- 122",
+     "desc": "NUT - 5/16\" NF hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "before 9670643",
+       "serialNote": "used prior to S/N 9670643",
+       "serialTo": "9670642"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    }
+   ],
+   "headingAsPrinted": "BELTS, PULLEYS AND IDLERS - USED PRIOR TO S/N 9670643",
+   "notes": [
+    "REQ'D column printed out of register; quantities mapped to rows in sequence (qty count equals row count)."
+   ]
+  },
+  {
+   "slug": "brake_assembly",
+   "title": "BRAKE ASSEMBLY",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "23",
+   "pdfPage": "12",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C18681",
+     "partNoAsPrinted": "C 18681",
+     "desc": "PEDAL ASSEMBLY - brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C19866",
+     "partNoAsPrinted": "C 19866",
+     "desc": "ROD - brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C18695",
+     "partNoAsPrinted": "C 18695",
+     "desc": "LATCH - brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "131-69",
+     "partNoAsPrinted": "131- 69",
+     "desc": "LOCKNUT - 5/16\" NC hex ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "5",
+     "partNo": "113-102",
+     "partNoAsPrinted": "113- 102",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "6",
+     "partNo": "C19103",
+     "partNoAsPrinted": "C 19103",
+     "desc": "BOLT - eye (on brake actuating arm on transaxle)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "131-176",
+     "partNoAsPrinted": "131- 176",
+     "desc": "NUT - 5/16\" lock NC hex ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "C15156",
+     "partNoAsPrinted": "C 15156",
+     "desc": "BRACKET - saddle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "9",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\" plain ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "132-26",
+     "partNoAsPrinted": "132- 26",
+     "desc": "PIN - cotter 3/32\" x 3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "C15498",
+     "partNoAsPrinted": "C 15498",
+     "desc": "PAD - footrest R.H. short",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "C15499",
+     "partNoAsPrinted": "C 15499",
+     "desc": "PAD - footrest L.H. long",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "195-541",
+     "partNoAsPrinted": "195- 541",
+     "desc": "WASHER - 5/8\" plain",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "14",
+     "partNo": "132-48",
+     "partNoAsPrinted": "132- 48",
+     "desc": "PIN - cotter 1/8\" x 1\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "138-92",
+     "partNoAsPrinted": "138- 92",
+     "desc": "PIN - roll 3/16\" x 3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "18",
+     "partNo": "L32763",
+     "partNoAsPrinted": "L 32763",
+     "desc": "SPRING - brake return",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    }
+   ],
+   "notes": [
+    "REQ'D column printed out of register; quantities mapped to rows in sequence (qty count equals row count)."
+   ]
+  },
+  {
+   "slug": "belts_pulleys_idlers_late",
+   "title": "BELTS, PULLEYS AND IDLERS",
+   "appliesTo": [
+    "108",
+    "118"
+   ],
+   "serialConstraint": "USED S/N 9670643 AND AFTER",
+   "variantBasis": "serial",
+   "sourcePage": "23A/23B",
+   "pdfPage": "13",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19071",
+     "partNoAsPrinted": "C 19071",
+     "desc": "PULLEY - engine",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "T25070",
+     "partNoAsPrinted": "T 25070",
+     "desc": "KEY -",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "kept-as-printed: description is just \"KEY -\""
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "113-233",
+     "partNoAsPrinted": "113- 233",
+     "desc": "BOLT - 3/8\" x 1-3/4\" NC hex ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "4",
+     "partNo": "C17213",
+     "partNoAsPrinted": "C 17213",
+     "desc": "PULLEY - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C15672",
+     "partNoAsPrinted": "C 15672",
+     "desc": "PULLEY - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C19066",
+     "partNoAsPrinted": "C 19066",
+     "desc": "PULLEY - transaxle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "BALL JOINT - (order items 12, 13, 31 and 32)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "NSS"
+     ]
+    },
+    {
+     "ref": "8",
+     "partNo": "126-13",
+     "partNoAsPrinted": "126- 13",
+     "desc": "KEY - Woodruff 3/16\" x 5/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex ZP (attaches rear keepers)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "C19035",
+     "partNoAsPrinted": "C 19035",
+     "desc": "KEEPER - belt L.H. rear",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "C19034",
+     "partNoAsPrinted": "C 19034",
+     "desc": "KEEPER - belt R.H. rear",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "13",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex ZP",
+     "qty": "5",
+     "qtyNum": 5,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "14",
+     "partNo": "132-46",
+     "partNoAsPrinted": "132- 46",
+     "desc": "PIN - cotter 1/8\" x 3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "C15677",
+     "partNoAsPrinted": "C 15677",
+     "desc": "SPRING - clutch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "16",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "ROD - clutch (order items 12, 13, 31 and 32)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "NSS"
+     ]
+    },
+    {
+     "ref": "17",
+     "partNo": "C18634",
+     "partNoAsPrinted": "C 18634",
+     "desc": "BELT - traction drive",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "195-525",
+     "partNoAsPrinted": "195- 525",
+     "desc": "WASHER - 3/8\" plain ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "19",
+     "partNo": "192-21",
+     "partNoAsPrinted": "192- 21",
+     "desc": "LOCKWASHER - 3/8\" ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "129-103",
+     "partNoAsPrinted": "129- 103",
+     "desc": "NUT - 3/8\" NC hex ZP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "A27801",
+     "partNoAsPrinted": "A 27801",
+     "desc": "SLEEVE - bearing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "22",
+     "partNo": "C20028",
+     "partNoAsPrinted": "C 20028",
+     "desc": "PIVOT PLATE - idler pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "23",
+     "partNo": "195-533",
+     "partNoAsPrinted": "195- 533",
+     "desc": "WASHER - 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "C17164",
+     "partNoAsPrinted": "C 17164",
+     "desc": "KEEPER - belt idler pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "25",
+     "partNo": "C19033",
+     "partNoAsPrinted": "C 19033",
+     "desc": "KEEPER - belt engine pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "26",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP (attaches front keepers)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty",
+      "kept-as-printed: 113-103 is listed elsewhere as 5/16 x 1 bolt (page 23 prints 113-102 for this 5/16 x 3/4 bolt); index also lists 113-103 at 23B/26"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\" plain ZP",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "178-858",
+     "partNoAsPrinted": "178- 858",
+     "desc": "SETSCREW - 5/16\" x 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "132-48",
+     "partNoAsPrinted": "132- 48",
+     "desc": "PIN - cotter 1/8\" x 1\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "129-122",
+     "partNoAsPrinted": "129- 122",
+     "desc": "NUT - 5/16\" NF hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "C21560",
+     "partNoAsPrinted": "C 21560",
+     "desc": "ROD - clutch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "32",
+     "partNo": "C21559",
+     "partNoAsPrinted": "C 21559",
+     "desc": "BALL JOINT",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "23B",
+     "variants": [
+      {
+       "basis": "serial",
+       "value": "9670643 and after",
+       "serialNote": "used S/N 9670643 and after",
+       "serialFrom": "9670643"
+      }
+     ],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    }
+   ],
+   "headingAsPrinted": "CASE MODEL 108 AND 118 COMPACT TRACTOR - BELTS, PULLEYS AND IDLERS - USED S/N 9670643 AND AFTER",
+   "notes": [
+    "REQ'D column printed out of register; quantities mapped to rows in sequence (qty count equals row count).",
+    "Printed page 23B is headed 'Case Model 108 and 118'; A1227 (118) has no copy of this page, so it is transcribed once here with appliesTo 108 and 118."
+   ]
+  },
+  {
+   "slug": "transmission_final_drive",
+   "title": "TRANSMISSION AND FINAL DRIVE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "25, 27",
+   "pdfPage": "14-15",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19297",
+     "partNoAsPrinted": "C 19297",
+     "desc": "CASE ASSEMBLY - transaxle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "A30586",
+     "partNoAsPrinted": "A 30586",
+     "desc": "BEARING - needle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C19299",
+     "partNoAsPrinted": "C 19299",
+     "desc": "BEARING - bronze",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C19301",
+     "partNoAsPrinted": "C 19301",
+     "desc": "BEARING - bronze",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C19302",
+     "partNoAsPrinted": "C 19302",
+     "desc": "PLATE ASSEMBLY - center",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C19300",
+     "partNoAsPrinted": "C 19300",
+     "desc": "BEARING - bronze",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "C19303",
+     "partNoAsPrinted": "C 19303",
+     "desc": "BEARING - bronze",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "C19304",
+     "partNoAsPrinted": "C 19304",
+     "desc": "COVER ASSEMBLY - transaxle (includes # 3 & 9)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "9",
+     "partNo": "C19305",
+     "partNoAsPrinted": "C 19305",
+     "desc": "BEARING - needle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "C19306",
+     "partNoAsPrinted": "C 19306",
+     "desc": "GEAR ASSEMBLY - differential",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "C21576",
+     "partNoAsPrinted": "C 21576",
+     "desc": "BEARING - bronze",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "C19307",
+     "partNoAsPrinted": "C 19307",
+     "desc": "AXLE - left hand",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "C19308",
+     "partNoAsPrinted": "C 19308",
+     "desc": "AXLE - right hand",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "C19309",
+     "partNoAsPrinted": "C 19309",
+     "desc": "GEAR - bevel",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "15",
+     "partNo": "C19310",
+     "partNoAsPrinted": "C 19310",
+     "desc": "PINION - bevel",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "16",
+     "partNo": "C19311",
+     "partNoAsPrinted": "C 19311",
+     "desc": "PIN - drive",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "17",
+     "partNo": "C19312",
+     "partNoAsPrinted": "C 19312",
+     "desc": "WASHER - thrust",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "C11205",
+     "partNoAsPrinted": "C 11205",
+     "desc": "WASHER - thrust",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "19",
+     "partNo": "A27521",
+     "partNoAsPrinted": "A 27521",
+     "desc": "RING - snap",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "20",
+     "partNo": "138-97",
+     "partNoAsPrinted": "138- 97",
+     "desc": "PIN - roll",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "C19315",
+     "partNoAsPrinted": "C 19315",
+     "desc": "SLEEVE ASSEMBLY - countershaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "22",
+     "partNo": "C19316",
+     "partNoAsPrinted": "C 19316",
+     "desc": "BEARING - bronze",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "23",
+     "partNo": "C19317",
+     "partNoAsPrinted": "C 19317",
+     "desc": "SHAFT - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "25",
+     "partNo": "C19318",
+     "partNoAsPrinted": "C 19318",
+     "desc": "ROD ASSEMBLY - shift (1st. & reverse)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "26",
+     "partNo": "C11167",
+     "partNoAsPrinted": "C 11167",
+     "desc": "FORK - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "27",
+     "partNo": "C19319",
+     "partNoAsPrinted": "C 19319",
+     "desc": "ROD - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "28",
+     "partNo": "C11166",
+     "partNoAsPrinted": "C 11166",
+     "desc": "SPRING",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "29",
+     "partNo": "211-5",
+     "partNoAsPrinted": "211- 5",
+     "desc": "BALL - steel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "A11538",
+     "partNoAsPrinted": "A 11538",
+     "desc": "RING - snap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "31",
+     "partNo": "C19320",
+     "partNoAsPrinted": "C 19320",
+     "desc": "ROD ASSEMBLY - shift (2nd & 3rd)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "",
+     "partNo": "C11167",
+     "partNoAsPrinted": "C 11167",
+     "desc": "FORK - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: unnumbered sub-item of ref 31"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "",
+     "partNo": "C11166",
+     "partNoAsPrinted": "C 11166",
+     "desc": "SPRING",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: unnumbered sub-item of ref 31"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "",
+     "partNo": "211-5",
+     "partNoAsPrinted": "211- 5",
+     "desc": "BALL - steel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: unnumbered sub-item of ref 31"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "",
+     "partNo": "A11538",
+     "partNoAsPrinted": "A 11538",
+     "desc": "RING - snap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: unnumbered sub-item of ref 31"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "32",
+     "partNo": "C19321",
+     "partNoAsPrinted": "C 19321",
+     "desc": "ROD - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "33",
+     "partNo": "C19322",
+     "partNoAsPrinted": "C 19322",
+     "desc": "LEVER AND HOUSING ASSEMBLY - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "34",
+     "partNo": "C15780",
+     "partNoAsPrinted": "C 15780",
+     "desc": "HOUSING - shift lever",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "35",
+     "partNo": "C11163",
+     "partNoAsPrinted": "C 11163",
+     "desc": "KEEPER - shift lever",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "36",
+     "partNo": "C18675",
+     "partNoAsPrinted": "C 18675",
+     "desc": "LEVER - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "37",
+     "partNo": "C11219",
+     "partNoAsPrinted": "C 11219",
+     "desc": "RING - snap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "38",
+     "partNo": "35012",
+     "partNoAsPrinted": "35012",
+     "desc": "RING - quad",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no prefix letter (table and index both print 35012)"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "39",
+     "partNo": "C19324",
+     "partNoAsPrinted": "C 19324",
+     "desc": "PIN - drive",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "40",
+     "partNo": "211-11",
+     "partNoAsPrinted": "211- 11",
+     "desc": "PLUG - 1/8\" pipe",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "41",
+     "partNo": "C19327",
+     "partNoAsPrinted": "C 19327",
+     "desc": "HOUSING ASSEMBLY - axle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "",
+     "partNo": "C19328",
+     "partNoAsPrinted": "C 19328",
+     "desc": "BEARING - needle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: unnumbered sub-item of ref 41"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "42",
+     "partNo": "C19326",
+     "partNoAsPrinted": "C 19326",
+     "desc": "HOUSING ASSEMBLY - axle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "43",
+     "partNo": "C19328",
+     "partNoAsPrinted": "C 19328",
+     "desc": "BEARING - needle",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "44",
+     "partNo": "C11191",
+     "partNoAsPrinted": "C 11191",
+     "desc": "GEAR - (16 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "45",
+     "partNo": "C19329",
+     "partNoAsPrinted": "C 19329",
+     "desc": "GEAR - bevel (33 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "46",
+     "partNo": "C19330",
+     "partNoAsPrinted": "C 19330",
+     "desc": "SHAFT - shifter & brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "47",
+     "partNo": "C19331",
+     "partNoAsPrinted": "C 19331",
+     "desc": "GEAR - shifting (2nd & 3rd)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "48",
+     "partNo": "C19332",
+     "partNoAsPrinted": "C 19332",
+     "desc": "GEAR - shifting (1st & reverse)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "49",
+     "partNo": "C19333",
+     "partNoAsPrinted": "C 19333",
+     "desc": "GEAR - spur, (12 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "50",
+     "partNo": "C19334",
+     "partNoAsPrinted": "C 19334",
+     "desc": "GEAR - countershaft drive (39 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "51",
+     "partNo": "C19335",
+     "partNoAsPrinted": "C 19335",
+     "desc": "GEAR - countershaft (34 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "25",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "52",
+     "partNo": "C19336",
+     "partNoAsPrinted": "C 19336",
+     "desc": "GEAR - countershaft (25 teeth)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "53",
+     "partNo": "C19337",
+     "partNoAsPrinted": "C 19337",
+     "desc": "KEY - countershaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "54",
+     "partNo": "C19338",
+     "partNoAsPrinted": "C 19338",
+     "desc": "IDLER - reverse",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "55",
+     "partNo": "C19339",
+     "partNoAsPrinted": "C 19339",
+     "desc": "SHAFT - reverse idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "56",
+     "partNo": "C19340",
+     "partNoAsPrinted": "C 19340",
+     "desc": "SPACER - reverse idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "57",
+     "partNo": "C19341",
+     "partNoAsPrinted": "C 19341",
+     "desc": "STOP - shifter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "58",
+     "partNo": "C19342",
+     "partNoAsPrinted": "C 19342",
+     "desc": "GASKET - case & cover",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "59",
+     "partNo": "C15794",
+     "partNoAsPrinted": "C 15794",
+     "desc": "GASKET - shift lever housing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "60",
+     "partNo": "C19343",
+     "partNoAsPrinted": "C 19343",
+     "desc": "BEARING - ball",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "63",
+     "partNo": "C19344",
+     "partNoAsPrinted": "C 19344",
+     "desc": "BEARING - thrust",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "64",
+     "partNo": "C19345",
+     "partNoAsPrinted": "C 19345",
+     "desc": "WASHER - thrust",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "65",
+     "partNo": "C19346",
+     "partNoAsPrinted": "C 19346",
+     "desc": "WASHER - thrust",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "66",
+     "partNo": "C19347",
+     "partNoAsPrinted": "C 19347",
+     "desc": "RING - snap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "67",
+     "partNo": "F53650",
+     "partNoAsPrinted": "F 53650",
+     "desc": "PIN - dowel",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "68",
+     "partNo": "C19348",
+     "partNoAsPrinted": "C 19348",
+     "desc": "SEAL - oil",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "69",
+     "partNo": "C16011",
+     "partNoAsPrinted": "C 16011",
+     "desc": "SEAL - oil",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "70",
+     "partNo": "C19349",
+     "partNoAsPrinted": "C 19349",
+     "desc": "SEAL - oil",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "71",
+     "partNo": "83-420",
+     "partNoAsPrinted": "83- 420",
+     "desc": "SCREW - socket head cap, 1/4\" x 1-1/4\"",
+     "qty": "10",
+     "qtyNum": 10,
+     "page": "27",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '83-' (as in the index)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "72",
+     "partNo": "83-412",
+     "partNoAsPrinted": "83- 412",
+     "desc": "SCREW - socket head cap 1/4\" x 3/4\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "27",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '83-' (as in the index)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "73",
+     "partNo": "13-520",
+     "partNoAsPrinted": "13- 520",
+     "desc": "SCREW - hex. head 5/16\" x 1\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "27",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '13-' (possibly 113-; index prints the same)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "74",
+     "partNo": "92-5",
+     "partNoAsPrinted": "92- 5",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "27",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '92- 5' (possibly 192-; index prints the same)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "75",
+     "partNo": "C19325",
+     "partNoAsPrinted": "C 19325",
+     "desc": "SHAFT & GEAR ASSEMBLY - input",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "76",
+     "partNo": "C19350",
+     "partNoAsPrinted": "C 19350",
+     "desc": "SHAFT - input",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "77",
+     "partNo": "C19351",
+     "partNoAsPrinted": "C 19351",
+     "desc": "PINION - input",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "78",
+     "partNo": "C19352",
+     "partNoAsPrinted": "C 19352",
+     "desc": "RING - retaining",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "79",
+     "partNo": "C19353",
+     "partNoAsPrinted": "C 19353",
+     "desc": "PAD - brake",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "80",
+     "partNo": "C19354",
+     "partNoAsPrinted": "C 19354",
+     "desc": "PLATE - brake pad",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "81",
+     "partNo": "C19355",
+     "partNoAsPrinted": "C 19355",
+     "desc": "HOLDER - brake pad",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "82",
+     "partNo": "C19356",
+     "partNoAsPrinted": "C 19356",
+     "desc": "LEVER - brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "83",
+     "partNo": "C19357",
+     "partNoAsPrinted": "C 19357",
+     "desc": "WASHER - flat",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "84",
+     "partNo": "C19358",
+     "partNoAsPrinted": "C 19358",
+     "desc": "LOCKNUT",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "85",
+     "partNo": "13-420",
+     "partNoAsPrinted": "13- 420",
+     "desc": "SCREW - hex head cap 1/4\" x 1-1/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: hardware code '13-' (possibly 113-; index prints the same)"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "86",
+     "partNo": "C19359",
+     "partNoAsPrinted": "C 19359",
+     "desc": "DISK - brake",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "87",
+     "partNo": "126-13",
+     "partNoAsPrinted": "126- 13",
+     "desc": "KEY - Woodruff # 61",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "88",
+     "partNo": "C15134",
+     "partNoAsPrinted": "C 15134",
+     "desc": "BOLT - \"U\" 5/16\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "89",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "90",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "91",
+     "partNo": "113-103",
+     "partNoAsPrinted": "113- 103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "92",
+     "partNo": "113-104",
+     "partNoAsPrinted": "113- 104",
+     "desc": "BOLT - 5/16\" x 1-1/4\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "93",
+     "partNo": "C15618",
+     "partNoAsPrinted": "C 15618",
+     "desc": "KNOB - shift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "27",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ],
+   "notes": [
+    "Refs 24, 61 and 62 are not printed in the table or the numerical index (kept as printed). Refs 1-51 on printed page 25, refs 52-93 on page 27."
+   ]
+  },
+  {
+   "slug": "pto_assembly",
+   "title": "ATTACHMENT DRIVE - POWER TAKE OFF (PTO) ASSEMBLY",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "29",
+   "pdfPage": "16",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C18621",
+     "partNoAsPrinted": "C 18621",
+     "desc": "HOUSING - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C15083",
+     "partNoAsPrinted": "C 15083",
+     "desc": "PULLEY - PTO bottom",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C20185",
+     "partNoAsPrinted": "C 20185",
+     "desc": "PULLEY ASSEMBLY - PTO top",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C10822",
+     "partNoAsPrinted": "C 10822",
+     "desc": "WASHER - plain",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "A18915",
+     "partNoAsPrinted": "A 18915",
+     "desc": "BEARING - PTO",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C15272",
+     "partNoAsPrinted": "C 15272",
+     "desc": "WASHER - bell",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "7",
+     "partNo": "113-206",
+     "partNoAsPrinted": "113- 206",
+     "desc": "BOLT - 3/8\" x 3/4\" NC hex, ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "192-21",
+     "partNoAsPrinted": "192- 21",
+     "desc": "LOCKWASHER - 3/8\" ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "195-104",
+     "partNoAsPrinted": "195- 104",
+     "desc": "WASHER - 3/8\" plain, ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "A30881",
+     "partNoAsPrinted": "A 30881",
+     "desc": "WASHER - spacer",
+     "qty": "UAR",
+     "qtyNum": null,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "113-213",
+     "partNoAsPrinted": "113- 213",
+     "desc": "BOLT - 3/8\" x 2-1/4\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "182-286",
+     "partNoAsPrinted": "182- 286",
+     "desc": "SCREW - pan head 3/8\" x 1-3/4\" NC",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "13",
+     "partNo": "C17108",
+     "partNoAsPrinted": "C 17108",
+     "desc": "SLEEVE - inner",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "C16714",
+     "partNoAsPrinted": "C 16714",
+     "desc": "BUSHING - bearing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "15",
+     "partNo": "C18716",
+     "partNoAsPrinted": "C 18716",
+     "desc": "SPRING - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "16",
+     "partNo": "131-179",
+     "partNoAsPrinted": "131- 179",
+     "desc": "NUT - lock 3/8\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "C15672",
+     "partNoAsPrinted": "C 15672",
+     "desc": "PULLEY - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "18",
+     "partNo": "C18608",
+     "partNoAsPrinted": "C 18608",
+     "desc": "ROD - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "19",
+     "partNo": "C19015",
+     "partNoAsPrinted": "C 19015",
+     "desc": "LEVER - engaging",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "20",
+     "partNo": "132-46",
+     "partNoAsPrinted": "132- 46",
+     "desc": "PIN - cotter 1/8\" x 3/4\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "C15527",
+     "partNoAsPrinted": "C 15527",
+     "desc": "SPACER",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "22",
+     "partNo": "175-415",
+     "partNoAsPrinted": "175- 415",
+     "desc": "SCREW - 5/16\" x 1\" truss head, ZP",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex, ZP",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "C19171",
+     "partNoAsPrinted": "C 19171",
+     "desc": "BELT - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "26",
+     "partNo": "C20189",
+     "partNoAsPrinted": "C 20189",
+     "desc": "KEEPER - belt",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "27",
+     "partNo": "113-102",
+     "partNoAsPrinted": "113- 102",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "C20475",
+     "partNoAsPrinted": "C 20475",
+     "desc": "BUSHING - nylon",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "30",
+     "partNo": "C15545",
+     "partNoAsPrinted": "C 15545",
+     "desc": "BRACKET - spring attaching",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "31",
+     "partNo": "129-103",
+     "partNoAsPrinted": "129- 103",
+     "desc": "NUT - 3/8\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "C18607",
+     "partNoAsPrinted": "C 18607",
+     "desc": "ARM - idler",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    }
+   ],
+   "notes": [
+    "REQ'D column printed out of register; quantities mapped to rows in sequence (qty count equals row count)."
+   ]
+  },
+  {
+   "slug": "implement_lift",
+   "title": "IMPLEMENT LIFT",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "29",
+   "pdfPage": "16",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C19044",
+     "partNoAsPrinted": "C 19044",
+     "desc": "LEVER - implement lift",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C19172",
+     "partNoAsPrinted": "C 19172",
+     "desc": "ROD - push",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C14525",
+     "partNoAsPrinted": "C 14525",
+     "desc": "BUTTON - thumb",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C15156",
+     "partNoAsPrinted": "C 15156",
+     "desc": "BRACKET - saddle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "113-102",
+     "partNoAsPrinted": "113- 102",
+     "desc": "BOLT - 5/16\" x 3/4\" NC hex, ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "6",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\" ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex, ZP",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "138-92",
+     "partNoAsPrinted": "138- 92",
+     "desc": "PIN - roll 3/16\" x 3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "C15564",
+     "partNoAsPrinted": "C 15564",
+     "desc": "SPRING",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "138-2054",
+     "partNoAsPrinted": "138- 2054",
+     "desc": "PIN - spirol 5/16\" x 1-3/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "195-521",
+     "partNoAsPrinted": "195- 521",
+     "desc": "WASHER - 5/16\" plain",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "29",
+     "variants": [],
+     "flags": [
+      "inferred qty"
+     ],
+     "source": "case-hardware"
+    }
+   ],
+   "notes": [
+    "REQ'D column printed out of register; quantities mapped to rows in sequence (qty count equals row count)."
+   ]
+  },
+  {
+   "slug": "electrical_system",
+   "title": "ELECTRICAL SYSTEM",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": "component",
+   "sourcePage": "31",
+   "pdfPage": "17",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C18197",
+     "partNoAsPrinted": "C 18197",
+     "desc": "BATTERY - 12 volt",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C18677",
+     "partNoAsPrinted": "C 18677",
+     "desc": "HARNESS - wire",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C14565",
+     "partNoAsPrinted": "C 14565",
+     "desc": "CABLE - battery positive (red 10-1/2\")",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C14566",
+     "partNoAsPrinted": "C 14566",
+     "desc": "CABLE - battery negative (black 12\")",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C17685",
+     "partNoAsPrinted": "C 17685",
+     "desc": "WIRE - battery negative to solenoid case",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "223-34",
+     "partNoAsPrinted": "223- 34",
+     "desc": "FUSE - 7.5 amp.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "C14553",
+     "partNoAsPrinted": "C 14553",
+     "desc": "SOLENOID - start",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "C18816",
+     "partNoAsPrinted": "C 18816",
+     "desc": "SWITCH - ignition, includes key",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "9",
+     "partNo": "C17763",
+     "partNoAsPrinted": "C 17763",
+     "desc": "KEY - ignition",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "C18203",
+     "partNoAsPrinted": "C 18203",
+     "desc": "WIRE - solenoid to PTO safety switch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "11",
+     "partNo": "C18185",
+     "partNoAsPrinted": "C 18185",
+     "desc": "WIRE - PTO safety switch to clutch switch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "12",
+     "partNo": "C18182",
+     "partNoAsPrinted": "C 18182",
+     "desc": "SWITCH - strip, PTO & clutch",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "13",
+     "partNo": "C15114",
+     "partNoAsPrinted": "C 15114",
+     "desc": "CLAMP - battery hold down",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "390307",
+     "partNoAsPrinted": "BR 390307",
+     "desc": "STARTER - engine, 12 volt (repairs page 33)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [
+      {
+       "basis": "component",
+       "value": "starter: Mitsubishi (BR390307, model MMD-SML)",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "alternative: one of four starters (ref 14)"
+     ],
+     "source": "briggs"
+    },
+    {
+     "ref": "14",
+     "partNo": "C22701",
+     "partNoAsPrinted": "C 22701",
+     "desc": "STARTER - engine, 12 volt (repairs page 33B)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [
+      {
+       "basis": "component",
+       "value": "starter: American Bosch",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "alternative: one of four starters (ref 14)"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "C22702",
+     "partNoAsPrinted": "C 22702",
+     "desc": "STARTER - engine, 12 volt (repairs page 33B)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [
+      {
+       "basis": "component",
+       "value": "starter: Mitsubishi (C22702)",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "alternative: one of four starters (ref 14)"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "14",
+     "partNo": "C22709",
+     "partNoAsPrinted": "C 22709",
+     "desc": "STARTER - engine, 12 volt (repairs page 35)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [
+      {
+       "basis": "component",
+       "value": "starter: Briggs",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "alternative: one of four starters (ref 14)"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "15",
+     "partNo": "C21634",
+     "partNoAsPrinted": "C 21634",
+     "desc": "HARNESS - wire",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  },
+  {
+   "slug": "breaker_contacts",
+   "title": "BREAKER CONTACTS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "31",
+   "pdfPage": "17",
+   "rows": [
+    {
+     "ref": "",
+     "partNo": "299061",
+     "partNoAsPrinted": "BR 299061",
+     "desc": "KIT - ignition",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number"
+     ],
+     "source": "briggs"
+    },
+    {
+     "ref": "1",
+     "partNo": "294628",
+     "partNoAsPrinted": "BR 294628",
+     "desc": "POINTS AND CONDENSER",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "2",
+     "partNo": "26018",
+     "partNoAsPrinted": "BR 26018",
+     "desc": "SPRING - breaker arm",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "260374",
+     "partNoAsPrinted": "BR 260374",
+     "desc": "SPRING - connector, condenser",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "65704",
+     "partNoAsPrinted": "BR 65704",
+     "desc": "PLUNGER - breaker point",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "5",
+     "partNo": "61760",
+     "partNoAsPrinted": "BR 61760",
+     "desc": "KEY - flywheel, zinc",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "93381",
+     "partNoAsPrinted": "BR 93381",
+     "desc": "SCREW - breaker arm mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "220477",
+     "partNoAsPrinted": "BR 220477",
+     "desc": "CLAMP - condenser mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "93042",
+     "partNoAsPrinted": "BR 93042",
+     "desc": "SCREW - condenser mtg.",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "222117",
+     "partNoAsPrinted": "BR 222117",
+     "desc": "COVER - breaker point",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "10",
+     "partNo": "187-1041",
+     "partNoAsPrinted": "187- 1041",
+     "desc": "SCREW - sems, cover",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "31",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "electrical_hardware",
+   "title": "ELECTRICAL SYSTEM HARDWARE",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "33",
+   "pdfPage": "18",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C14060",
+     "partNoAsPrinted": "C 14060",
+     "desc": "NUT - back up",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C17426",
+     "partNoAsPrinted": "C 17426",
+     "desc": "WASHER - ignition switch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C17921",
+     "partNoAsPrinted": "C 17921",
+     "desc": "NUT - escutcheon",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C10836",
+     "partNoAsPrinted": "C 10836",
+     "desc": "NUT - speed",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "193-70",
+     "partNoAsPrinted": "193- 70",
+     "desc": "LOCKWASHER - #10 external tooth",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "6",
+     "partNo": "187-484",
+     "partNoAsPrinted": "187- 484",
+     "desc": "SCREW - #10 x 1/2\" self tapping hex.",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "C18204",
+     "partNoAsPrinted": "C 18204",
+     "desc": "SCREW - #10 x 1/4\" binder hd., nylon",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "8",
+     "partNo": "195-513",
+     "partNoAsPrinted": "195- 513",
+     "desc": "WASHER - #10",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "C15704",
+     "partNoAsPrinted": "C 15704",
+     "desc": "NUT - #10 NC hex, nylon",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "10",
+     "partNo": "129-642",
+     "partNoAsPrinted": "129- 642",
+     "desc": "NUT - #10 acorn",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "11",
+     "partNo": "111-202",
+     "partNoAsPrinted": "111- 202",
+     "desc": "BOLT - 5/16 x 3/4\" rd. hd. sq. neck",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "129-102",
+     "partNoAsPrinted": "129- 102",
+     "desc": "NUT - 5/16\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "13",
+     "partNo": "111-108",
+     "partNoAsPrinted": "111- 108",
+     "desc": "BOLT - 1/4 x 3/4\" rd. hd. sq. neck",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "14",
+     "partNo": "129-101",
+     "partNoAsPrinted": "129- 101",
+     "desc": "NUT - 1/4\" NC hex",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "15",
+     "partNo": "129-122",
+     "partNoAsPrinted": "129- 122",
+     "desc": "NUT - 5/16\" NF hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "192-20",
+     "partNoAsPrinted": "192- 20",
+     "desc": "LOCKWASHER - 5/16\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "192-18",
+     "partNoAsPrinted": "192- 18",
+     "desc": "LOCKWASHER - 3/16\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "18",
+     "partNo": "129-27",
+     "partNoAsPrinted": "129- 27",
+     "desc": "NUT - #10 hex",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "19",
+     "partNo": "C10472",
+     "partNoAsPrinted": "C 10472",
+     "desc": "CLIP - wire holder",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "20",
+     "partNo": "C19246",
+     "partNoAsPrinted": "C 19246",
+     "desc": "HOLDER - strip switch",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "21",
+     "partNo": "182-523",
+     "partNoAsPrinted": "182- 523",
+     "desc": "SCREW - #10 x 7/8\" pan head",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "C19254",
+     "partNoAsPrinted": "C 19254",
+     "desc": "WASHER - 13/64\" nylon",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "23",
+     "partNo": "129-77",
+     "partNoAsPrinted": "129- 77",
+     "desc": "NUT - #10 square",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "starter_mitsubishi_br390307",
+   "title": "BR390307 STARTER - MITSUBISHI",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "33",
+   "pdfPage": "18",
+   "rows": [
+    {
+     "ref": "",
+     "partNo": "390307",
+     "partNoAsPrinted": "BR 390307",
+     "desc": "MOTOR - starting, 12 volt Mitsubishi (model MMD - SML",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number",
+      "kept-as-printed: closing parenthesis missing after model"
+     ],
+     "source": "briggs"
+    },
+    {
+     "ref": "1",
+     "partNo": "299963",
+     "partNoAsPrinted": "BR 299963",
+     "desc": "DRIVE ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "2",
+     "partNo": "390454",
+     "partNoAsPrinted": "BR 390454",
+     "desc": "CAP ASSEMBLY - drive end (includes bearing & bracket)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "390456",
+     "partNoAsPrinted": "BR 390456",
+     "desc": "ARMATURE ASSEMBLY - (includes washers)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "390452",
+     "partNoAsPrinted": "BR 390452",
+     "desc": "HOUSING - starter (includes field coils)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "5",
+     "partNo": "390455",
+     "partNoAsPrinted": "BR 390455",
+     "desc": "CAP ASSEMBLY - commutator end (includes bushing, brushes, and springs)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "299962",
+     "partNoAsPrinted": "BR 299962",
+     "desc": "BOLT - thru (includes nuts and lockwashers)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "390990",
+     "partNoAsPrinted": "BR 390990",
+     "desc": "BRUSH ASSEMBLY",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "starter_american_bosch",
+   "title": "STARTER MOTOR - AMERICAN BOSCH",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "33A/33B",
+   "pdfPage": "19",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C22701",
+     "partNoAsPrinted": "C 22701",
+     "desc": "MOTOR - starting 12 volt, Bosch Model 01965-23-MO-30-SM",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "391471",
+     "partNoAsPrinted": "BR 391471",
+     "desc": "DRIVE ASSEMBLY - starter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "390444",
+     "partNoAsPrinted": "BR 390444",
+     "desc": "END CAP ASSEMBLY - drive end, Bosch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "WASHER - thrust, (retain old washer for service)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "5",
+     "partNo": "391607",
+     "partNoAsPrinted": "BR 391607",
+     "desc": "ARMATURE - starter, Bosch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "390447",
+     "partNoAsPrinted": "BR 390447",
+     "desc": "HOUSING - starter, Bosch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "390449",
+     "partNoAsPrinted": "BR 390449",
+     "desc": "BRUSH ASSEMBLY - Bosch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "390448",
+     "partNoAsPrinted": "BR 390448",
+     "desc": "END CAP ASSEMBLY - com. end, Bosch",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "390450",
+     "partNoAsPrinted": "BR 390450",
+     "desc": "BOLT - thru, Bosch (includes washer)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "starter_mitsubishi",
+   "title": "STARTER MOTOR - MITSUBISHI",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "33A/33B",
+   "pdfPage": "19",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C22702",
+     "partNoAsPrinted": "C 22702",
+     "desc": "MOTOR - starting 12 volt, Mitsubishi Model MOOIT02271",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "391461",
+     "partNoAsPrinted": "BR 391461",
+     "desc": "DRIVE ASSEMBLY - starter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "391585",
+     "partNoAsPrinted": "BR 391585",
+     "desc": "END CAP ASSEMBLY - drive end, Mitsubishi",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "WASHER - thrust (retain old washers for service)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33B",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "5",
+     "partNo": "391584",
+     "partNoAsPrinted": "BR 391584",
+     "desc": "ARMATURE - starter, Mitsubishi",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "390452",
+     "partNoAsPrinted": "BR 390452",
+     "desc": "HOUSING - starter, Mitsubishi",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "390990",
+     "partNoAsPrinted": "BR 390990",
+     "desc": "BRUSH ASSEMBLY - Mitsubishi",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "390455",
+     "partNoAsPrinted": "BR 390455",
+     "desc": "END CAP ASSEMBLY - com. end (includes brush set)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "SPACER - starter (retain old spacer for service)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "33B",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "10",
+     "partNo": "93771",
+     "partNoAsPrinted": "BR 93771",
+     "desc": "BOLT - thru, Mitsubishi",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "33B",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "starter_briggs",
+   "title": "STARTER MOTOR - BRIGGS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "35",
+   "pdfPage": "20",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C22709",
+     "partNoAsPrinted": "C 22709",
+     "desc": "MOTOR - starting 12 volt, Briggs",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "391461",
+     "partNoAsPrinted": "BR 391461",
+     "desc": "DRIVE ASSEMBLY - starter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "3",
+     "partNo": "390825",
+     "partNoAsPrinted": "BR 390825",
+     "desc": "END CAP ASSEMBLY - starter (includes items 4 and 9)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "4",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "WASHER - thrust (see item 3 or 8)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "5",
+     "partNo": "390837",
+     "partNoAsPrinted": "BR 390837",
+     "desc": "ARMATURE - starter, Briggs",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "6",
+     "partNo": "390849",
+     "partNoAsPrinted": "BR 390849",
+     "desc": "HOUSING - starter, Briggs",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "7",
+     "partNo": "391705",
+     "partNoAsPrinted": "BR 391705",
+     "desc": "BRUSH ASSEMBLY - starter",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "8",
+     "partNo": "390846",
+     "partNoAsPrinted": "BR 390846",
+     "desc": "END CAP ASSEMBLY - com. end (includes Brush Set)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    },
+    {
+     "ref": "9",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "SPACER - (see item 3 or 8)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "10",
+     "partNo": "391706",
+     "partNoAsPrinted": "BR 391706",
+     "desc": "BOLT ASSEMBLY - thru (includes washer)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "briggs"
+    }
+   ]
+  },
+  {
+   "slug": "decals",
+   "title": "DECALS",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "35",
+   "pdfPage": "20",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "321-2472",
+     "partNoAsPrinted": "321- 2472",
+     "desc": "DECAL (R.H.)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "321-2473",
+     "partNoAsPrinted": "321- 2473",
+     "desc": "DECAL (L.H.)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "3",
+     "partNo": "321-2476",
+     "partNoAsPrinted": "321- 2476",
+     "desc": "DECAL - instrument panel",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "4",
+     "partNo": "C18186",
+     "partNoAsPrinted": "C 18186",
+     "desc": "DECAL - PTO",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C15658",
+     "partNoAsPrinted": "C 15658",
+     "desc": "DECAL - brake lock",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "321-2487",
+     "partNoAsPrinted": "321- 2487",
+     "desc": "DECAL - caution",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "35",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "head_lamp_kit",
+   "title": "HEAD LAMP KIT (OPTIONAL)",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "37",
+   "pdfPage": "21",
+   "rows": [
+    {
+     "ref": "",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "KIT - head lamp (order as J6 machinery item)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [
+      "NSS",
+      "kept-as-printed: no ref number"
+     ]
+    },
+    {
+     "ref": "1",
+     "partNo": "C14302",
+     "partNoAsPrinted": "C 14302",
+     "desc": "HEAD LAMP",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "2",
+     "partNo": "C14537",
+     "partNoAsPrinted": "C 14537",
+     "desc": "CONNECTOR - head lamp",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "C19177",
+     "partNoAsPrinted": "C 19177",
+     "desc": "HARNESS - wire",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "4",
+     "partNo": "C19222",
+     "partNoAsPrinted": "C 19222",
+     "desc": "SWITCH - headlight",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "",
+     "partNo": "321-2484",
+     "partNoAsPrinted": "321- 2484",
+     "desc": "DECAL - lights",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number"
+     ],
+     "source": "case-hardware"
+    }
+   ]
+  },
+  {
+   "slug": "head_lamp",
+   "title": "HEAD LAMP",
+   "appliesTo": [
+    "108"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "37",
+   "pdfPage": "21",
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "131-629",
+     "partNoAsPrinted": "131- 629",
+     "desc": "NUT - speed",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "187-1047",
+     "partNoAsPrinted": "187- 1047",
+     "desc": "SCREW - #8 x 1/2\" round head, Phillips, self-tapping",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case-hardware"
+    },
+    {
+     "ref": "",
+     "partNo": "C14302",
+     "partNoAsPrinted": "C 14302",
+     "desc": "HEAD LAMP ASSEMBLY",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "37",
+     "variants": [],
+     "flags": [
+      "kept-as-printed: no ref number"
+     ],
+     "source": "case"
+    },
+    {
+     "ref": "3",
+     "partNo": "NSS",
+     "partNoAsPrinted": "NSS",
+     "desc": "RECEPTACLE - head lamp (order C14302)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [
+      "NSS"
+     ]
+    },
+    {
+     "ref": "4",
+     "partNo": "C14305",
+     "partNoAsPrinted": "C 14305",
+     "desc": "BULB - head lamp",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "5",
+     "partNo": "C14304",
+     "partNoAsPrinted": "C 14304",
+     "desc": "GASKET - head lamp",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    },
+    {
+     "ref": "6",
+     "partNo": "C14303",
+     "partNoAsPrinted": "C 14303",
+     "desc": "LENS - head lamp",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "37",
+     "variants": [],
+     "flags": [],
+     "source": "case"
+    }
+   ]
+  }
+ ],
+ "validation": {
+  "date": "2026-11-04",
+  "method": "Scan (no text layer): tables read by eye from 200-dpi strips, tesseract only as a draft.",
+  "rows": 580,
+  "sections": 25,
+  "refContinuity": "All sections continuous except transmission_final_drive: refs 24, 61, 62 not printed (index agrees). Hood ref 4 printed twice (L.H./R.H. hinge). 7 unnumbered rows kept (engine gasket kit, breaker ignition kit, BR390307 motor, head lamp kit + decal, head lamp assembly) plus 5 unnumbered transmission sub-items (4 under ref 31, 1 under ref 41).",
+  "quantities": "All rows have a qty; 7 rows are UAR. REQ'D printed out of register on printed pages 23, 23B and 29 (belts x2, brake, PTO, implement lift): mapped in sequence, counts equal, flagged 'inferred qty'. Transmission ref 71 qty is 10 (zoom-checked).",
+  "numericalIndex": "569 index entries (part, page, ref) compared row by row against the transcription, both directions: all match after one fix (fuel ref 9 is C18206, first read as 16206). Index oddities: '120- 102' printed for 129-102 (17/8); A27795 and 187-484 out of sort order.",
+  "partNoForms": "Briggs BR numbers stored bare (390640), Case letter prefixes closed up (C19012, A27795, T25070, M20677, L32763, F53650), hardware codes stored 'NNN-NNNN' (221-13). Printed form kept in partNoAsPrinted."
+ }
+}

@@ -1,0 +1,13 @@
+# A1227 (Case 118) — transcription issues
+
+531 rows, 25 sections, schema lookup-v1.1. Not a bundle; full coverage.
+
+1. **No serial breaks (plan issue 34): confirmed by eye** on all 18 table spreads. The belts page (printed p23, May 1975) is headed for the 118 only and has no S/N note. A1226's 23A/23B ("108 and 118", S/N 9670643 and after) stays in A1226 (issue 33); the A1227 belts section has a note pointing to it.
+2. **Index omission:** BR 93704 (engine ref 76, SCREW - muffler, p7) is in the table but not in the numerical index. Kept. All other 518 index entries match both ways. Also, 261129 is printed before 261117 in the index (out of sort order).
+3. **Bosch starter ref 2 (p33B):** A1227 prints **BR 391461**. I rechecked it at 400 dpi, and A1227's index also lists 391461 at 33B/2 with no 391471 entry. A1226 prints **391471** on its Bosch page (confirmed by Steve). The two books differ here; each file keeps its own book's number.
+4. **Electrical ref 14 now has four starters.** The book prints three (BR390307, C22701, C22702). Briggs **C22709** was added by user decision, because its repair page (p35) is in the book. The added row is flagged and carries page 35.
+5. **REQ'D out of register** on printed pp23 (belts, brake), 27 (differential) and 29 (PTO, implement lift). Quantities were mapped in sequence (the counts match) and 131 rows are flagged `inferred qty`.
+6. **Kept as printed and flagged:** "SCACER" (engine mounting ref 7), "BEEAING" (differential ref 16), "SCREW - -/4" x 1/2"" (hood ref 18), "113 103" (front axle 22) and "129 102" (implement lift 7) printed without a hyphen (stored hyphenated, and the index prints them hyphenated), truncated codes `11- 312`, `13- 436`, `92- 4` (the index prints the same), and missing parentheses on two descriptions.
+7. **Unnumbered rows (9):** engine gasket kit, the hood L.H. hinge clip (under ref 4), 2 differential sub-items with no part number (stored NSS), the breaker ignition kit, the BR390307 motor, the head lamp kit and its lights decal, and the head lamp assembly.
+8. **Shared engine pages vs A1226:** part numbers and quantities are identical on the engine, fuel, carburetor, mounting plate, breaker, implement lift, head lamp and Mitsubishi/Briggs starter sections. Only the wording differs in places (e.g. "PLUG - pipe, oil drain", "GASKET - oil pan 1/64""), and A1227's own wording is kept. The hood, steering, wheels, brake, PTO, electrical and decal sections differ from the 108's, as expected.
+9. **Model entry:** "118 hydraulic drive" (decal text) is a book alias, with driveType `hydraulic`. TractorData attachments were added, all with source `tractordata` and verified = false: 34" mid-mount deck (J41), 38" blade (G51) and 32" snowblower (J81).
