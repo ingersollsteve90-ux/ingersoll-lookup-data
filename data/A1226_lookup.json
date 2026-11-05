@@ -58,6 +58,32 @@
      "serialMeaning": "Case 7-digit (96xxxxx)"
     }
    ],
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "34\"",
+     "attachmentModel": null,
+     "catalogId": null,
+     "source": "tractordata",
+     "verified": false
+    },
+    {
+     "kind": "snowblower",
+     "size": null,
+     "attachmentModel": null,
+     "catalogId": null,
+     "source": "tractordata",
+     "verified": false
+    },
+    {
+     "kind": "blade",
+     "size": null,
+     "attachmentModel": null,
+     "catalogId": null,
+     "source": "tractordata",
+     "verified": false
+    }
+   ],
    "relations": [
     {
      "type": "sharesPagesWith",
