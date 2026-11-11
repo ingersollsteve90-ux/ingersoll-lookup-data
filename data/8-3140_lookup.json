@@ -993,7 +993,7 @@
     },
     {
      "ref": "23",
-     "partNo": "C34262",
+     "partNo": "C34367",
      "partNoAsPrinted": "C 34262",
      "desc": "GASKET - valve cover",
      "qty": "2",
@@ -1001,7 +1001,7 @@
      "page": "7",
      "variants": [],
      "flags": [
-      "index differs: lists C34367 at 7/23; Gasket Sets ref 16 also prints C34367 for 'GASKET - valve cover', and C34262 is the lock nut on the next row - probable table misprint, kept as printed"
+      "corrected (user confirmed 2026-11-11): the table prints C 34262, a misprint (C34262 is the lock nut on the next row); partNo stored as C34367, which the numerical index (7/23) and Gasket Sets ref 16 give for 'GASKET - valve cover'. Printed number kept in partNoAsPrinted."
      ],
      "source": "case"
     },
@@ -2436,7 +2436,8 @@
    ],
    "notes": [
     "REF column printed one row low: the table prints no number beside CARBURETOR and 1-47 beside BODY ... SCREW - clamp. The numerical index (C34392 = 11/1 ... C34292 = 11/48) and the table's own gasket-kit note ('includes Ref. 5, 23, 28 and 30' = the four seal/gasket rows) use the numbering one higher, so refs are stored as 1-48 and each row is flagged with the number printed beside it.",
-    "Handwritten pen marks on the scan beside refs 5-9 (no text)."
+    "Handwritten pen marks on the scan beside refs 5-9 (no text).",
+    "User confirmed 2026-11-11: keep refs 1-48 (ref 1 CARBURETOR is the whole carburetor)."
    ]
   },
   {
@@ -3026,7 +3027,7 @@
     },
     {
      "ref": "18",
-     "partNo": "C34279",
+     "partNo": "C34379",
      "partNoAsPrinted": "C 34279",
      "desc": "VALVE OVERHAUL GASKET KIT - includes Ref. 2, 10, 16, 19, 20",
      "qty": "1",
@@ -3034,7 +3035,7 @@
      "page": "17",
      "variants": [],
      "flags": [
-      "index differs: lists C34379 at 17/18; C34279 is a screw on pages 13 and 15 - probable table misprint, kept as printed"
+      "corrected (user confirmed 2026-11-11): the table prints C 34279, a misprint (C34279 is a screw on pages 13 and 15); partNo stored as C34379, as the numerical index lists at 17/18. Printed number kept in partNoAsPrinted."
      ],
      "source": "case"
     },
@@ -8500,7 +8501,8 @@
     }
    ],
    "notes": [
-    "Footnote: '* is included with snowblower and 44\" mower.' (refs 32-36)."
+    "Footnote: '* is included with snowblower and 44\" mower.' (refs 32-36).",
+    "User confirmed 2026-11-11: refs 32-36 stay stored as optional parts tied to the snowblower and 44\" mower (component variant)."
    ]
   },
   {
@@ -9341,7 +9343,8 @@
   "sections": 35,
   "refContinuity": "All sections continuous except: hood ref 23, electrical system ref 14 and electrical hardware ref 13 are not printed (index agrees). Carburetor REF column printed one row low: stored as 1-48 to match the index and the gasket-kit note, printed number kept in each row's flags. Repeated refs kept as printed (pistons 12 x4, ring sets 13 x4, valve covers 22 x2, push rods 26 x2, choke/throttle control 1 x2, foot rests 16 x2, transaxle washers 26 x3, electrical hardware 10 x2, hood decals 1 x2). 10 unnumbered rows kept (2 carburetor kits, starter, hydrostatic transmission, seal kit, oil reservoir, transaxle assembly, input assembly, C28962 wire clip, headlight assembly).",
   "quantities": "Every row has a qty; 13 rows are UAR. No REQ'D column is out of register. Engine block ref 22 C34369 (R.H. valve cover) prints qty 2 (kept, flagged).",
-  "numericalIndex": "630 index entries (printed pages 52-55) against 645 indexable rows (NSS rows and the paint and oil page are not indexed). 618 agree exactly. 10 rows where the index gives a different part number or ref for the same position (7/10, 7/23, 11/36, 17/18, 23/32, 25/4, 33/18, 35/9, 37/23, 39/5): table kept, each flagged. 17 table rows are not indexed (ignition 10-12, oil filter 15-16, PTO 46, brake 34, electrical 13 starter, C34369, gasket sets 2-8 and 10). 2 index entries have no table row (C34229 at 7/38, C34196 at 7/22). The index prints 13- 624 / 13- 628 as 013-. The pattern suggests the index was typed from an earlier draft of the tables.",
-  "partNoForms": "Ingersoll C numbers closed up (C34371); Briggs BR numbers stored bare (221798, 221535); hardware codes 'NNN-NNNN' (113-103, 138-2071, 321-6659, 353-454); 13-624 and 13-628 kept as printed (flagged). 49 NSS rows stored as NSS with source null. Starred lift-system rows stored without the asterisk (kept in partNoAsPrinted)."
+  "numericalIndex": "630 index entries (printed pages 52-55) against 645 indexable rows (NSS rows and the paint and oil page are not indexed). 618 agree exactly as printed, and 620 after the two user-confirmed corrections (7/23 C34367 and 17/18 C34379, 2026-11-11). 8 rows where the index gives a different part number or ref for the same position (7/10, 11/36, 23/32, 25/4, 33/18, 35/9, 37/23, 39/5): table kept, each flagged. 17 table rows are not indexed (ignition 10-12, oil filter 15-16, PTO 46, brake 34, electrical 13 starter, C34369, gasket sets 2-8 and 10). 2 index entries have no table row (C34229 at 7/38, C34196 at 7/22). The index prints 13- 624 / 13- 628 as 013-. The pattern suggests the index was typed from an earlier draft of the tables.",
+  "partNoForms": "Ingersoll C numbers closed up (C34371); Briggs BR numbers stored bare (221798, 221535); hardware codes 'NNN-NNNN' (113-103, 138-2071, 321-6659, 353-454); 13-624 and 13-628 kept as printed (flagged). 49 NSS rows stored as NSS with source null. Starred lift-system rows stored without the asterisk (kept in partNoAsPrinted).",
+  "userDecisions": "2026-11-11: (1) carburetor refs stay 1-48; (2) page 7 ref 23 and page 17 ref 18 are misprints, partNo corrected to C34367 and C34379 (printed numbers kept in partNoAsPrinted); (3) lift-system starred rows stay optional parts tied to the snowblower and 44\" mower."
  }
 }

@@ -9,23 +9,22 @@
 - **Attachments:** TractorData has no 114H page. The only attachments named in the book are in the Lift System footnote ("* is included with snowblower and 44" mower"), so the model lists a 44" mid-mount deck and a snowblower with `source: book`.
 - **Paint and oil** (unnumbered page, PDF p3) stored as two sections, as in 8-3100.
 
-## Needs your decision
-1. **Carburetor refs (page 11).** The REF column is printed one row low: no number beside CARBURETOR, then 1 to 47 beside BODY through SCREW - clamp. The numerical index (C34392 = ref 1 ... C34292 = ref 48) and the table's own note "KIT - carburetor gaskets (includes Ref. 5, 23, 28 and 30)" both use the numbering one higher. I stored refs 1 to 48 and put the printed number in each row's flags. Say so if you would rather keep the printed 1 to 47.
-2. **Two probable part-number misprints in the tables** (stored as printed, flagged):
-   - Page 7 ref 23 GASKET - valve cover prints **C 34262**, the same number as ref 24 NUT - lock. The index and Gasket Sets ref 16 give **C34367**.
-   - Page 17 ref 18 VALVE OVERHAUL GASKET KIT prints **C 34279**, which is a screw on pages 13 and 15. The index gives **C34379**.
-   If you can confirm C34367 and C34379, I would change `partNo` and keep the printed number in `partNoAsPrinted`.
-3. **Lift System starred rows (refs 32 to 36).** Stored with a `component` variant "snowblower and 44" mower". The footnote does not say whether the tractor also has these parts without an attachment.
+## Decided by the user (2026-11-11)
+1. **Carburetor refs (page 11): keep 1 to 48.** The REF column is printed one row low: no number beside CARBURETOR, then 1 to 47 beside BODY through SCREW - clamp. The numerical index (C34392 = ref 1 ... C34292 = ref 48) and the table's own note "KIT - carburetor gaskets (includes Ref. 5, 23, 28 and 30)" both use the numbering one higher. Ref 1 CARBURETOR is the whole carburetor. The number printed beside each row is kept in that row's flags.
+2. **Two table misprints, corrected.** The printed number stays in `partNoAsPrinted` and each row is flagged.
+   - Page 7 ref 23 GASKET - valve cover prints C 34262 (the lock nut on the next row). Stored as **C34367**, which the index and Gasket Sets ref 16 give.
+   - Page 17 ref 18 VALVE OVERHAUL GASKET KIT prints C 34279 (a screw on pages 13 and 15). Stored as **C34379**, which the index gives.
+3. **Lift System starred rows (refs 32 to 36)** stay stored as optional parts tied to the snowblower and 44" mower (`component` variant).
 
 ## Table versus numerical index (table kept, each row flagged)
 The index looks like it was typed from an earlier draft of the tables.
 
+The two misprints above (7/23 and 17/18) also differed from the index; with the corrections they now agree.
+
 | Page/ref | Table prints | Index prints |
 |---|---|---|
 | 7/10 | C 34229 RETAINER - valve | C34279 at 7/10, and C34229 at 7/38 (the table ends at ref 37) |
-| 7/23 | C 34262 | C34367 |
 | 11/36 | C 34232 MANIFOLD - intake | C34323 (the governor shaft washer on page 9; probable index typo) |
-| 17/18 | C 34279 | C34379 |
 | 23/32 | 113- 233 | 113- 209 |
 | 25/4 | C 36892 HOOD | C34007 |
 | 33/18 | 129- 102 | 131- 176 |
@@ -36,7 +35,7 @@ The index looks like it was typed from an earlier draft of the tables.
 - **Rows not in the index (17):** ignition refs 10 to 12 (C34306, C34292, C34293), oil filter refs 15 and 16 (C34260, C34264), PTO ref 46 (C29243), brake ref 34 (192-20), electrical ref 13 (C34284 starter), C34369 R.H. valve cover, and Gasket Sets refs 2 to 8 and 10.
 - **Index entries with no table row (2):** C34229 at 7/38 and C34196 at 7/22 (probably meant 17/2).
 - The index prints `13- 624` and `13- 628` with a leading zero (`013-`); stored as printed in the table.
-- Count check: 630 index entries, 645 indexable rows; 618 agree exactly.
+- Count check: 630 index entries, 645 indexable rows; 618 agree exactly as printed, 620 after the two corrections.
 
 ## Kept as printed and flagged
 - Refs not printed (index agrees): hood 23, electrical system 14, electrical hardware 13.
