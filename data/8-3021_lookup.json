@@ -185,7 +185,35 @@
      "serialMeaning": "Ingersoll 8-digit (141xxxxx)"
     }
    ],
-   "attachments": [],
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "42\"",
+     "attachmentModel": "P42",
+     "catalogId": null,
+     "source": "user",
+     "verified": false,
+     "note": "TractorData has no 1016 page; same list as the 1012/1014 by user decision 2026-11-11"
+    },
+    {
+     "kind": "blade",
+     "size": "38\"",
+     "attachmentModel": "M52",
+     "catalogId": null,
+     "source": "user",
+     "verified": false,
+     "note": "TractorData has no 1016 page; same list as the 1012/1014 by user decision 2026-11-11"
+    },
+    {
+     "kind": "snowblower",
+     "size": "38\"",
+     "attachmentModel": "T82",
+     "catalogId": null,
+     "source": "user",
+     "verified": false,
+     "note": "TractorData has no 1016 page; same list as the 1012/1014 by user decision 2026-11-11"
+    }
+   ],
    "relations": [
     {
      "type": "relabeledAs",
@@ -6631,7 +6659,7 @@
    "pdfPage": "15",
    "headingAsPrinted": "SEAT AND FENDERS - Use before PIN: 1012-14103745 1014-14105556",
    "notes": [
-    "The heading prints only the 1012 and 1014 lines; the 1016 line is missing. The facing \"Use PIN and after\" page (31) prints 1016-14116701, so the 1016 variant here is stored as before 14116701 with inferred: true.",
+    "The heading prints only the 1012 and 1014 lines; the 1016 line is missing. The facing \"Use PIN and after\" page (31) prints 1016-14116701, so the 1016 variant here is stored as before 14116701 with inferred: true. Confirmed by the user 2026-11-11.",
     "Footnote as printed: \"*Use C31031, C31005, C16429, C31004, C30785 and hardware\" (ref 1 NSS)."
    ],
    "rows": [
@@ -9360,12 +9388,12 @@
      "partNo": "C19311",
      "partNoAsPrinted": "C 19311",
      "desc": "PIN - drive",
-     "qty": "11",
-     "qtyNum": 11,
+     "qty": "1",
+     "qtyNum": 1,
      "page": "41",
      "variants": [],
      "flags": [
-      "kept-as-printed: REQ'D prints \"11\" (checked at 4x zoom; probably a double-struck 1)",
+      "kept-as-printed: REQ'D prints \"11\"; stored as 1 (user decision 2026-11-11: typo)",
       "inferred qty"
      ],
      "source": "case"
@@ -13420,7 +13448,7 @@
    "pdfPage": "30",
    "headingAsPrinted": "ELECTRICAL SYSTEM - Use PIN and after: 1012-14103745 1014-14105556 1016-14116701",
    "notes": [
-    "Ref 1 harness rows carry their own 1014 break as printed: C31443 for 1014 S/N 14105564 and after (1016 all); C31036 is printed \"(1014, 1016)\" with no serial note."
+    "Ref 1 harness rows carry their own 1014 break as printed: C31443 for 1014 S/N 14105564 and after (1016 all); C31036 is printed \"(1014, 1016)\" with no serial note. User decision 2026-11-11: C31443 covers all 1016, so C31036 on this page is stored for the 1014 only."
    ],
    "rows": [
     {
@@ -13490,10 +13518,9 @@
      "variants": [
       {
        "basis": "model",
-       "value": "1014, 1016",
+       "value": "1014",
        "models": [
-        "1014",
-        "1016"
+        "1014"
        ]
       },
       {
@@ -13508,7 +13535,7 @@
      ],
      "flags": [
       "kept-as-printed: 1014 harness break printed S/N 14105564 (section heading 14105556)",
-      "kept-as-printed: row prints \"(1014, 1016)\" with no serial note although the C31443 row says \"1016 all\"; 8-3100 prints this row as \"(114B before PIN 14105564)\". The 1014 window is inferred; no 1016 window can be derived"
+      "kept-as-printed: row prints \"(1014, 1016)\" with no serial note. User decision 2026-11-11: C31443 (the row above) is the harness for every 1016, so this row is stored for the 1014 only, 14105556 to 14105563 (inferred window; 8-3100 prints \"(114B before PIN 14105564)\")"
      ],
      "source": "case"
     },
@@ -14894,8 +14921,9 @@
   "rows": 926,
   "sections": 44,
   "refContinuity": "Refs not printed (as in 8-3100): carburetor 1014/1016 ref 9; blower housing refs 4 and 20; hood ref 23; electrical hardware ref 13 (the index lists none of these). 16 unnumbered rows kept and flagged: gasket set/kit rows (pp5, 7), C28030 fuel-line insulation, carburetor overhaul kits and both carburetor assemblies (pp13, 15), C30589 differential assembly, C30888/C30889 housing assemblies, C30580 and C30585 pinion assemblies (pp41, 43), C27418 starting motor (p55), C28962 clip and C22571 headlight assembly (p61). Paint and oil restarts at 1 for the OIL list.",
-  "quantities": "Every row has a qty except the p7 gasket kit C27335 and carburetor 1012 ref 7 (pin, float hinge): none printed. UAR on 10 rows. Differential ref 4 (PIN - drive) prints '11' (kept as printed, flagged; probably 1). REQ'D printed about half a row low on printed pages 33, 41, 45, 47, 49, 51, 53 and 61 (steering, differential, gear-case brake, travel control, drive belts, spindle and drive disc, neutral cam, input shaft, drive chain, both traction-arm tables, electrical hardware, headlight): mapped in sequence, counts equal in every table, 219 rows flagged 'inferred qty'.",
+  "quantities": "Every row has a qty except the p7 gasket kit C27335 and carburetor 1012 ref 7 (pin, float hinge): none printed. UAR on 10 rows. Differential ref 4 (PIN - drive) prints '11': stored as 1 by user decision 2026-11-11 (typo), printed value kept in the flag. REQ'D printed about half a row low on printed pages 33, 41, 45, 47, 49, 51, 53 and 61 (steering, differential, gear-case brake, travel control, drive belts, spindle and drive disc, neutral cam, input shaft, drive chain, both traction-arm tables, electrical hardware, headlight): mapped in sequence, counts equal in every table, 219 rows flagged 'inferred qty'.",
   "numericalIndex": "894 index entries (part, page, ref; hardware printed with a leading zero, e.g. 011- 312) compared in sort order, both directions: every transcribed row except the 22 NSS rows and the 10 paint and oil rows is in the index with the same page and ref, and the index has no entry that is not in the transcription. The index agrees with the table on every doubtful reading: BR 27352 (9/3), 111- 102 (25/24), 111- 202 (33/4), C27370 (21/19), C25742 (13/13), C29314 (27/1), 132- 311 (35/24), C18814 (7/49), 187-1047 (7/38). Unlike 8-3100, the Headlight and Rear Reflector table is indexed. C30507 (engine mount kit footnote) is not indexed.",
-  "partNoForms": "Briggs BR numbers stored bare (391406), Case C numbers closed up (C30843), hardware codes stored 'NNN-NNNN' (187-1508) without the index's leading zero; footnote marks (*, **) dropped from partNo and kept in partNoAsPrinted. Doubtful hardware prefixes kept as printed and flagged: 11-312, 13-624, 13-628, 14-712, 83-520. 'BR 27352' is stored 27352 with source briggs as printed (8-3100 prints C 27352). NSS rows store partNo NSS with the 'use ...' text in desc."
+  "partNoForms": "Briggs BR numbers stored bare (391406), Case C numbers closed up (C30843), hardware codes stored 'NNN-NNNN' (187-1508) without the index's leading zero; footnote marks (*, **) dropped from partNo and kept in partNoAsPrinted. Doubtful hardware prefixes kept as printed and flagged: 11-312, 13-624, 13-628, 14-712, 83-520. 'BR 27352' is stored 27352 with source briggs as printed (8-3100 prints C 27352). NSS rows store partNo NSS with the 'use ...' text in desc.",
+  "userDecisions": "2026-11-11: (1) 1016 on the seat and fenders before-PIN page confirmed as before 14116701 (inferred); (2) harness C31036 on the after-PIN page stored for the 1014 only, because C31443 is the harness for all 1016; (3) differential ref 4 qty 11 is a typo, stored as 1; (4) the 1016 gets the same attachment list as the 1012/1014 (source user)."
  }
 }

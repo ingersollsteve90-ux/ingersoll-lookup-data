@@ -1,4 +1,4 @@
-# 8-3021 issues list (lookup-only transcription, 2026-11-11)
+# 8-3021 issues list (lookup-only transcription, 2026-11-11; revised the same day with the user's four decisions)
 
 Ingersoll Compact Tractors 1012, 1014, 1016, Parts Catalog 8-3021 (6-88-RP-400-385, replaces 8-3020). 44 sections, 926 rows, schema `lookup-v1.1`.
 
@@ -9,13 +9,15 @@ Ingersoll Compact Tractors 1012, 1014, 1016, Parts Catalog 8-3021 (6-88-RP-400-3
 - **Numerical index:** 894 entries compared in sort order, both directions. Everything matches. The index also confirms every doubtful reading below.
 - **Ref continuity and quantities:** see the `validation` block in the JSON.
 
-## Needs your decision
-1. **Seat and fenders "Use before PIN" page (p29) omits the 1016 line.** It prints only 1012-14103745 and 1014-14105556. The facing "PIN and after" page prints 1016-14116701, so I stored the 1016 as "before 14116701" with `inferred: true` (same idea as the B1193 unlabelled-sibling rule). Confirm or tell me to leave the 1016 off that page.
-2. **Harness C31036 on the "PIN and after" electrical page (p59)** is printed "(1014, 1016)" with no serial, while the row above says C31443 is for "1014 S/N 14105564 and after (1016 all)". 8-3100 prints the same row as "114B before PIN 14105564". I stored a 1014 window of 14105556 to 14105563 as inferred and gave the 1016 no window. Confirm.
-3. **1014 break printed three ways** (same as 8-3100, issue 8): 14105556 on the seat and electrical headings, 14105564 on the PTO footnote and harness row, 14105555 on the decal and headlight footnotes. Registry value kept at 14105556; each row keeps its own printed value.
-4. **Decal breaks differ from the main break:** decals use S/N 14103738 (1012) and 14105555 (1014), "1016-all". Stored as printed on the decal rows only.
-5. **Differential ref 4 (C19311 PIN - drive) prints a quantity of "11".** Checked at 4x zoom; it looks like a double-struck 1. Stored as printed (11) and flagged. Say if you want it changed to 1.
-6. **TractorData attachments** (42" P42 deck, 38" M52 blade, 38" T82 snowblower) added to the 1012 and 1014 only. TractorData has no 1016 page, so the 1016 has none. Say if the 1016 should get the same list.
+## Decided by the user (2026-11-11)
+1. **Seat and fenders "Use before PIN" page (p29) omits the 1016 line.** Confirmed: the 1016 is stored as "before 14116701" with `inferred: true`, taken from the facing "PIN and after" page.
+2. **Harness C31036 on the "PIN and after" electrical page (p59)** is printed "(1014, 1016)" with no serial. Decided: C31443 (the row above, "1016 all") is the harness for every 1016, so C31036 on this page is stored for the 1014 only, 14105556 to 14105563 (inferred window).
+3. **Differential ref 4 (C19311 PIN - drive) prints a quantity of "11".** Decided: typo, stored as 1 (the printed value is kept in the row flag).
+4. **Attachments on the 1016.** Decided: the 1016 gets the same list as the 1012 and 1014 (42" P42 deck, 38" M52 blade, 38" T82 snowblower), stored with `source: user` because TractorData has no 1016 page.
+
+## Still as printed (no decision needed unless you want a change)
+- **1014 break printed three ways** (same as 8-3100, issue 8): 14105556 on the seat and electrical headings, 14105564 on the PTO footnote and harness row, 14105555 on the decal and headlight footnotes. Registry value kept at 14105556; each row keeps its own printed value.
+- **Decal breaks differ from the main break:** decals use S/N 14103738 (1012) and 14105555 (1014), "1016-all". Stored as printed on the decal rows only.
 
 ## Kept as printed and flagged
 - **BR 27352** (flywheel ref 3, 1014/1016 spring washer): table and index both print BR; 8-3100 prints C 27352. Stored as 27352, source briggs. Worth a store check under both forms.
