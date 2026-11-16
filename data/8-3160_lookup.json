@@ -62,7 +62,14 @@
      "attachmentModel": "39SD",
      "catalogId": "8-3160",
      "source": "book",
-     "verified": true
+     "verified": true,
+     "note": "Side discharge (user, 2026-11-16). TractorData also lists a 39\" mid-mount mower deck for the 1112."
+    },
+    {
+     "kind": "blade",
+     "source": "tractordata",
+     "verified": false,
+     "note": "TractorData lists a blade for the 1112 with no size or model given (https://www.tractordata.com/lawn-tractors/000/7/5/755-ingersoll-1112.html)."
     }
    ],
    "relations": [
@@ -2262,13 +2269,13 @@
      "ref": "25",
      "partNo": "C35241",
      "partNoAsPrinted": "C35241",
-     "desc": "UIDE, BELT 5/16-18THD",
+     "desc": "GUIDE, BELT 5/16-18THD",
      "qty": "1",
      "qtyNum": 1,
      "page": "11",
      "variants": [],
      "flags": [
-      "kept-as-printed: description prints \"UIDE, BELT\" (GUIDE)"
+      "\"UIDE, BELT\" corrected to GUIDE, BELT (typo corrected 2026-11-16, user)"
      ],
      "source": "case"
     },
@@ -3712,13 +3719,13 @@
      "ref": "21",
      "partNo": "C34794",
      "partNoAsPrinted": "C34794",
-     "desc": "SCREW, 1//4-20X.50 WAHHTAP",
+     "desc": "SCREW, 1/4-20X.50 WAHHTAP",
      "qty": "2",
      "qtyNum": 2,
      "page": "17",
      "variants": [],
      "flags": [
-      "kept-as-printed: description prints \"1//4-20X.50\""
+      "\"1//4-20X.50\" corrected to 1/4-20X.50 (typo corrected 2026-11-16, user)"
      ],
      "source": "case"
     },
@@ -3726,13 +3733,13 @@
      "ref": "22",
      "partNo": "C35100",
      "partNoAsPrinted": "C35100",
-     "desc": "SCREW,1/4-10X:75 PHPNTAP",
+     "desc": "SCREW,1/4-10X.75 PHPNTAP",
      "qty": "2",
      "qtyNum": 2,
      "page": "17",
      "variants": [],
      "flags": [
-      "kept-as-printed: description prints \"1/4-10X:75\""
+      "\"1/4-10X:75\" corrected to 1/4-10X.75 (typo corrected 2026-11-16, user)"
      ],
      "source": "case"
     },
@@ -5503,7 +5510,7 @@
      "page": "25",
      "variants": [],
      "flags": [
-      "kept-as-printed: part number prints C36472; the numerical index lists C35472 at 25/7 (table kept, index differs)"
+      "corrected by user 2026-11-16: table prints C36472, correct number is C35472 (index agrees); stored C35472"
      ],
      "source": "case"
     },
@@ -5583,13 +5590,13 @@
      "ref": "14",
      "partNo": "C35563",
      "partNoAsPrinted": "C35563",
-     "desc": "DECAL, MODEL INGERSOIL",
+     "desc": "DECAL, MODEL INGERSOLL",
      "qty": "1",
      "qtyNum": 1,
      "page": "25",
      "variants": [],
      "flags": [
-      "kept-as-printed: description prints \"INGERSOIL\""
+      "\"INGERSOIL\" corrected to INGERSOLL (typo corrected 2026-11-16, user)"
      ],
      "source": "case"
     },
@@ -7259,7 +7266,7 @@
      "page": "31",
      "variants": [],
      "flags": [
-      "index vs table: the numerical index prints C33370 at 31/35 (a second C33370 line, ref 3 is the head); table prints C33377 (zoom-checked), stored as printed in the table"
+      "confirmed by user 2026-11-16: C33377 (COVER - CYLINDER HEAD) as printed in the table; the numerical index prints C33370 at 31/35 (index typo, table kept)"
      ],
      "source": "case"
     },
