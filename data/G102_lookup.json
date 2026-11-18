@@ -1,0 +1,6907 @@
+{
+ "schemaVersion": "lookup-v1.1",
+ "catalog": {
+  "id": "G102",
+  "title": "Grazer Parts Lists: 52\", 62\", 72\" Mower Decks (as used on G3100CD thru G4210CD) and EM52, EM62, EM72 Estate Mowers",
+  "brandAliases": [
+   "Grazer",
+   "Ingersoll"
+  ],
+  "editionDate": null,
+  "editionAsPrinted": null,
+  "supersedes": [],
+  "sourcePdf": "G102.pdf",
+  "textLayer": false,
+  "books": [
+   {
+    "id": "G102-decks",
+    "title": "52\", 62\", 72\" Mower Decks (as used on G3100CD thru G4210CD, liquid cooled mowers) Parts List",
+    "pages": "PDF 1-5 (binder page codes A3-A10)"
+   },
+   {
+    "id": "G102-em",
+    "title": "EM52, EM62, EM72 Estate Mowers Parts List",
+    "pages": "PDF 6-13 (binder page codes B4-B14, C1-C2)"
+   }
+  ],
+  "coverage": "full",
+  "missingSections": [],
+  "structure": "13-page scan, landscape spreads. Book 1: PDF p1 cover and contents, p2 decals (A3) and Peerless gearbox (A4), p3-5 deck parts and deck drive for 52\", 62\", 72\" (A5-A10, drive table in the right half of each spread). Book 2: PDF p6 cover and contents, p7-12 deck and carriage per EM size (B4-B14), p13 IID drive shaft (C1) and gear box (C2). Undated; Grazer Division, Ingersoll Equipment Company, Winneconne WI."
+ },
+ "models": [
+  {
+   "id": "G3100CD",
+   "name": "G3100CD",
+   "ref": true,
+   "note": "Edition lives in the live G108 catalog (G3100CD, G3200C, G4200CD, G3210C and G4210CD are the G108 family of Grazer zero turn mowers). G102 book 1 is printed 'as used on G3100CD thru G4210CD' (cover); no per-model or per-size split is printed, so the 52\", 62\" and 72\" decks are attached to all five.",
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "52\"",
+     "model": "DECK52",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "62\"",
+     "model": "DECK62",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "72\"",
+     "model": "DECK72",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    }
+   ]
+  },
+  {
+   "id": "G3200C",
+   "name": "G3200C",
+   "ref": true,
+   "note": "Edition lives in the live G108 catalog (G3100CD, G3200C, G4200CD, G3210C and G4210CD are the G108 family of Grazer zero turn mowers). G102 book 1 is printed 'as used on G3100CD thru G4210CD' (cover); no per-model or per-size split is printed, so the 52\", 62\" and 72\" decks are attached to all five.",
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "52\"",
+     "model": "DECK52",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "62\"",
+     "model": "DECK62",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "72\"",
+     "model": "DECK72",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    }
+   ]
+  },
+  {
+   "id": "G4200CD",
+   "name": "G4200CD",
+   "ref": true,
+   "note": "Edition lives in the live G108 catalog (G3100CD, G3200C, G4200CD, G3210C and G4210CD are the G108 family of Grazer zero turn mowers). G102 book 1 is printed 'as used on G3100CD thru G4210CD' (cover); no per-model or per-size split is printed, so the 52\", 62\" and 72\" decks are attached to all five.",
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "52\"",
+     "model": "DECK52",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "62\"",
+     "model": "DECK62",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "72\"",
+     "model": "DECK72",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    }
+   ]
+  },
+  {
+   "id": "G3210C",
+   "name": "G3210C",
+   "ref": true,
+   "note": "Edition lives in the live G108 catalog (G3100CD, G3200C, G4200CD, G3210C and G4210CD are the G108 family of Grazer zero turn mowers). G102 book 1 is printed 'as used on G3100CD thru G4210CD' (cover); no per-model or per-size split is printed, so the 52\", 62\" and 72\" decks are attached to all five.",
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "52\"",
+     "model": "DECK52",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "62\"",
+     "model": "DECK62",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "72\"",
+     "model": "DECK72",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    }
+   ]
+  },
+  {
+   "id": "G4210CD",
+   "name": "G4210CD",
+   "ref": true,
+   "note": "Edition lives in the live G108 catalog (G3100CD, G3200C, G4200CD, G3210C and G4210CD are the G108 family of Grazer zero turn mowers). G102 book 1 is printed 'as used on G3100CD thru G4210CD' (cover); no per-model or per-size split is printed, so the 52\", 62\" and 72\" decks are attached to all five.",
+   "attachments": [
+    {
+     "kind": "mid-mount deck",
+     "size": "52\"",
+     "model": "DECK52",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "62\"",
+     "model": "DECK62",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    },
+    {
+     "kind": "mid-mount deck",
+     "size": "72\"",
+     "model": "DECK72",
+     "catalogId": "G102",
+     "source": "book",
+     "verified": true,
+     "note": "Book prints 'as used on G3100CD thru G4210CD'; deck mount type is not printed (kind chosen by the user 2026-11-18)."
+    }
+   ]
+  },
+  {
+   "id": "DECK52",
+   "name": "52\" Deck",
+   "aliases": [
+    {
+     "alias": "52\" Mower Deck",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer mower deck",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  },
+  {
+   "id": "DECK62",
+   "name": "62\" Deck",
+   "aliases": [
+    {
+     "alias": "62\" Mower Deck",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer mower deck",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  },
+  {
+   "id": "DECK72",
+   "name": "72\" Deck",
+   "aliases": [
+    {
+     "alias": "72\" Mower Deck",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer mower deck",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  },
+  {
+   "id": "EM52",
+   "name": "EM52",
+   "aliases": [
+    {
+     "alias": "EM52 Estate Mower",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer estate mower",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  },
+  {
+   "id": "EM62",
+   "name": "EM62",
+   "aliases": [
+    {
+     "alias": "EM62 Estate Mower",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer estate mower",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  },
+  {
+   "id": "EM72",
+   "name": "EM72",
+   "aliases": [
+    {
+     "alias": "EM72 Estate Mower",
+     "source": "book"
+    }
+   ],
+   "family": "Grazer estate mower",
+   "driveType": null,
+   "engines": [],
+   "editions": [
+    {
+     "catalogId": "G102",
+     "serialFrom": null,
+     "serialTo": null,
+     "serialToInferred": false,
+     "serialAsPrinted": null,
+     "serialMeaning": null
+    }
+   ],
+   "attachments": [],
+   "relations": []
+  }
+ ],
+ "sections": [
+  {
+   "slug": "decals_deck",
+   "title": "Decals (Deck)",
+   "appliesTo": [
+    "DECK52",
+    "DECK62",
+    "DECK72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A3",
+   "pdfPage": 2,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "C37491",
+     "partNoAsPrinted": "C 37491",
+     "desc": "Decal - \"Whirling Blades\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A3",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "C37492",
+     "partNoAsPrinted": "C 37492",
+     "desc": "Decal - \"Caution\" discharge chute",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A3",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "C37493",
+     "partNoAsPrinted": "C 37493",
+     "desc": "Decal - \"Caution\" grass chute",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A3",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "C37494",
+     "partNoAsPrinted": "C 37494",
+     "desc": "Decal - \"Danger\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A3",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "DECALS (Deck)",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Part numbers print as 'C 37491' with a space; stored closed up."
+   ]
+  },
+  {
+   "slug": "gearbox_peerless_1100_017",
+   "title": "Peerless Gearbox Model No. 1100-017",
+   "appliesTo": [
+    "DECK52",
+    "DECK62",
+    "DECK72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A4",
+   "pdfPage": 2,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G9007012",
+     "partNoAsPrinted": "G9007012",
+     "desc": "Housing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9007013",
+     "partNoAsPrinted": "G9007013",
+     "desc": "Retainer Cap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G9007014",
+     "partNoAsPrinted": "G9007014",
+     "desc": "Retainer Cap",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G9007015",
+     "partNoAsPrinted": "G9007015",
+     "desc": "Input Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G9007016",
+     "partNoAsPrinted": "G9007016",
+     "desc": "Output Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G9007017",
+     "partNoAsPrinted": "G9007017",
+     "desc": "Bevel Gear, 25 Teeth",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G9007018",
+     "partNoAsPrinted": "G9007018",
+     "desc": "Bevel Gear, 26 Teeth",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [
+      "description printed '926 Teeth'; corrected to 26 Teeth (user decision 2026-11-18)"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G9007019",
+     "partNoAsPrinted": "G9007019",
+     "desc": "Shim, 1 1/2\" OD",
+     "qty": "As Req'd.",
+     "qtyNum": null,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G9007020",
+     "partNoAsPrinted": "G9007020",
+     "desc": "Shim, 2\" OD",
+     "qty": "As Req'd.",
+     "qtyNum": null,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G9007021",
+     "partNoAsPrinted": "G9007021",
+     "desc": "Bearing & Cup Assembly",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G9007022",
+     "partNoAsPrinted": "G9007022",
+     "desc": "Bearing & Cup Assembly",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9007023",
+     "partNoAsPrinted": "G9007023",
+     "desc": "Bearing & Cup Assembly",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9007024",
+     "partNoAsPrinted": "G9007024",
+     "desc": "O-ring",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G9007025",
+     "partNoAsPrinted": "G9007025",
+     "desc": "Oil Seal",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9007026",
+     "partNoAsPrinted": "G9007026",
+     "desc": "Oil Seal",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9007027",
+     "partNoAsPrinted": "G9007027",
+     "desc": "Cap Retainer Shim",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9007028",
+     "partNoAsPrinted": "G9007028",
+     "desc": "Hex Screw, 5/16-18 x 1\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9007029",
+     "partNoAsPrinted": "G9007029",
+     "desc": "Load Ring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G9007030",
+     "partNoAsPrinted": "G9007030",
+     "desc": "Retaining Ring",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G9007031",
+     "partNoAsPrinted": "G9007031",
+     "desc": "Jam Nut, 3/4-16",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "410018",
+     "partNoAsPrinted": "410018",
+     "desc": "Woodruff Key",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "G9007033",
+     "partNoAsPrinted": "G9007033",
+     "desc": "Flatwasher",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "26",
+     "partNo": "G9007034",
+     "partNoAsPrinted": "G9007034",
+     "desc": "Pipe Plug, 1/4-18",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "28",
+     "partNo": "G9007035",
+     "partNoAsPrinted": "G9007035",
+     "desc": "Pipe Plug, 1/8-27",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "29",
+     "partNo": "11108",
+     "partNoAsPrinted": "11108",
+     "desc": "Street Elbow, 1/8\" x 90°",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "G9007004",
+     "partNoAsPrinted": "G9007004",
+     "desc": "Relief Valve",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "Peerless Gearbox Model No. 1100-017",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Gearbox order no. G9005618 (printed under the heading); also listed as the gearbox on the 52\", 62\" and 72\" deck drive tables.",
+    "Refs 13, 20, 21 and 27 are not printed (printed gaps).",
+    "Qty 'As Req'd.' on refs 8 and 9 stored as printed, qtyNum null."
+   ]
+  },
+  {
+   "slug": "deck_parts_52",
+   "title": "52\" Deck Parts",
+   "appliesTo": [
+    "DECK52"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A5",
+   "pdfPage": 3,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3250000G",
+     "partNoAsPrinted": "G3250000G",
+     "desc": "Deck, 52\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3250002G",
+     "partNoAsPrinted": "G3250002G",
+     "desc": "Outside Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3250003G",
+     "partNoAsPrinted": "G3250003G",
+     "desc": "Outside Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3250004G",
+     "partNoAsPrinted": "G3250004G",
+     "desc": "Center Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3250005G",
+     "partNoAsPrinted": "G3250005G",
+     "desc": "Center Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3450008",
+     "partNoAsPrinted": "G3450008",
+     "desc": "Drive Shaft Cover",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3200015G",
+     "partNoAsPrinted": "G3200015G",
+     "desc": "Fas-tatch Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3200016G",
+     "partNoAsPrinted": "G3200016G",
+     "desc": "Fas-tatch Foot Guard Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3200014",
+     "partNoAsPrinted": "G3200014",
+     "desc": "Shoe, LH Side",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3000044",
+     "partNoAsPrinted": "G3000044",
+     "desc": "Gauge Wheel Mount Bracket",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3000043",
+     "partNoAsPrinted": "G3000043",
+     "desc": "Gauge Wheel Mount",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3300007",
+     "partNoAsPrinted": "G3300007",
+     "desc": "Gauge Wheel Fork",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G2000017",
+     "partNoAsPrinted": "G2000017",
+     "desc": "Axle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9004004",
+     "partNoAsPrinted": "G9004004",
+     "desc": "Wheel Assembly",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9004006",
+     "partNoAsPrinted": "G9004006",
+     "desc": "Tire, 11 x 4.00-5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [
+      "indented under ref 14"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9003505",
+     "partNoAsPrinted": "G9003505",
+     "desc": "Wheel Assembly Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A5",
+     "variants": [],
+     "flags": [
+      "indented under ref 14"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "314022C",
+     "partNoAsPrinted": "314022C",
+     "desc": "Hex Bolt, 1/2-13 x 6 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9006096",
+     "partNoAsPrinted": "G9006096",
+     "desc": "Wing Bolt",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9006092",
+     "partNoAsPrinted": "G9006092",
+     "desc": "Handle Nut",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9002044",
+     "partNoAsPrinted": "G9002044",
+     "desc": "10 Amp Circuit Breaker",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9005510",
+     "partNoAsPrinted": "G9005510",
+     "desc": "Set Collar",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "G9005559",
+     "partNoAsPrinted": "G9005559",
+     "desc": "Anti-scalp Roller",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G3000038",
+     "partNoAsPrinted": "G3000038",
+     "desc": "Shaft & Bracket",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G9005615",
+     "partNoAsPrinted": "G9005615",
+     "desc": "Fas-tatch Pin",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "41956",
+     "partNoAsPrinted": "41956",
+     "desc": "Clevis Pin, 1/2\" x 2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "49207",
+     "partNoAsPrinted": "49207",
+     "desc": "Hair Pin Cotter, .120\" x 2 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A5",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "52\" Deck Parts",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Wheel assembly tire and bearing rows print with no item number (indented under ref 14); stored with ref \"\"."
+   ]
+  },
+  {
+   "slug": "deck_drive_52",
+   "title": "52\" Deck Drive",
+   "appliesTo": [
+    "DECK52"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A6",
+   "pdfPage": 3,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3000015",
+     "partNoAsPrinted": "G3000015",
+     "desc": "Belt Tightener",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3000025",
+     "partNoAsPrinted": "G3000025",
+     "desc": "Housing Spindle",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3000016",
+     "partNoAsPrinted": "G3000016",
+     "desc": "Spacer",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3250001G",
+     "partNoAsPrinted": "G3250001G",
+     "desc": "Gearbox Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3000026",
+     "partNoAsPrinted": "G3000026",
+     "desc": "Short Spindle Shaft",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3000033",
+     "partNoAsPrinted": "G3000033",
+     "desc": "Long Spindle Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3000027",
+     "partNoAsPrinted": "G3000027",
+     "desc": "Spindle Shaft Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G9002518",
+     "partNoAsPrinted": "G9002518",
+     "desc": "Idler Pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G9002531",
+     "partNoAsPrinted": "G9002531",
+     "desc": "Double Pulley, 4.6\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G9002511",
+     "partNoAsPrinted": "G9002511",
+     "desc": "Single Pulley, 5\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G9002539",
+     "partNoAsPrinted": "G9002539",
+     "desc": "Double Pulley, 4.2\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9002546",
+     "partNoAsPrinted": "G9002546",
+     "desc": "Taper Hub",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003012",
+     "partNoAsPrinted": "G9003012",
+     "desc": "Belt, B x 55",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9003017",
+     "partNoAsPrinted": "G9003017",
+     "desc": "Belt, B x 58",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G9003506",
+     "partNoAsPrinted": "G9003506",
+     "desc": "Spindle Bearing, 7/8\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "G9005534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9005814",
+     "partNoAsPrinted": "G9005814",
+     "desc": "Blade",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006002",
+     "partNoAsPrinted": "G9006002",
+     "desc": "Mech. Washer, 14 GA",
+     "qty": "-",
+     "qtyNum": null,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9002537",
+     "partNoAsPrinted": "G9002537",
+     "desc": "Taper Hub, 7/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9005618",
+     "partNoAsPrinted": "G9005618",
+     "desc": "Gearbox",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "30206H5C",
+     "partNoAsPrinted": "30206H5C",
+     "desc": "Bolt, 3/8-24 x 1 1/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "45053",
+     "partNoAsPrinted": "45053",
+     "desc": "Grease Zerk",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "40611",
+     "partNoAsPrinted": "40611",
+     "desc": "Key Stock, 3/16\" x 3/16\" x 1\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "G3000017",
+     "partNoAsPrinted": "G3000017",
+     "desc": "Spindle Washer, 5/16\", 10 GA",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "300115C",
+     "partNoAsPrinted": "300115C",
+     "desc": "Hex Tap Bolt, 1/4-20 x 4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "30103H5C",
+     "partNoAsPrinted": "30103H5C",
+     "desc": "Hex Capscrew, 5/16-24 x 3/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "410018",
+     "partNoAsPrinted": "410018",
+     "desc": "Woodruff Key, 1/4\" x 7/8\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "G6000000",
+     "partNoAsPrinted": "G6000000",
+     "desc": "Spindle Housing Assembly",
+     "qty": "-",
+     "qtyNum": null,
+     "page": "A6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "52\" Deck Drive",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Qty prints '-' on refs 18 and 28; stored as printed, qtyNum null."
+   ]
+  },
+  {
+   "slug": "deck_parts_62",
+   "title": "62\" Deck Parts",
+   "appliesTo": [
+    "DECK62"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A7",
+   "pdfPage": 4,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3350000G",
+     "partNoAsPrinted": "G3350000G",
+     "desc": "Deck, 62\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3350002G",
+     "partNoAsPrinted": "G3350002G",
+     "desc": "Outside Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3350003G",
+     "partNoAsPrinted": "G3350003G",
+     "desc": "Outside Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3350004G",
+     "partNoAsPrinted": "G3350004G",
+     "desc": "Center Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3350005G",
+     "partNoAsPrinted": "G3350005G",
+     "desc": "Center Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3450008",
+     "partNoAsPrinted": "G3450008",
+     "desc": "Drive Shaft Cover",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3300027G",
+     "partNoAsPrinted": "G3300027G",
+     "desc": "Fas-tatch Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3300028G",
+     "partNoAsPrinted": "G3300028G",
+     "desc": "Fas-tatch Foot Guard Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3300011",
+     "partNoAsPrinted": "G3300011",
+     "desc": "Shoe, RH Side",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3300008",
+     "partNoAsPrinted": "G3300008",
+     "desc": "Shoe, LH Side",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3000044",
+     "partNoAsPrinted": "G3000044",
+     "desc": "Gauge Wheel Mount Bracket",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3000043",
+     "partNoAsPrinted": "G3000043",
+     "desc": "Gauge Wheel Mount",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G3300007",
+     "partNoAsPrinted": "G3300007",
+     "desc": "Gauge Wheel Fork",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G2000017",
+     "partNoAsPrinted": "G2000017",
+     "desc": "Axle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G9004004",
+     "partNoAsPrinted": "G9004004",
+     "desc": "Wheel Assembly",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9004006",
+     "partNoAsPrinted": "G9004006",
+     "desc": "Tire, 11 x 4.00-5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [
+      "indented under ref 15"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9004005",
+     "partNoAsPrinted": "G9004005",
+     "desc": "Rim, 5\"",
+     "qty": "-",
+     "qtyNum": null,
+     "page": "A7",
+     "variants": [],
+     "flags": [
+      "indented under ref 15"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9003505",
+     "partNoAsPrinted": "G9003505",
+     "desc": "Wheel Assembly Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A7",
+     "variants": [],
+     "flags": [
+      "indented under ref 15"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "314022C",
+     "partNoAsPrinted": "314022C",
+     "desc": "Hex Bolt, 1/2-13 x 6 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9006096",
+     "partNoAsPrinted": "G9006096",
+     "desc": "Wing Bolt",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006092",
+     "partNoAsPrinted": "G9006092",
+     "desc": "Handle Nut",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9005510",
+     "partNoAsPrinted": "G9005510",
+     "desc": "Set Collar",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "G9005612",
+     "partNoAsPrinted": "G9005612",
+     "desc": "Short Anti-scalp Roller (Front)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G9005559",
+     "partNoAsPrinted": "G9005559",
+     "desc": "Long Anti-scalp Roller",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G3000038",
+     "partNoAsPrinted": "G3000038",
+     "desc": "Shaft & Bracket",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "G9002044",
+     "partNoAsPrinted": "G9002044",
+     "desc": "10 Amp Circuit Breaker",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "G9005615",
+     "partNoAsPrinted": "G9005615",
+     "desc": "Fas-tatch Pin",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "26",
+     "partNo": "41956",
+     "partNoAsPrinted": "41956",
+     "desc": "Clevis Pin, 1/2\" x 2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "49207",
+     "partNoAsPrinted": "49207",
+     "desc": "Hair Pin Cotter, .120 x 2 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A7",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "62\" Deck Parts",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Wheel assembly sub-rows print with no item number (indented under ref 15); rim qty prints '-'."
+   ]
+  },
+  {
+   "slug": "deck_drive_62",
+   "title": "62\" Deck Drive",
+   "appliesTo": [
+    "DECK62"
+   ],
+   "serialConstraint": null,
+   "variantBasis": "engine",
+   "sourcePage": "A8",
+   "pdfPage": 4,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3000015",
+     "partNoAsPrinted": "300-0015",
+     "desc": "Belt Tightener",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0015"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3000031",
+     "partNoAsPrinted": "300-0031",
+     "desc": "Housing Spindle",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0031"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3000016",
+     "partNoAsPrinted": "300-0016",
+     "desc": "Spacer",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0016"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3350001",
+     "partNoAsPrinted": "335-0001",
+     "desc": "Gear Box Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 335-0001"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3000032",
+     "partNoAsPrinted": "300-0032",
+     "desc": "Spindle Shaft (Short)",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0032"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3000040",
+     "partNoAsPrinted": "300-0040",
+     "desc": "Spindle Shaft (Long)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0040"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3000034",
+     "partNoAsPrinted": "300-0034",
+     "desc": "Spindle Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0034"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G9002518",
+     "partNoAsPrinted": "900-2518",
+     "desc": "Idler Pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-2518"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G9002540",
+     "partNoAsPrinted": "900-2540",
+     "desc": "6.2 Double Pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-2540"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G9002512",
+     "partNoAsPrinted": "900-2512",
+     "desc": "6 Single Pulley",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-2512"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G9002539",
+     "partNoAsPrinted": "900-2539",
+     "desc": "4.2 Double Pulley (4 Cyl)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [
+      {
+       "basis": "engine",
+       "value": "4 cylinder",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "stored in G form; printed 900-2539"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G9002538",
+     "partNoAsPrinted": "900-2538",
+     "desc": "4.0 Double Pulley (3 Cyl)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [
+      {
+       "basis": "engine",
+       "value": "3 cylinder",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "stored in G form; printed 900-2538"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9002546",
+     "partNoAsPrinted": "900-2546",
+     "desc": "Taper Hub",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [
+      {
+       "basis": "engine",
+       "value": "4 cylinder",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "stored in G form; printed 900-2546",
+      "engine variant inferred: no cylinder count printed, pairs with the 4 CYL double pulley (ref 11); the 3 CYL row is 'H Taper Hub (3 CYL)'"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9002547",
+     "partNoAsPrinted": "900-2547",
+     "desc": "H Taper Hub (3 Cyl)",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [
+      {
+       "basis": "engine",
+       "value": "3 cylinder",
+       "serialNote": null
+      }
+     ],
+     "flags": [
+      "stored in G form; printed 900-2547"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003021",
+     "partNoAsPrinted": "900-3021",
+     "desc": "Belt 63",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-3021"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9003020",
+     "partNoAsPrinted": "900-3020",
+     "desc": "Belt 68",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-3020"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G9003506",
+     "partNoAsPrinted": "900-3506",
+     "desc": "Bearing, 7/8\" Spindle",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-3506"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "900-5534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-5534"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9005529",
+     "partNoAsPrinted": "900-5529",
+     "desc": "Blades",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-5529"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006002",
+     "partNoAsPrinted": "900-6002",
+     "desc": "Mech. Washer 14GA",
+     "qty": "—",
+     "qtyNum": null,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-6002"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9002548",
+     "partNoAsPrinted": "900-2548",
+     "desc": "7/8 Taper Hub",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-2548"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9005618",
+     "partNoAsPrinted": "900-5618",
+     "desc": "Gear Box",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-5618"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "G9006080",
+     "partNoAsPrinted": "900-6080",
+     "desc": "3/8-24 x 1¼ Bolt",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-6080"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G9005620",
+     "partNoAsPrinted": "900-5620",
+     "desc": "Grease Zerk",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-5620"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G3000021",
+     "partNoAsPrinted": "300-0021",
+     "desc": "3/16 Key Stock",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0021"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "G3000017",
+     "partNoAsPrinted": "300-0017",
+     "desc": "Spindle Washer 5/16 10 GA",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 300-0017"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "G9006034",
+     "partNoAsPrinted": "900-6034",
+     "desc": "1/4-20 x 4 Althread",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-6034"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "26",
+     "partNo": "G9006053",
+     "partNoAsPrinted": "900-6053",
+     "desc": "5/16-24 x 3/4 Hex",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-6053"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "27",
+     "partNo": "G9005661",
+     "partNoAsPrinted": "900-5661",
+     "desc": "1/4 x 3/4 Half Moon Key",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 900-5661"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "28",
+     "partNo": "G6000001",
+     "partNoAsPrinted": "600-0001",
+     "desc": "Housing Assembly",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A8",
+     "variants": [],
+     "flags": [
+      "stored in G form; printed 600-0001",
+      "printed '600-0001' in a different (condensed) type; G form G6000001 inferred from the pattern (52\" G6000000, 72\" G6000002)"
+     ],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "62\" DECK DRIVE",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Typeset in the 900-/300-xxxx style (G108 1987 style); stored in G form per the plan (900-2518 -> G9002518), printed form in partNoAsPrinted.",
+    "Refs 11 and 12 split by engine: 4 CYL vs 3 CYL (variantBasis engine, issue 37). Rows with no variant fit both.",
+    "Ref 18 qty prints as a dash; stored as printed."
+   ]
+  },
+  {
+   "slug": "deck_parts_72",
+   "title": "72\" Deck Parts",
+   "appliesTo": [
+    "DECK72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A9",
+   "pdfPage": 5,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3450000G",
+     "partNoAsPrinted": "G3450000G",
+     "desc": "Deck, 72\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3450001",
+     "partNoAsPrinted": "G3450001",
+     "desc": "Side Roller-Shaft, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3450002",
+     "partNoAsPrinted": "G3450002",
+     "desc": "Side Roller Shaft, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3450003",
+     "partNoAsPrinted": "G3450003",
+     "desc": "Shoe, LH Side",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3450005",
+     "partNoAsPrinted": "G3450005",
+     "desc": "Gauge Wheel Mount",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3450006",
+     "partNoAsPrinted": "G3450006",
+     "desc": "Gauge Wheel Mount Nut",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3450007",
+     "partNoAsPrinted": "G3450007",
+     "desc": "Gauge Wheel Mount Bolt",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3450008G",
+     "partNoAsPrinted": "G3450008G",
+     "desc": "Drive Shaft Cover",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3450009G",
+     "partNoAsPrinted": "G3450009G",
+     "desc": "Center Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3450010G",
+     "partNoAsPrinted": "G3450010G",
+     "desc": "Center Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3450011G",
+     "partNoAsPrinted": "G3450011G",
+     "desc": "Outside Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3450012G",
+     "partNoAsPrinted": "G3450012G",
+     "desc": "Outside Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G3300003G",
+     "partNoAsPrinted": "G3300003G",
+     "desc": "Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G3300011",
+     "partNoAsPrinted": "G3300011",
+     "desc": "Shoe, RH Side",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3300007",
+     "partNoAsPrinted": "G3300007",
+     "desc": "Gauge Wheel Fork",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G2000017",
+     "partNoAsPrinted": "G2000017",
+     "desc": "Axle",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9005510",
+     "partNoAsPrinted": "G9005510",
+     "desc": "Set Collar, 1\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "314022C",
+     "partNoAsPrinted": "314022C",
+     "desc": "Hex Bolt, 1/2-13 x 6 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9004004",
+     "partNoAsPrinted": "G9004004",
+     "desc": "Wheel Assembly",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9004006",
+     "partNoAsPrinted": "G9004006",
+     "desc": "Tire, 11 x 4.00-5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [
+      "indented under ref 20"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9004005",
+     "partNoAsPrinted": "G9004005",
+     "desc": "Rim, 5\"",
+     "qty": "-",
+     "qtyNum": null,
+     "page": "A9",
+     "variants": [],
+     "flags": [
+      "indented under ref 20"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "",
+     "partNo": "G9003505",
+     "partNoAsPrinted": "G9003505",
+     "desc": "Wheel Assembly Bearing",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A9",
+     "variants": [],
+     "flags": [
+      "indented under ref 20"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "G9005612",
+     "partNoAsPrinted": "G9005612",
+     "desc": "Anti-scalp Roller",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G9002044",
+     "partNoAsPrinted": "G9002044",
+     "desc": "10 Amp Circuit Breaker",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G9006043",
+     "partNoAsPrinted": "G9006043",
+     "desc": "Wing Bolt, 1/4-20 x 1/2\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "41956",
+     "partNoAsPrinted": "41956",
+     "desc": "Clevis Pin, 1/2\" x 2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "49207",
+     "partNoAsPrinted": "49207",
+     "desc": "Hair Pin Cotter, .120 x 2 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A9",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "72\" Deck Parts",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five."
+   ]
+  },
+  {
+   "slug": "deck_drive_72",
+   "title": "72\" Deck Drive",
+   "appliesTo": [
+    "DECK72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "A10",
+   "pdfPage": 5,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "G3300012",
+     "partNoAsPrinted": "G3300012",
+     "desc": "Belt Tightener",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "G3000025",
+     "partNoAsPrinted": "G3000025",
+     "desc": "Housing Spindle",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3000016",
+     "partNoAsPrinted": "G3000016",
+     "desc": "Spacer",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3450004G",
+     "partNoAsPrinted": "G3450004G",
+     "desc": "Gearbox Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3450013",
+     "partNoAsPrinted": "G3450013",
+     "desc": "Short Spindle Shaft",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3450014",
+     "partNoAsPrinted": "G3450014",
+     "desc": "Long Spindle Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G3450015",
+     "partNoAsPrinted": "G3450015",
+     "desc": "Spindle Shaft Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G9002521",
+     "partNoAsPrinted": "G9002521",
+     "desc": "Idler Pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "G9002529",
+     "partNoAsPrinted": "G9002529",
+     "desc": "Double Pulley, 8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G9002530",
+     "partNoAsPrinted": "G9002530",
+     "desc": "Single Pulley, 8\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G9002531",
+     "partNoAsPrinted": "G9002531",
+     "desc": "Double Pulley, 4.6\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9002532",
+     "partNoAsPrinted": "G9002532",
+     "desc": "Taper Hub",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003015",
+     "partNoAsPrinted": "G9003015",
+     "desc": "Belt, B x 78",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9003016",
+     "partNoAsPrinted": "G9003016",
+     "desc": "Belt, B x 81",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G9003513",
+     "partNoAsPrinted": "G9003513",
+     "desc": "Spindle Bearing, 1\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "G9005534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G9005608",
+     "partNoAsPrinted": "G9005608",
+     "desc": "Blade",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006000",
+     "partNoAsPrinted": "G9006000",
+     "desc": "Machine Washer, 14 GA",
+     "qty": "17",
+     "qtyNum": 17,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "G9006001",
+     "partNoAsPrinted": "G9006001",
+     "desc": "Machine Washer, 10 GA",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G9005618",
+     "partNoAsPrinted": "G9005618",
+     "desc": "Gearbox",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "30206H5C",
+     "partNoAsPrinted": "30206H5C",
+     "desc": "Bolt, 3/8-24 x 1 1/4\", GR5",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "45053",
+     "partNoAsPrinted": "45053",
+     "desc": "Grease Zerk",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "40621",
+     "partNoAsPrinted": "40621",
+     "desc": "Key Stock, 1/4\" x 1/4\" x 1\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "G9006093",
+     "partNoAsPrinted": "G9006093",
+     "desc": "Spindle Washer, 3/8\", 10 GA",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "300115C",
+     "partNoAsPrinted": "300115C",
+     "desc": "Hex Tap Bolt, 1/4-20 x 4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "300118C",
+     "partNoAsPrinted": "300118C",
+     "desc": "Hex Tap Bolt, 1/4-20 x 5 1/2\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "410018",
+     "partNoAsPrinted": "410018",
+     "desc": "Woodruff Key, 1/4 x 7/8\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "G6000002",
+     "partNoAsPrinted": "G6000002",
+     "desc": "Spindle Housing Assembly",
+     "qty": "-",
+     "qtyNum": null,
+     "page": "A10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "72\" Deck Drive",
+   "notes": [
+    "Book 1 (decks as used on G3100CD thru G4210CD). The decks are their own models (52\" Deck, 62\" Deck, 72\" Deck) attached to the five G108-family zero turn mowers; the book prints no per-size fitment, so every size is attached to all five.",
+    "Qty on ref 28 prints '-'; stored as printed."
+   ]
+  },
+  {
+   "slug": "em52_deck",
+   "title": "EM52 Deck",
+   "appliesTo": [
+    "EM52"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B4",
+   "pdfPage": 7,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "30206H5C",
+     "partNoAsPrinted": "30206H5C",
+     "desc": "Hex Capscrew, 3/8-24 x 1 1/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "G9005534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G9005710",
+     "partNoAsPrinted": "G9005710",
+     "desc": "Blade, 52\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3000026",
+     "partNoAsPrinted": "G3000026",
+     "desc": "Spindle Shaft, 7/8\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G9003506",
+     "partNoAsPrinted": "G9003506",
+     "desc": "Spindle Bearing, 7/8\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "25",
+     "qtyNum": 25,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3200014",
+     "partNoAsPrinted": "G3200014",
+     "desc": "Shoe, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3260000G",
+     "partNoAsPrinted": "G3260000G",
+     "desc": "Deck, 52\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3000025",
+     "partNoAsPrinted": "G3000025",
+     "desc": "Spindle Housing, 52\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9006002",
+     "partNoAsPrinted": "G9006002",
+     "desc": "Machine Washer, 14 Ga. x 7/8\"",
+     "qty": "10",
+     "qtyNum": 10,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003024",
+     "partNoAsPrinted": "G9003024",
+     "desc": "Blade Drive Belt",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9002507",
+     "partNoAsPrinted": "G9002507",
+     "desc": "Spindle Pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3000017",
+     "partNoAsPrinted": "G3000017",
+     "desc": "Spindle Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "30103H5C",
+     "partNoAsPrinted": "30103H5C",
+     "desc": "Hex Capscrew, 5/16-24 x 3/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "G3260009G",
+     "partNoAsPrinted": "G3260009G",
+     "desc": "Pulley Box Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006043",
+     "partNoAsPrinted": "G9006043",
+     "desc": "Thumb Screw, 1/4-20 x 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "40611",
+     "partNoAsPrinted": "40611",
+     "desc": "Key, 3/16\" x 3/16\" x 1\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "300311H5C",
+     "partNoAsPrinted": "300311H5C",
+     "desc": "Hex Tap Bolt, 3/8-16 x 3\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "G3000027",
+     "partNoAsPrinted": "G3000027",
+     "desc": "Spindle Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G3260002",
+     "partNoAsPrinted": "G3260002",
+     "desc": "Gearbox Adjustment Plate",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G3260001",
+     "partNoAsPrinted": "G3260001",
+     "desc": "Gearbox Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "2736461",
+     "partNoAsPrinted": "2736461",
+     "desc": "Gearbox, 1 to 2.5 Ratio, 540 RPM",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "G3260008G",
+     "partNoAsPrinted": "G3260008G",
+     "desc": "Pulley Box Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "27",
+     "partNo": "2736462",
+     "partNoAsPrinted": "2736462",
+     "desc": "Quick Disconnect IID Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "28",
+     "partNo": "G9005549",
+     "partNoAsPrinted": "G9005549",
+     "desc": "Decal, Danger",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [
+      "printed 'Decal; Danger' (semicolon), corrected"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "29",
+     "partNo": "G3200003G",
+     "partNoAsPrinted": "G3200003G",
+     "desc": "Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "30",
+     "partNo": "31306H5C",
+     "partNoAsPrinted": "31306H5C",
+     "desc": "Hex Capscrew, 7/16-14 x 1 1/4\", GR5",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "35004C",
+     "partNoAsPrinted": "35004C",
+     "desc": "Lockwasher, 7/16\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "33004C",
+     "partNoAsPrinted": "33004C",
+     "desc": "Hex Nut, 7/16-14",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "34",
+     "partNo": "G9002516",
+     "partNoAsPrinted": "G9002516",
+     "desc": "Spindle Pulley, 52\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "35",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "36",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "37",
+     "partNo": "35003C",
+     "partNoAsPrinted": "35003C",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "38",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "39",
+     "partNo": "38003C",
+     "partNoAsPrinted": "38003C",
+     "desc": "Flatwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "40",
+     "partNo": "31205H5C",
+     "partNoAsPrinted": "31205H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 1\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "41",
+     "partNo": "K9002530",
+     "partNoAsPrinted": "K9002530",
+     "desc": "Hex Capscrew, M8 x 12",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "42",
+     "partNo": "38001C",
+     "partNoAsPrinted": "38001C",
+     "desc": "Flatwasher, 1/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "43",
+     "partNo": "2738608",
+     "partNoAsPrinted": "2738608",
+     "desc": "ID Tag/No Oil in Gearbox",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "44",
+     "partNo": "G9002545",
+     "partNoAsPrinted": "G9002545",
+     "desc": "Double Belt Drive Pulley, 10\" OD",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "45",
+     "partNo": "G9002537",
+     "partNoAsPrinted": "G9002537",
+     "desc": "Taper Bushing, SDS x 7/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "46",
+     "partNo": "G9005542",
+     "partNoAsPrinted": "G9005542",
+     "desc": "Decal, Caution - Whirling Blade",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "47",
+     "partNo": "G9005540",
+     "partNoAsPrinted": "G9005540",
+     "desc": "Decal, Caution - Grass Chute",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "48",
+     "partNo": "40621",
+     "partNoAsPrinted": "40621",
+     "desc": "Key, 1/4\" x 1/4\" x 1\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "49",
+     "partNo": "45051",
+     "partNoAsPrinted": "45051",
+     "desc": "Self-tapping Grease Zerk, 1/4-28",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B4",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "EM52 Deck",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Ref 33 is not printed: the row has only a stray mark and no part number, description or qty."
+   ]
+  },
+  {
+   "slug": "em52_carriage",
+   "title": "EM52 Carriage",
+   "appliesTo": [
+    "EM52"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B6",
+   "pdfPage": 8,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "312018H5C",
+     "partNoAsPrinted": "312018H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 4 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9004007",
+     "partNoAsPrinted": "G9004007",
+     "desc": "Gauge Wheel",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3260016",
+     "partNoAsPrinted": "G3260016",
+     "desc": "Gauge Wheel Axle, 3/8\" ID",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3260010",
+     "partNoAsPrinted": "G3260010",
+     "desc": "Gauge Wheel Fork",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3260012",
+     "partNoAsPrinted": "G3260012",
+     "desc": "Long Spacer",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3260007",
+     "partNoAsPrinted": "G3260007",
+     "desc": "Gauge Wheel Mount, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Drive Wheel Bearing",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3260011",
+     "partNoAsPrinted": "G3260011",
+     "desc": "Short Spacer",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "F102",
+     "partNoAsPrinted": "F102",
+     "desc": "Klick Pin, 1/4\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3360006",
+     "partNoAsPrinted": "G3360006",
+     "desc": "Upright Support",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "314020H5C",
+     "partNoAsPrinted": "314020H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 5 1/2\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3260006",
+     "partNoAsPrinted": "G3260006",
+     "desc": "Gauge Wheel Mount, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G3260013",
+     "partNoAsPrinted": "G3260013",
+     "desc": "Flexible Link Bushing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G3260003",
+     "partNoAsPrinted": "G3260003",
+     "desc": "Flexible Link",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3260004",
+     "partNoAsPrinted": "G3260004",
+     "desc": "Upright Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9006300",
+     "partNoAsPrinted": "G9006300",
+     "desc": "Locknut, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G3360005",
+     "partNoAsPrinted": "G3360005",
+     "desc": "Knee",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "2738609",
+     "partNoAsPrinted": "2738609",
+     "desc": "Category I Lift Pin, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G3360007",
+     "partNoAsPrinted": "G3360007",
+     "desc": "Knee Bushing",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "35003C",
+     "partNoAsPrinted": "350035",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [
+      "printed 350035; stored as 35003C, the code the other tables print for a 3/8\" lockwasher (user decision 2026-11-18)"
+     ],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "7",
+     "qtyNum": 7,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "7",
+     "qtyNum": 7,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "38005C",
+     "partNoAsPrinted": "38005C",
+     "desc": "Flatwasher, 1/2\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "45051",
+     "partNoAsPrinted": "45051",
+     "desc": "Self-tapping Grease Zerk, 1/4-28",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "32945C",
+     "partNoAsPrinted": "32945C",
+     "desc": "Elastic Stop Nut, 1/2-13",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "314011H5C",
+     "partNoAsPrinted": "314011H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 2 1/2\", GR5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "38002C",
+     "partNoAsPrinted": "38002C",
+     "desc": "Flatwasher, 5/16\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "33",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "34",
+     "partNo": "G3000042",
+     "partNoAsPrinted": "G3000042",
+     "desc": "Gauge Wheel Spacer",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B6",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "EM52 Carriage",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Ref 17 is not printed (printed gap)."
+   ]
+  },
+  {
+   "slug": "em62_deck",
+   "title": "EM62 Deck",
+   "appliesTo": [
+    "EM62"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B8",
+   "pdfPage": 9,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "30206H5C",
+     "partNoAsPrinted": "30206H5C",
+     "desc": "Hex Capscrew, 3/8-24 x 1 1/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "G9005534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G9005730",
+     "partNoAsPrinted": "G9005730",
+     "desc": "Blade, 62\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3000032",
+     "partNoAsPrinted": "G3000032",
+     "desc": "Spindle Shaft",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G9003506",
+     "partNoAsPrinted": "G9003506",
+     "desc": "Spindle Bearing, 7/8\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "25",
+     "qtyNum": 25,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3300008",
+     "partNoAsPrinted": "G3300008",
+     "desc": "Shoe, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3360000G",
+     "partNoAsPrinted": "G3360000G",
+     "desc": "Deck, 62\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3000031",
+     "partNoAsPrinted": "G3000031",
+     "desc": "Spindle Housing, 62\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9006002",
+     "partNoAsPrinted": "G9006002",
+     "desc": "Machine Washer, 14 Ga. x 7/8\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003020",
+     "partNoAsPrinted": "G9003020",
+     "desc": "Deck Belt, 62\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9002511",
+     "partNoAsPrinted": "G9002511",
+     "desc": "Spindle Pulley",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3000017",
+     "partNoAsPrinted": "G3000017",
+     "desc": "Spindle Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "30103H5C",
+     "partNoAsPrinted": "30103H5C",
+     "desc": "Hex Capscrew, 5/16-24 x 3/4\", GR5",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "17",
+     "partNo": "G3360002G",
+     "partNoAsPrinted": "G3360002G",
+     "desc": "Pulley Box Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006043",
+     "partNoAsPrinted": "G9006043",
+     "desc": "Thumb Screw, 1/4-20 x 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "40611",
+     "partNoAsPrinted": "40611",
+     "desc": "Key, 3/16\" x 3/16\" x 1\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "300311H5C",
+     "partNoAsPrinted": "300311H5C",
+     "desc": "Hex Tap Bolt, 3/8-16 x 3\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "G3000034",
+     "partNoAsPrinted": "G3000034",
+     "desc": "Spindle Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G3260002",
+     "partNoAsPrinted": "G3260002",
+     "desc": "Gearbox Adjustment Plate",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G3260001",
+     "partNoAsPrinted": "G3260001",
+     "desc": "Gearbox Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "2736461",
+     "partNoAsPrinted": "2736461",
+     "desc": "Gearbox, 1 to 2.5 Ratio, 540 RPM",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "G3360001G",
+     "partNoAsPrinted": "G3360001G",
+     "desc": "Pulley Box Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "27",
+     "partNo": "2736462",
+     "partNoAsPrinted": "2736462",
+     "desc": "Quick Disconnect IID Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "28",
+     "partNo": "G9005549",
+     "partNoAsPrinted": "G9005549",
+     "desc": "Decal, Danger",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "29",
+     "partNo": "G3300003G",
+     "partNoAsPrinted": "G3300003G",
+     "desc": "Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "30",
+     "partNo": "31306H5C",
+     "partNoAsPrinted": "31306H5C",
+     "desc": "Hex Capscrew, 7/16-14 x 1 1/4\", GR5",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "35004C",
+     "partNoAsPrinted": "35004C",
+     "desc": "Lockwasher, 7/16\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "33004C",
+     "partNoAsPrinted": "33004C",
+     "desc": "Hex Nut, 7/16-14",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "33",
+     "partNo": "G3300011",
+     "partNoAsPrinted": "G3300011",
+     "desc": "Shoe, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "34",
+     "partNo": "G9002531",
+     "partNoAsPrinted": "G9002531",
+     "desc": "Spindle Pulley",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "35",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "36",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "37",
+     "partNo": "35003C",
+     "partNoAsPrinted": "35003C",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "38",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "39",
+     "partNo": "38003C",
+     "partNoAsPrinted": "38003C",
+     "desc": "Flatwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "40",
+     "partNo": "31205H5C",
+     "partNoAsPrinted": "31205H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 1\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "41",
+     "partNo": "32941C",
+     "partNoAsPrinted": "32941C",
+     "desc": "Elastic Stop Nut, 1/4-20",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "42",
+     "partNo": "35001C",
+     "partNoAsPrinted": "35001C",
+     "desc": "Lockwasher, 1/4\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "43",
+     "partNo": "2738608",
+     "partNoAsPrinted": "2738608",
+     "desc": "ID Tag/No Oil in Gearbox",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "44",
+     "partNo": "G9002545",
+     "partNoAsPrinted": "G9002545",
+     "desc": "Double Belt Drive Pulley, 10\" OD",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "45",
+     "partNo": "G9002537",
+     "partNoAsPrinted": "G9002537",
+     "desc": "Taper Bushing, SDS x 7/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "46",
+     "partNo": "G9005542",
+     "partNoAsPrinted": "G9005542",
+     "desc": "Decal, Caution - Whirling Blade",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "47",
+     "partNo": "G9005540",
+     "partNoAsPrinted": "G9005540",
+     "desc": "Decal, Caution - Grass Chute",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "48",
+     "partNo": "40621",
+     "partNoAsPrinted": "40621",
+     "desc": "Key, 1/4\" x 1/4\" x 1\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "49",
+     "partNo": "45051",
+     "partNoAsPrinted": "45051",
+     "desc": "Self-tapping Grease Zerk, 1/4-28",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "50",
+     "partNo": "33001C",
+     "partNoAsPrinted": "33001C",
+     "desc": "Hex Nut",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "51",
+     "partNo": "31003H5C",
+     "partNoAsPrinted": "31003H5C",
+     "desc": "Hex Capscrew, 1/4-20 x 3/4\", GR5",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "52",
+     "partNo": "K9002530",
+     "partNoAsPrinted": "K9002530",
+     "desc": "Hex Capscrew, M8 x 12",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "53",
+     "partNo": "38001C",
+     "partNoAsPrinted": "38001C",
+     "desc": "Flatwasher, 1/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B8",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "EM62 Deck",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36)."
+   ]
+  },
+  {
+   "slug": "em62_carriage",
+   "title": "EM62 Carriage",
+   "appliesTo": [
+    "EM62"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B10",
+   "pdfPage": 10,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "312018H5C",
+     "partNoAsPrinted": "312018H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 4 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9004020",
+     "partNoAsPrinted": "G9004020",
+     "desc": "Gauge Wheel",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3260016",
+     "partNoAsPrinted": "G3260016",
+     "desc": "Gauge Wheel Axle, 3/8\" ID",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3260010",
+     "partNoAsPrinted": "G3260010",
+     "desc": "Gauge Wheel Fork",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3260012",
+     "partNoAsPrinted": "G3260012",
+     "desc": "Long Spacer",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3360004",
+     "partNoAsPrinted": "G3360004",
+     "desc": "Gauge Wheel Mount, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Drive Wheel Bearing",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3260011",
+     "partNoAsPrinted": "G3260011",
+     "desc": "Short Spacer",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "F102",
+     "partNoAsPrinted": "F102",
+     "desc": "Klick Pin, 1/4\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3360006",
+     "partNoAsPrinted": "G3360006",
+     "desc": "Upright Support",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "314020H5C",
+     "partNoAsPrinted": "314020H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 5 1/2\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3360003",
+     "partNoAsPrinted": "G3360003",
+     "desc": "Gauge Wheel Mount, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G3260013",
+     "partNoAsPrinted": "G3260013",
+     "desc": "Flexible Link Bushing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G3260003",
+     "partNoAsPrinted": "G3260003",
+     "desc": "Flexible Link",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3260004",
+     "partNoAsPrinted": "G3260004",
+     "desc": "Upright Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9006300",
+     "partNoAsPrinted": "G9006300",
+     "desc": "Locknut, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G3360005",
+     "partNoAsPrinted": "G3360005",
+     "desc": "Knee",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "2738609",
+     "partNoAsPrinted": "2738609",
+     "desc": "Category I Lift Pin, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G3360007",
+     "partNoAsPrinted": "G3360007",
+     "desc": "Knee Bushing",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "35003C",
+     "partNoAsPrinted": "35003C",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "11",
+     "qtyNum": 11,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "11",
+     "qtyNum": 11,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "10",
+     "qtyNum": 10,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "38005C",
+     "partNoAsPrinted": "38005C",
+     "desc": "Flatwasher, 1/2\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "450543",
+     "partNoAsPrinted": "450543",
+     "desc": "Self-tapping Grease Zerk, 1/4-28, 90°",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "32945C",
+     "partNoAsPrinted": "32945C",
+     "desc": "Elastic Stop Nut, 1/2-13",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "314011H5C",
+     "partNoAsPrinted": "314011H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 2 1/2\", GR5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "38002C",
+     "partNoAsPrinted": "38002C",
+     "desc": "Flatwasher, 5/16\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "33",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "34",
+     "partNo": "G3360008",
+     "partNoAsPrinted": "G3360008",
+     "desc": "Support Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "35",
+     "partNo": "G3260014",
+     "partNoAsPrinted": "G3260014",
+     "desc": "Support Bracket, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "36",
+     "partNo": "G3260015",
+     "partNoAsPrinted": "G3260015",
+     "desc": "Support Bracket, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B10",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "EM62 Carriage",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Ref 17 is not printed (printed gap).",
+    "Ref 27 prints 450543 (the EM52 and EM72 carriage print 45051 for the same zerk, here with 90°); kept as printed."
+   ]
+  },
+  {
+   "slug": "em72_deck",
+   "title": "EM72 Deck",
+   "appliesTo": [
+    "EM72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B12",
+   "pdfPage": 11,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "30206H5C",
+     "partNoAsPrinted": "30206H5C",
+     "desc": "Hex Capscrew, 3/8-24 x 1 1/4\", GR5",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9005534",
+     "partNoAsPrinted": "G9005534",
+     "desc": "Spring Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G9005608",
+     "partNoAsPrinted": "G9005608",
+     "desc": "Blade, 72\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3450013",
+     "partNoAsPrinted": "G3450013",
+     "desc": "Spindle Shaft, 1\" x 7 1/4\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G9003513",
+     "partNoAsPrinted": "G9003513",
+     "desc": "Spindle Bearing, 1\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "7",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "8",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "22",
+     "qtyNum": 22,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "9",
+     "partNo": "G3450003",
+     "partNoAsPrinted": "G3450003",
+     "desc": "Shoe, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "G3460000G",
+     "partNoAsPrinted": "G3460000G",
+     "desc": "Deck, 72\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "G3000025",
+     "partNoAsPrinted": "G3000025",
+     "desc": "Spindle Housing, 7/8\" x 3 1/4\"",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "G9006000",
+     "partNoAsPrinted": "G9006000",
+     "desc": "Machine Washer, 14 Ga. x 1\"",
+     "qty": "14",
+     "qtyNum": 14,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G9003025",
+     "partNoAsPrinted": "G9003025",
+     "desc": "Blade Drive Belt, BX75",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G9002549",
+     "partNoAsPrinted": "G9002549",
+     "desc": "Spindle Pulley, 6\" OD x 1\" Bore",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3000017",
+     "partNoAsPrinted": "G3000017",
+     "desc": "Spindle Washer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9005559",
+     "partNoAsPrinted": "G9005559",
+     "desc": "Anti-scalp Roller, 3\" x 9\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "G3460003G",
+     "partNoAsPrinted": "G3460003G",
+     "desc": "Pulley Box Cover, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G9006043",
+     "partNoAsPrinted": "G9006043",
+     "desc": "Thumb Screw, 1/4-20 x 1/2\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "40621",
+     "partNoAsPrinted": "40621",
+     "desc": "Key, 1/4\" x 1/4\" x 1\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "20",
+     "partNo": "300311H5C",
+     "partNoAsPrinted": "300311H5C",
+     "desc": "Hex Tap Bolt, 3/8-16 x 3\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "21",
+     "partNo": "G3450015",
+     "partNoAsPrinted": "G3450015",
+     "desc": "Spindle Spacer",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "G3260002",
+     "partNoAsPrinted": "G3260002",
+     "desc": "Gearbox Adjustment Plate",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "23",
+     "partNo": "G3260001",
+     "partNoAsPrinted": "G3260001",
+     "desc": "Gearbox Mount",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "24",
+     "partNo": "2736461",
+     "partNoAsPrinted": "2736461",
+     "desc": "Gearbox, 1 to 2.5 Ratio, 540 RPM",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "G3460002G",
+     "partNoAsPrinted": "G3460002G",
+     "desc": "Pulley Box Cover, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "27",
+     "partNo": "2736462",
+     "partNoAsPrinted": "2736462",
+     "desc": "Quick Disconnect IID Shaft",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "28",
+     "partNo": "G9005549",
+     "partNoAsPrinted": "G9005549",
+     "desc": "Decal, Danger",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "29",
+     "partNo": "G3300003G",
+     "partNoAsPrinted": "G3300003G",
+     "desc": "Foot Guard",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "30",
+     "partNo": "31306H5C",
+     "partNoAsPrinted": "31306H5C",
+     "desc": "Hex Cap, 7/16-14 x 1 1/4\", GR5",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "35004C",
+     "partNoAsPrinted": "35004C",
+     "desc": "Lockwasher, 7/16\"",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "33004C",
+     "partNoAsPrinted": "33004C",
+     "desc": "Hex Nut, 7/16-14",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "33",
+     "partNo": "G3300011",
+     "partNoAsPrinted": "G3300011",
+     "desc": "Shoe, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [
+      "prints 'Shoe, LH' with G3300011 (the RH shoe number in the 52\"/62\"/72\" deck tables and EM62 ref 33)"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "34",
+     "partNo": "G9002540",
+     "partNoAsPrinted": "G9002540",
+     "desc": "Sheave, TBX 62H",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [
+      "handwritten entry: part number and description are handwritten ('G900 2540', 'Sheave, TBX 62H', qty 1) on a row with no printed text",
+      "handwritten part number G900 2540 stored closed up as G9002540 (matches the 62\" deck drive 900-2540 double pulley)"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "35",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "36",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "37",
+     "partNo": "35003C",
+     "partNoAsPrinted": "35003C",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "38",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "39",
+     "partNo": "38003C",
+     "partNoAsPrinted": "38003C",
+     "desc": "Flatwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "40",
+     "partNo": "31205H5C",
+     "partNoAsPrinted": "31205H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 1\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "41",
+     "partNo": "32941C",
+     "partNoAsPrinted": "32941C",
+     "desc": "Elastic Stop Nut, 1/4-20",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "42",
+     "partNo": "35001C",
+     "partNoAsPrinted": "35001C",
+     "desc": "Lockwasher, 1/4\"",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "43",
+     "partNo": "2738608",
+     "partNoAsPrinted": "2738608",
+     "desc": "ID Tag/No Oil In Gearbox",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "44",
+     "partNo": "G9002545",
+     "partNoAsPrinted": "G9002545",
+     "desc": "Double Belt Drive Pulley, 10\" OD",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "45",
+     "partNo": "G9002547",
+     "partNoAsPrinted": "G9002537",
+     "desc": "Taper Bushing, SDS x 7/8\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [
+      "printed part number G9002537 is crossed out and 47 written in; stored as G9002547 (user decision 2026-11-18)",
+      "handwritten 'H x 1\"' also appears beside the struck-through 'SDS x 7/8\"'; description stored as printed",
+      "bracket drawn beside refs 45-49 on the scan"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "46",
+     "partNo": "G9005542",
+     "partNoAsPrinted": "G9005542",
+     "desc": "Decal, Caution - Whirling Blade",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "47",
+     "partNo": "G9005540",
+     "partNoAsPrinted": "G9005540",
+     "desc": "Decal, Caution - Grass Chute",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "48",
+     "partNo": "G9005612",
+     "partNoAsPrinted": "G9005612",
+     "desc": "Anti-scalp Roller, 3\" x 4 1/2\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "49",
+     "partNo": "45051",
+     "partNoAsPrinted": "45051",
+     "desc": "Self-tapping Grease Zerk, 1/4-28",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "50",
+     "partNo": "33001C",
+     "partNoAsPrinted": "33001C",
+     "desc": "Hex Nut",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "51",
+     "partNo": "31003H5C",
+     "partNoAsPrinted": "31003H5C",
+     "desc": "Hex Capscrew, 1/4-20 x 3/4\", GR5",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "52",
+     "partNo": "K9002530",
+     "partNoAsPrinted": "K9002530",
+     "desc": "Hex Capscrew, M8 x 12",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "53",
+     "partNo": "38001C",
+     "partNoAsPrinted": "38001C",
+     "desc": "Flatwasher, 1/4\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "55",
+     "partNo": "314021C",
+     "partNoAsPrinted": "314021C",
+     "desc": "Hex Capscrew, 1/2-13 x 6\"",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "56",
+     "partNo": "G3460006",
+     "partNoAsPrinted": "G3460006",
+     "desc": "Roller Pin",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "57",
+     "partNo": "49023",
+     "partNoAsPrinted": "49023",
+     "desc": "Cotter Pin, 1/8\" x 1\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B12",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    }
+   ],
+   "headingAsPrinted": "EM72 Deck",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Ref 54 is not printed (printed gap).",
+    "Handwriting on the scan: ref 34 (written in), ref 45 (changes); printed values kept, handwritten values flagged on the rows."
+   ]
+  },
+  {
+   "slug": "em72_carriage",
+   "title": "EM72 Carriage",
+   "appliesTo": [
+    "EM72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "B14",
+   "pdfPage": 12,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "312018H5C",
+     "partNoAsPrinted": "312018H5C",
+     "desc": "Hex Capscrew, 3/8-16 x 4 1/2\", GR5",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "2",
+     "partNo": "G9004020",
+     "partNoAsPrinted": "G9004020",
+     "desc": "Gauge Wheel",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "G3260016",
+     "partNoAsPrinted": "G3260016",
+     "desc": "Gauge Wheel Axle, 3/8\" ID",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "G3260010",
+     "partNoAsPrinted": "G3260010",
+     "desc": "Gauge Wheel Fork",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "G3260012",
+     "partNoAsPrinted": "G3260012",
+     "desc": "Long Spacer",
+     "qty": "12",
+     "qtyNum": 12,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "G3460005",
+     "partNoAsPrinted": "G3460005",
+     "desc": "Gauge Wheel Mount, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "G9003501",
+     "partNoAsPrinted": "G9003501",
+     "desc": "Drive Wheel Bearing",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "G3260011",
+     "partNoAsPrinted": "G3260011",
+     "desc": "Short Spacer",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "F102",
+     "partNoAsPrinted": "F102",
+     "desc": "Klick Pin, 1/4\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "10",
+     "partNo": "G346000?",
+     "partNoAsPrinted": "G346000?",
+     "desc": "Support Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [
+      "last digit of the part number is blotted out by an ink mark on the scan and cannot be read; stored as G346000?"
+     ],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "314020H5C",
+     "partNoAsPrinted": "314020H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 5 1/2\", GR5",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "12",
+     "partNo": "G3460004",
+     "partNoAsPrinted": "G3460004",
+     "desc": "Gauge Wheel Mount, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "G3260013",
+     "partNoAsPrinted": "G3260013",
+     "desc": "Flexible Link Bushing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "G3260003",
+     "partNoAsPrinted": "G3260003",
+     "desc": "Flexible Link",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "G3260004",
+     "partNoAsPrinted": "G3260004",
+     "desc": "Upright Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "G9006300",
+     "partNoAsPrinted": "G9006300",
+     "desc": "Locknut, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "G3360005",
+     "partNoAsPrinted": "G3360005",
+     "desc": "Knee",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "2738609",
+     "partNoAsPrinted": "2738609",
+     "desc": "Category I Lift Pin, 7/8-14",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "G3360007",
+     "partNoAsPrinted": "G3360007",
+     "desc": "Knee Bushing",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "33003C",
+     "partNoAsPrinted": "33003C",
+     "desc": "Hex Nut, 3/8-16",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "22",
+     "partNo": "35003C",
+     "partNoAsPrinted": "35003C",
+     "desc": "Lockwasher, 3/8\"",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "23",
+     "partNo": "33005C",
+     "partNoAsPrinted": "33005C",
+     "desc": "Hex Nut, 1/2-13",
+     "qty": "11",
+     "qtyNum": 11,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "24",
+     "partNo": "35005C",
+     "partNoAsPrinted": "35005C",
+     "desc": "Lockwasher, 1/2\"",
+     "qty": "11",
+     "qtyNum": 11,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "25",
+     "partNo": "31407H5C",
+     "partNoAsPrinted": "31407H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 1 1/2\", GR5",
+     "qty": "10",
+     "qtyNum": 10,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "26",
+     "partNo": "38005C",
+     "partNoAsPrinted": "38005C",
+     "desc": "Flatwasher, 1/2\"",
+     "qty": "8",
+     "qtyNum": 8,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "27",
+     "partNo": "45051",
+     "partNoAsPrinted": "45051",
+     "desc": "Self-tapping Grease Zerk, 1/4-28",
+     "qty": "4",
+     "qtyNum": 4,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "28",
+     "partNo": "32945C",
+     "partNoAsPrinted": "32945C",
+     "desc": "Elastic Stop Nut, 1/2-13",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "29",
+     "partNo": "314011H5C",
+     "partNoAsPrinted": "314011H5C",
+     "desc": "Hex Capscrew, 1/2-13 x 2 1/2\", GR5",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "30",
+     "partNo": "37021C",
+     "partNoAsPrinted": "37021C",
+     "desc": "Carriage Bolt, 5/16-18 x 3/4\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "31",
+     "partNo": "38002C",
+     "partNoAsPrinted": "38002C",
+     "desc": "Flatwasher, 5/16\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "32",
+     "partNo": "35002C",
+     "partNoAsPrinted": "35002C",
+     "desc": "Lockwasher, 5/16\"",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "33",
+     "partNo": "33002C",
+     "partNoAsPrinted": "33002C",
+     "desc": "Hex Nut, 5/16-18",
+     "qty": "16",
+     "qtyNum": 16,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer-hardware"
+    },
+    {
+     "ref": "34",
+     "partNo": "G3360008",
+     "partNoAsPrinted": "G3360008",
+     "desc": "Support Brace",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "35",
+     "partNo": "G3260014",
+     "partNoAsPrinted": "G3260014",
+     "desc": "Support Bracket, LH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "36",
+     "partNo": "G3260015",
+     "partNoAsPrinted": "G3260015",
+     "desc": "Support Bracket, RH",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "B14",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "EM72 Carriage",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Ref 17 is not printed (printed gap).",
+    "Page carries diagonal ink or scan lines across the table; ref 10 part number partly obscured (see row flags)."
+   ]
+  },
+  {
+   "slug": "iid_drive_shaft",
+   "title": "IID Drive Shaft (Shaft Assembly 2736462)",
+   "appliesTo": [
+    "EM52",
+    "EM62",
+    "EM72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "C1",
+   "pdfPage": 13,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "2716615",
+     "partNoAsPrinted": "2716615",
+     "desc": "Push Pin Set",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "2716713",
+     "partNoAsPrinted": "2716713",
+     "desc": "Push Pin Yoke",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "2716714",
+     "partNoAsPrinted": "2716714",
+     "desc": "Cross Journal Set",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "2716715",
+     "partNoAsPrinted": "2716715",
+     "desc": "Outer Tube Yoke",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "2716718",
+     "partNoAsPrinted": "2716718",
+     "desc": "Retaining Collar",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "2716719",
+     "partNoAsPrinted": "2716719",
+     "desc": "Outer Hub Cone",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "2716720",
+     "partNoAsPrinted": "2716720",
+     "desc": "Outer Tube",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "2716721",
+     "partNoAsPrinted": "2716721",
+     "desc": "Inner Tube",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "2716623",
+     "partNoAsPrinted": "2716623",
+     "desc": "Nylon Bolt",
+     "qty": "6",
+     "qtyNum": 6,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "2716722",
+     "partNoAsPrinted": "2716722",
+     "desc": "Inner Hub Cone",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "2716717",
+     "partNoAsPrinted": "2716717",
+     "desc": "Retaining Collar",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "2716716",
+     "partNoAsPrinted": "2716716",
+     "desc": "Inner Tube Yoke",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "2738315",
+     "partNoAsPrinted": "2738315",
+     "desc": "Decal, IID Shield",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "2738320",
+     "partNoAsPrinted": "2738320",
+     "desc": "Decal, IID Shield Removed",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "2716726",
+     "partNoAsPrinted": "2716726",
+     "desc": "Inner Shield Half",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "2716725",
+     "partNoAsPrinted": "2716725",
+     "desc": "Outer Shield Half",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "2716723",
+     "partNoAsPrinted": "2716723",
+     "desc": "Female Shaft Half",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "2716724",
+     "partNoAsPrinted": "2716724",
+     "desc": "Male Shaft Half",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C1",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "IID DRIVE SHAFT",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Shared by all three EM mowers (the EM52, EM62 and EM72 deck tables each list 2736462).",
+    "Refs 2 and 14 are not printed (printed gaps)."
+   ]
+  },
+  {
+   "slug": "gear_box_2736461",
+   "title": "Gear Box (Gearbox 2736461)",
+   "appliesTo": [
+    "EM52",
+    "EM62",
+    "EM72"
+   ],
+   "serialConstraint": null,
+   "variantBasis": null,
+   "sourcePage": "C2",
+   "pdfPage": 13,
+   "rows": [
+    {
+     "ref": "1",
+     "partNo": "2716699",
+     "partNoAsPrinted": "2716699",
+     "desc": "Casing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "2",
+     "partNo": "2716700",
+     "partNoAsPrinted": "2716700",
+     "desc": "Key, B10 x 8 x 70",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "3",
+     "partNo": "2716539",
+     "partNoAsPrinted": "2716539",
+     "desc": "Bearing, 6207",
+     "qty": "3",
+     "qtyNum": 3,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "4",
+     "partNo": "2716701",
+     "partNoAsPrinted": "2716701",
+     "desc": "Cap, 52 x 7",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "5",
+     "partNo": "2716702",
+     "partNoAsPrinted": "2716702",
+     "desc": "Shaft, 1 3/8\", Z6",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "6",
+     "partNo": "2716703",
+     "partNoAsPrinted": "2716703",
+     "desc": "Gear, Z30 M3.8",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "7",
+     "partNo": "2716704",
+     "partNoAsPrinted": "2716704",
+     "desc": "Spacer",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "8",
+     "partNo": "2716537",
+     "partNoAsPrinted": "2716537",
+     "desc": "Snap Ring, 72, UNI7437",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "9",
+     "partNo": "2716705",
+     "partNoAsPrinted": "2716705",
+     "desc": "Snap Ring, 35, UNI7435",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "10",
+     "partNo": "2716706",
+     "partNoAsPrinted": "2716706",
+     "desc": "Castle Nut, M24 x 2",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "11",
+     "partNo": "2716604",
+     "partNoAsPrinted": "2716604",
+     "desc": "Washer, 25 x 44 x 4",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "12",
+     "partNo": "2716707",
+     "partNoAsPrinted": "2716707",
+     "desc": "Snap Ring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "13",
+     "partNo": "2716708",
+     "partNoAsPrinted": "2716708",
+     "desc": "Double Lip Seal, 35 x 72 x 12",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "14",
+     "partNo": "2716709",
+     "partNoAsPrinted": "2716709",
+     "desc": "Shim Kit",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "15",
+     "partNo": "2716710",
+     "partNoAsPrinted": "2716710",
+     "desc": "Pinion Shaft, Z12, M3.8",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "16",
+     "partNo": "2716420",
+     "partNoAsPrinted": "2716420",
+     "desc": "Vent Plug, 3/8\"",
+     "qty": "2",
+     "qtyNum": 2,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "17",
+     "partNo": "2716711",
+     "partNoAsPrinted": "2716711",
+     "desc": "Bearing",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "18",
+     "partNo": "2716712",
+     "partNoAsPrinted": "2716712",
+     "desc": "Cover",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "19",
+     "partNo": "2716609",
+     "partNoAsPrinted": "2716609",
+     "desc": "Snap Ring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "20",
+     "partNo": "2716612",
+     "partNoAsPrinted": "2716612",
+     "desc": "O-ring",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "21",
+     "partNo": "2716611",
+     "partNoAsPrinted": "2716611",
+     "desc": "Oil Seal, 35 x 52 x 7",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    },
+    {
+     "ref": "22",
+     "partNo": "2716614",
+     "partNoAsPrinted": "2716614",
+     "desc": "Cotter Pin, B5 x 50",
+     "qty": "1",
+     "qtyNum": 1,
+     "page": "C2",
+     "variants": [],
+     "flags": [],
+     "source": "grazer"
+    }
+   ],
+   "headingAsPrinted": "GEAR BOX",
+   "notes": [
+    "Book 2 (EM estate mowers). No mower is named; no link to a zero turn mower is recorded until fitment is supplied (issue 36).",
+    "Gearbox 2736461, 1 to 2.5 ratio, 540 RPM (as listed on the EM deck tables)."
+   ]
+  }
+ ],
+ "validation": {
+  "date": "2026-11-18",
+  "method": "Scan with no text layer; every table read by eye from 220-dpi crops; tesseract used only as a draft on the gearbox and decals.",
+  "rows": 501,
+  "sections": 16,
+  "refContinuity": {
+   "decals_deck": {
+    "first": 1,
+    "last": 4,
+    "printedGaps": []
+   },
+   "gearbox_peerless_1100_017": {
+    "first": 1,
+    "last": 30,
+    "printedGaps": [
+     13,
+     20,
+     21,
+     27
+    ]
+   },
+   "deck_parts_52": {
+    "first": 1,
+    "last": 25,
+    "printedGaps": []
+   },
+   "deck_drive_52": {
+    "first": 1,
+    "last": 28,
+    "printedGaps": []
+   },
+   "deck_parts_62": {
+    "first": 1,
+    "last": 27,
+    "printedGaps": []
+   },
+   "deck_drive_62": {
+    "first": 1,
+    "last": 28,
+    "printedGaps": []
+   },
+   "deck_parts_72": {
+    "first": 1,
+    "last": 25,
+    "printedGaps": []
+   },
+   "deck_drive_72": {
+    "first": 1,
+    "last": 28,
+    "printedGaps": []
+   },
+   "em52_deck": {
+    "first": 1,
+    "last": 49,
+    "printedGaps": [
+     33
+    ]
+   },
+   "em52_carriage": {
+    "first": 1,
+    "last": 34,
+    "printedGaps": [
+     17
+    ]
+   },
+   "em62_deck": {
+    "first": 1,
+    "last": 53,
+    "printedGaps": []
+   },
+   "em62_carriage": {
+    "first": 1,
+    "last": 36,
+    "printedGaps": [
+     17
+    ]
+   },
+   "em72_deck": {
+    "first": 1,
+    "last": 57,
+    "printedGaps": [
+     54
+    ]
+   },
+   "em72_carriage": {
+    "first": 1,
+    "last": 36,
+    "printedGaps": [
+     17
+    ]
+   },
+   "iid_drive_shaft": {
+    "first": 1,
+    "last": 20,
+    "printedGaps": [
+     2,
+     14
+    ]
+   },
+   "gear_box_2736461": {
+    "first": 1,
+    "last": 22,
+    "printedGaps": []
+   }
+  },
+  "quantities": "All printed quantities transcribed; 'As Req'd.' (2 rows) and dash/blank quantities (7 rows) stored as printed with qtyNum null.",
+  "numericalIndex": "Not applicable: the book has no numerical index (contents list only), so there is no index cross-check and no index-vs-table differences.",
+  "partNoForms": {
+   "G": 303,
+   "grazer-hardware": 139,
+   "grazer": 59,
+   "other": 0
+  }
+ }
+}
