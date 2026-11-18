@@ -1037,7 +1037,7 @@
           "page": "25",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -1085,7 +1085,7 @@
           "page": "25",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -1097,7 +1097,7 @@
           "page": "25",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "29",
@@ -1109,7 +1109,7 @@
           "page": "25",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -1411,7 +1411,7 @@
           "page": "27",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -1779,7 +1779,7 @@
           "page": "29",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -1827,7 +1827,7 @@
           "page": "29",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -2582,7 +2582,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -2594,7 +2594,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -2606,7 +2606,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -2618,7 +2618,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -2630,7 +2630,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -2642,7 +2642,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -2654,7 +2654,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "8",
@@ -2666,7 +2666,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -2678,7 +2678,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -2690,7 +2690,7 @@
           "page": "31",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -2728,7 +2728,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -2740,7 +2740,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -2764,7 +2764,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -2824,7 +2824,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -2848,7 +2848,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -2860,7 +2860,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -2884,7 +2884,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -2896,7 +2896,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -2908,7 +2908,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -2920,7 +2920,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -3016,7 +3016,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -3076,7 +3076,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "32",
@@ -3088,7 +3088,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "33",
@@ -3100,7 +3100,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "34",
@@ -3112,7 +3112,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "35",
@@ -3124,7 +3124,7 @@
           "page": "33",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -3150,7 +3150,7 @@
           "page": "35",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -3274,7 +3274,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -3298,7 +3298,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -3322,7 +3322,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -3362,7 +3362,7 @@
           "flags": [
             "indented under ref 6"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -3376,7 +3376,7 @@
           "flags": [
             "indented under ref 6"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -3444,7 +3444,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -3456,7 +3456,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -3504,7 +3504,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -3516,7 +3516,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -3542,7 +3542,7 @@
           "page": "37",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -5122,7 +5122,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -5134,7 +5134,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -5146,7 +5146,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -5158,7 +5158,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -5170,7 +5170,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -5182,7 +5182,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -5194,7 +5194,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -5206,7 +5206,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -5218,7 +5218,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -5230,7 +5230,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -5242,7 +5242,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -5254,7 +5254,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -5266,7 +5266,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -5278,7 +5278,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -5290,7 +5290,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -5302,7 +5302,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -5314,7 +5314,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -5326,7 +5326,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -5338,7 +5338,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -5350,7 +5350,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -5362,7 +5362,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -5374,7 +5374,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -5386,7 +5386,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -5398,7 +5398,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -5410,7 +5410,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "24",
@@ -5422,7 +5422,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -5434,7 +5434,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -5446,7 +5446,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -5458,7 +5458,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -5470,7 +5470,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -5482,7 +5482,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "29",
@@ -5494,7 +5494,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "30",
@@ -5506,7 +5506,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -5518,7 +5518,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "32",
@@ -5530,7 +5530,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "33",
@@ -5542,7 +5542,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "34",
@@ -5554,7 +5554,7 @@
           "page": "45",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -5580,7 +5580,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -5592,7 +5592,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -5604,7 +5604,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -5616,7 +5616,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -5628,7 +5628,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -5642,7 +5642,7 @@
           "flags": [
             "indented under ref 5"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -5654,7 +5654,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -5666,7 +5666,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -5678,7 +5678,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -5690,7 +5690,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -5702,7 +5702,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -5714,7 +5714,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -5726,7 +5726,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -5738,7 +5738,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -5750,7 +5750,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -5762,7 +5762,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -5774,7 +5774,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -5786,7 +5786,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -5798,7 +5798,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -5810,7 +5810,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -5822,7 +5822,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -5834,7 +5834,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -5846,7 +5846,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -5860,7 +5860,7 @@
           "flags": [
             "indented under ref 23"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -5874,7 +5874,7 @@
           "flags": [
             "indented under ref 23"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -5888,7 +5888,7 @@
           "flags": [
             "indented under ref 23"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "27",
@@ -5900,7 +5900,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -5912,7 +5912,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "29",
@@ -5924,7 +5924,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "30",
@@ -5936,7 +5936,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -5950,7 +5950,7 @@
           "flags": [
             "check: 131-1 is not the usual code for a 1/4\" - 20 x 1/2\" bolt (113-1 elsewhere in this book); table value kept as printed"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "32",
@@ -5962,7 +5962,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "33",
@@ -5974,7 +5974,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "34",
@@ -5986,7 +5986,7 @@
           "page": "47",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -6024,7 +6024,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -6036,7 +6036,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -6048,7 +6048,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -6132,7 +6132,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -6144,7 +6144,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -6156,7 +6156,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -6216,7 +6216,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -6228,7 +6228,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -6240,7 +6240,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -6252,7 +6252,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -6264,7 +6264,7 @@
           "page": "49",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -6290,7 +6290,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -6304,7 +6304,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -6318,7 +6318,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -6332,7 +6332,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -6346,7 +6346,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -6358,7 +6358,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -6370,7 +6370,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -6382,7 +6382,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -6394,7 +6394,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -6406,7 +6406,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -6418,7 +6418,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -6430,7 +6430,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -6442,7 +6442,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -6454,7 +6454,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -6466,7 +6466,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -6478,7 +6478,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -6490,7 +6490,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -6516,7 +6516,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -6528,7 +6528,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "3",
@@ -6540,7 +6540,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -6554,7 +6554,7 @@
           "flags": [
             "check: 113-1 is the 1/4\" - 20 x 1/2\" bolt elsewhere in this book; this row says 1/2\" - 13 x 1-1/4\" (113-417 is the 1/2\" - 13 x 1-1/4\" bolt on the base page); table value kept as printed"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -6566,7 +6566,7 @@
           "page": "51",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -6592,7 +6592,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -6652,7 +6652,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -6664,7 +6664,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -6676,7 +6676,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -6688,7 +6688,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -6700,7 +6700,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -6712,7 +6712,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -6724,7 +6724,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -6750,7 +6750,7 @@
           "page": "53",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -7070,7 +7070,7 @@
           "page": "55",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -7228,7 +7228,7 @@
           "page": "55",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -7464,7 +7464,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -7478,7 +7478,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -7492,7 +7492,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -7506,7 +7506,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -7534,7 +7534,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -7576,7 +7576,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -7590,7 +7590,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -7604,7 +7604,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -7618,7 +7618,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -7632,7 +7632,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -7674,7 +7674,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -7756,7 +7756,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -7768,7 +7768,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -7780,7 +7780,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -7792,7 +7792,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -7804,7 +7804,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -7816,7 +7816,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -7828,7 +7828,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -7840,7 +7840,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -7852,7 +7852,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -7864,7 +7864,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -7878,7 +7878,7 @@
           "flags": [
             "corrected: ref printed as '1' (11 in sequence)"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -7890,7 +7890,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -7902,7 +7902,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -7914,7 +7914,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -7926,7 +7926,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -7938,7 +7938,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -7950,7 +7950,7 @@
           "page": "59",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -7976,7 +7976,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -7988,7 +7988,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -8000,7 +8000,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -8012,7 +8012,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -8024,7 +8024,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -8036,7 +8036,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -8048,7 +8048,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -8060,7 +8060,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -8072,7 +8072,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -8084,7 +8084,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -8096,7 +8096,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -8108,7 +8108,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -8120,7 +8120,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -8132,7 +8132,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -8144,7 +8144,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -8156,7 +8156,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -8168,7 +8168,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "18",
@@ -8180,7 +8180,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -8192,7 +8192,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -8204,7 +8204,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -8216,7 +8216,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -8228,7 +8228,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -8240,7 +8240,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -8252,7 +8252,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -8264,7 +8264,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "25",
@@ -8276,7 +8276,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "26",
@@ -8288,7 +8288,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -8300,7 +8300,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -8312,7 +8312,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -8324,7 +8324,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "29",
@@ -8336,7 +8336,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "30",
@@ -8350,7 +8350,7 @@
           "flags": [
             "indented under ref 29"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -8364,7 +8364,7 @@
           "flags": [
             "indented under ref 29"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "32",
@@ -8378,7 +8378,7 @@
           "flags": [
             "indented under ref 29"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "33",
@@ -8404,7 +8404,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "35",
@@ -8416,7 +8416,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "36",
@@ -8428,7 +8428,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "37",
@@ -8440,7 +8440,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "38",
@@ -8452,7 +8452,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "39",
@@ -8464,7 +8464,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "40",
@@ -8476,7 +8476,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "41",
@@ -8488,7 +8488,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "42",
@@ -8500,7 +8500,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "43",
@@ -8512,7 +8512,7 @@
           "page": "61",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -8538,7 +8538,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -8550,7 +8550,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -8562,7 +8562,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -8574,7 +8574,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -8586,7 +8586,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -8598,7 +8598,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -8610,7 +8610,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -8622,7 +8622,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -8634,7 +8634,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -8646,7 +8646,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -8658,7 +8658,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -8670,7 +8670,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -8682,7 +8682,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -8694,7 +8694,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -8706,7 +8706,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -8718,7 +8718,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -8730,7 +8730,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -8742,7 +8742,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "18",
@@ -8754,7 +8754,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -8766,7 +8766,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -8778,7 +8778,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "21",
@@ -8790,7 +8790,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -8802,7 +8802,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -8814,7 +8814,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "24",
@@ -8826,7 +8826,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "25",
@@ -8838,7 +8838,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -8850,7 +8850,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -8862,7 +8862,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -8874,7 +8874,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "29",
@@ -8886,7 +8886,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "30",
@@ -8898,7 +8898,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "31",
@@ -8910,7 +8910,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "32",
@@ -8922,7 +8922,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "33",
@@ -8934,7 +8934,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "34",
@@ -8946,7 +8946,7 @@
           "page": "63",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -8972,7 +8972,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -8984,7 +8984,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -8996,7 +8996,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -9008,7 +9008,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -9020,7 +9020,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -9032,7 +9032,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -9044,7 +9044,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -9056,7 +9056,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -9068,7 +9068,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -9080,7 +9080,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -9092,7 +9092,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -9104,7 +9104,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -9116,7 +9116,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -9128,7 +9128,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -9140,7 +9140,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -9152,7 +9152,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -9164,7 +9164,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -9176,7 +9176,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -9188,7 +9188,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -9200,7 +9200,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "21",
@@ -9212,7 +9212,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -9224,7 +9224,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -9236,7 +9236,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -9248,7 +9248,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -9274,7 +9274,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -9286,7 +9286,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -9298,7 +9298,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -9310,7 +9310,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -9322,7 +9322,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -9334,7 +9334,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -9346,7 +9346,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -9358,7 +9358,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -9370,7 +9370,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -9382,7 +9382,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -9394,7 +9394,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -9406,7 +9406,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -9418,7 +9418,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -9445,7 +9445,7 @@
           "flags": [
             "indented under ref 13"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -9457,7 +9457,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -9469,7 +9469,7 @@
           "page": "65",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -9495,7 +9495,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -9507,7 +9507,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -9521,7 +9521,7 @@
           "flags": [
             "indented under ref 2"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -9536,7 +9536,7 @@
             "indented under ref 2",
             "check: qty 8 printed for a tire under a 1-wheel assembly (index not available to settle it); table value kept"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -9550,7 +9550,7 @@
           "flags": [
             "indented under ref 2"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -9562,7 +9562,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -9574,7 +9574,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -9586,7 +9586,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -9598,7 +9598,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -9610,7 +9610,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "8",
@@ -9622,7 +9622,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -9634,7 +9634,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -9646,7 +9646,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -9658,7 +9658,7 @@
           "page": "67",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -9684,7 +9684,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -9696,7 +9696,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -9708,7 +9708,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -9720,7 +9720,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -9732,7 +9732,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -9744,7 +9744,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -9756,7 +9756,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "8",
@@ -9768,7 +9768,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -9780,7 +9780,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -9792,7 +9792,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -9804,7 +9804,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -9816,7 +9816,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -9828,7 +9828,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -9840,7 +9840,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -9852,7 +9852,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -9864,7 +9864,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -9876,7 +9876,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -9890,7 +9890,7 @@
           "flags": [
             "check: 193-1001 prints as NUT 1/4\" - 28 here and as NUT 1/4\" - 20 lock on the transmission controls page (ref 6); table values kept"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -9902,7 +9902,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -9914,7 +9914,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -9926,7 +9926,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -9938,7 +9938,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -9950,7 +9950,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "24",
@@ -9962,7 +9962,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -9988,7 +9988,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "2",
@@ -10000,7 +10000,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "3",
@@ -10012,7 +10012,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -10024,7 +10024,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -10036,7 +10036,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -10050,7 +10050,7 @@
           "flags": [
             "check: 193-1001 prints as NUT 1/4\" - 20 lock here and as NUT 1/4\" - 28 on the steering page (ref 18); table values kept"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -10062,7 +10062,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -10074,7 +10074,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -10086,7 +10086,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -10098,7 +10098,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -10110,7 +10110,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -10122,7 +10122,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -10134,7 +10134,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -10146,7 +10146,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -10158,7 +10158,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -10170,7 +10170,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -10182,7 +10182,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "18",
@@ -10194,7 +10194,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -10206,7 +10206,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -10218,7 +10218,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -10230,7 +10230,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -10242,7 +10242,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -10254,7 +10254,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "24",
@@ -10266,7 +10266,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "25",
@@ -10278,7 +10278,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -10290,7 +10290,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -10302,7 +10302,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "28",
@@ -10314,7 +10314,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "29",
@@ -10326,7 +10326,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "30",
@@ -10338,7 +10338,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -10350,7 +10350,7 @@
           "page": "69",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -10376,7 +10376,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -10388,7 +10388,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "3",
@@ -10400,7 +10400,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "4",
@@ -10412,7 +10412,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -10426,7 +10426,7 @@
           "flags": [
             "indented under ref 4"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -10438,7 +10438,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -10450,7 +10450,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "8",
@@ -10462,7 +10462,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "9",
@@ -10474,7 +10474,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -10486,7 +10486,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -10498,7 +10498,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -10510,7 +10510,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -10522,7 +10522,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -10534,7 +10534,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -10546,7 +10546,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -10558,7 +10558,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -10589,7 +10589,7 @@
           "flags": [
             "handwritten annotation beside this row on the scan (see section note)"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -10603,7 +10603,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -10617,7 +10617,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -10631,7 +10631,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -10645,7 +10645,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -10659,7 +10659,7 @@
           "flags": [
             "indented under ref 1"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -10671,7 +10671,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -10683,7 +10683,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -10695,7 +10695,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -10707,7 +10707,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -10719,7 +10719,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -10731,7 +10731,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -10743,7 +10743,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "14",
@@ -10755,7 +10755,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "15",
@@ -10767,7 +10767,7 @@
           "page": "71",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -10793,7 +10793,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -10805,7 +10805,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -10817,7 +10817,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -10829,7 +10829,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -10841,7 +10841,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -10853,7 +10853,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -10865,7 +10865,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -10877,7 +10877,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -10889,7 +10889,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "10",
@@ -10901,7 +10901,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "11",
@@ -10913,7 +10913,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "12",
@@ -10925,7 +10925,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -10937,7 +10937,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -10949,7 +10949,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -10961,7 +10961,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -10973,7 +10973,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -10985,7 +10985,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "18",
@@ -10997,7 +10997,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -11009,7 +11009,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -11021,7 +11021,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "21",
@@ -11033,7 +11033,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -11045,7 +11045,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -11057,7 +11057,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -11069,7 +11069,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -11081,7 +11081,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -11093,7 +11093,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -11105,7 +11105,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -11117,7 +11117,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -11129,7 +11129,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "29",
@@ -11141,7 +11141,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "30",
@@ -11153,7 +11153,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -11165,7 +11165,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "32",
@@ -11177,7 +11177,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "33",
@@ -11189,7 +11189,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "34",
@@ -11201,7 +11201,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "35",
@@ -11213,7 +11213,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "36",
@@ -11225,7 +11225,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "37",
@@ -11237,7 +11237,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "38",
@@ -11249,7 +11249,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "39",
@@ -11261,7 +11261,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "40",
@@ -11273,7 +11273,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "41",
@@ -11285,7 +11285,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "42",
@@ -11297,7 +11297,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "43",
@@ -11309,7 +11309,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "44",
@@ -11321,7 +11321,7 @@
           "page": "73",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -11350,7 +11350,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "2",
@@ -11362,7 +11362,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -11374,7 +11374,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -11386,7 +11386,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "5",
@@ -11398,7 +11398,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -11410,7 +11410,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -11422,7 +11422,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -11434,7 +11434,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -11446,7 +11446,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -11458,7 +11458,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -11470,7 +11470,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -11482,7 +11482,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "13",
@@ -11494,7 +11494,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -11506,7 +11506,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -11518,7 +11518,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -11530,7 +11530,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "17",
@@ -11542,7 +11542,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "18",
@@ -11554,7 +11554,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "19",
@@ -11566,7 +11566,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "20",
@@ -11578,7 +11578,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "21",
@@ -11590,7 +11590,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "22",
@@ -11602,7 +11602,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "23",
@@ -11614,7 +11614,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "24",
@@ -11626,7 +11626,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -11638,7 +11638,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -11650,7 +11650,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "28",
@@ -11662,7 +11662,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "29",
@@ -11674,7 +11674,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "30",
@@ -11686,7 +11686,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "31",
@@ -11698,7 +11698,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "32",
@@ -11710,7 +11710,7 @@
           "page": "75",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -11741,7 +11741,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -11755,7 +11755,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -11769,7 +11769,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -11783,7 +11783,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -11797,7 +11797,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -11812,7 +11812,7 @@
             "indented under ref 5",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -11827,7 +11827,7 @@
             "indented under ref 5",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "6",
@@ -11841,7 +11841,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -11856,7 +11856,7 @@
             "indented under ref 6",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -11871,7 +11871,7 @@
             "indented under ref 6",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -11886,7 +11886,7 @@
             "indented under ref 6",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -11901,7 +11901,7 @@
             "indented under ref 6",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "7",
@@ -11915,7 +11915,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -11929,7 +11929,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -11943,7 +11943,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -11957,7 +11957,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -11972,7 +11972,7 @@
             "indented under ref 10",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -11986,7 +11986,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -12014,7 +12014,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -12028,7 +12028,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12043,7 +12043,7 @@
             "indented under ref 14",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12058,7 +12058,7 @@
             "indented under ref 14",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -12072,7 +12072,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -12086,7 +12086,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -12100,7 +12100,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -12115,7 +12115,7 @@
             "inferred qty",
             "check: PTO clutch prints C37511 here but C37569 on the electric clutch page (ref 1); table values kept in both places"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -12129,7 +12129,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -12143,7 +12143,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -12157,7 +12157,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -12171,7 +12171,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12186,7 +12186,7 @@
             "indented under ref 22",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12201,7 +12201,7 @@
             "indented under ref 22",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12216,7 +12216,7 @@
             "indented under ref 22",
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -12230,7 +12230,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -12244,7 +12244,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -12258,7 +12258,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -12272,7 +12272,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12287,7 +12287,7 @@
             "indented under ref 25",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -12302,7 +12302,7 @@
             "indented under ref 25",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "",
@@ -12317,7 +12317,7 @@
             "indented under ref 25",
             "inferred qty"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "26",
@@ -12331,7 +12331,7 @@
           "flags": [
             "inferred qty"
           ],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -12357,7 +12357,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "1",
@@ -12369,7 +12369,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -12381,7 +12381,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -12393,7 +12393,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -12405,7 +12405,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -12417,7 +12417,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -12429,7 +12429,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -12441,7 +12441,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -12453,7 +12453,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -12465,7 +12465,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -12477,7 +12477,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -12489,7 +12489,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -12501,7 +12501,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -12513,7 +12513,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -12525,7 +12525,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -12537,7 +12537,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -12549,7 +12549,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -12561,7 +12561,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -12573,7 +12573,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -12585,7 +12585,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -12597,7 +12597,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -12609,7 +12609,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -12621,7 +12621,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -12633,7 +12633,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -12645,7 +12645,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -12657,7 +12657,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -12669,7 +12669,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -12681,7 +12681,7 @@
           "page": "79",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         }
       ]
     },
@@ -12707,7 +12707,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -12719,7 +12719,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -12731,7 +12731,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -12743,7 +12743,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -12755,7 +12755,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -12767,7 +12767,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -12779,7 +12779,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -12791,7 +12791,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -12803,7 +12803,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -12815,7 +12815,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -12827,7 +12827,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -12839,7 +12839,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -12851,7 +12851,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -12863,7 +12863,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12877,7 +12877,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12891,7 +12891,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -12905,7 +12905,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -12919,7 +12919,7 @@
           "flags": [
             "check: part number as printed (4-digit 113- number); the same number prints on both deck pages; table value kept"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -12931,7 +12931,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -12943,7 +12943,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -12955,7 +12955,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -12967,7 +12967,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -12979,7 +12979,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -12991,7 +12991,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -13003,7 +13003,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -13015,7 +13015,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -13053,7 +13053,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "27",
@@ -13065,7 +13065,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "28",
@@ -13077,7 +13077,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "29",
@@ -13089,7 +13089,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "30",
@@ -13103,7 +13103,7 @@
           "flags": [
             "check: 113-1 is the 1/4\" - 20 x 1/2\" bolt elsewhere in this book (113-4 is the 1\" bolt); this row says 1/4\" - 20 x 1\"; table value kept as printed"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "31",
@@ -13115,7 +13115,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "32",
@@ -13127,7 +13127,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "33",
@@ -13139,7 +13139,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "34",
@@ -13151,7 +13151,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "35",
@@ -13163,7 +13163,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "36",
@@ -13175,7 +13175,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "37",
@@ -13187,7 +13187,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "38",
@@ -13199,7 +13199,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "39",
@@ -13211,7 +13211,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "40",
@@ -13223,7 +13223,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "41",
@@ -13235,7 +13235,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "42",
@@ -13247,7 +13247,7 @@
           "page": "81",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     },
@@ -13273,7 +13273,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -13285,7 +13285,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -13297,7 +13297,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -13309,7 +13309,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -13321,7 +13321,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -13333,7 +13333,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -13345,7 +13345,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -13357,7 +13357,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -13369,7 +13369,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -13381,7 +13381,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -13393,7 +13393,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -13405,7 +13405,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -13417,7 +13417,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -13429,7 +13429,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -13443,7 +13443,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -13457,7 +13457,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "",
@@ -13471,7 +13471,7 @@
           "flags": [
             "indented under ref 14"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -13485,7 +13485,7 @@
           "flags": [
             "check: part number as printed (4-digit 113- number); the same number prints on both deck pages; table value kept"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "16",
@@ -13497,7 +13497,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -13509,7 +13509,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -13521,7 +13521,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -13533,7 +13533,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -13545,7 +13545,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -13557,7 +13557,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -13569,7 +13569,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -13581,7 +13581,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -13593,7 +13593,7 @@
           "page": "85",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "25",
@@ -13649,7 +13649,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "2",
@@ -13661,7 +13661,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "3",
@@ -13673,7 +13673,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "4",
@@ -13685,7 +13685,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "5",
@@ -13697,7 +13697,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "6",
@@ -13709,7 +13709,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -13730,7 +13730,7 @@
           "flags": [
             "footnote *: use before S/N 013306063"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "7",
@@ -13751,7 +13751,7 @@
           "flags": [
             "footnote **: use S/N 013306063 and after"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -13772,7 +13772,7 @@
           "flags": [
             "footnote *: use before S/N 013306063"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "8",
@@ -13793,7 +13793,7 @@
           "flags": [
             "footnote **: use S/N 013306063 and after"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "9",
@@ -13805,7 +13805,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -13826,7 +13826,7 @@
           "flags": [
             "footnote *: use before S/N 013306063"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "10",
@@ -13847,7 +13847,7 @@
           "flags": [
             "footnote **: use S/N 013306063 and after"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "11",
@@ -13859,7 +13859,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "12",
@@ -13871,7 +13871,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "13",
@@ -13883,7 +13883,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "14",
@@ -13895,7 +13895,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "15",
@@ -13907,7 +13907,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "16",
@@ -13919,7 +13919,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "17",
@@ -13931,7 +13931,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -13951,7 +13951,7 @@
           "flags": [
             "alternative: one of two gear boxes (ref 18)"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "18",
@@ -13971,7 +13971,7 @@
           "flags": [
             "alternative: one of two gear boxes (ref 18)"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "19",
@@ -13983,7 +13983,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "20",
@@ -13995,7 +13995,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "21",
@@ -14007,7 +14007,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "22",
@@ -14019,7 +14019,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "23",
@@ -14040,7 +14040,7 @@
           "flags": [
             "footnote *: use before S/N 013306063"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -14061,7 +14061,7 @@
           "flags": [
             "footnote *: use before S/N 013306063"
           ],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "24",
@@ -14082,7 +14082,7 @@
           "flags": [
             "footnote **: use S/N 013306063 and after"
           ],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         },
         {
           "ref": "25",
@@ -14094,7 +14094,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "26",
@@ -14106,7 +14106,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "27",
@@ -14118,7 +14118,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case"
+          "source": "grazer"
         },
         {
           "ref": "28",
@@ -14130,7 +14130,7 @@
           "page": "87",
           "variants": [],
           "flags": [],
-          "source": "case-hardware"
+          "source": "grazer-hardware"
         }
       ]
     }
@@ -14143,6 +14143,6 @@
     "refContinuity": "Continuous except these gaps, as printed (no numerical index in this book to confirm them): cylinder_block ref 3; flywheel_crankshaft_pistons ref 5; cylinder_head refs 4 and 22 (list opens with an unnumbered KIT row, then ref 2); rocker_shaft refs 13 and 14; timing_gear_camshaft refs 8, 17, 18 and 22; camshaft_case_throttle_linkage refs 8, 18-20, 32 and 33; fuel_injection_system refs 7 and 22; hydraulic_lift_assembly ref 26. Repeated refs are L.H./R.H. pairs, alternates, undersizes, sizes and shims. Body ref 11 on the base page printed as '1' and was corrected. 32 unnumbered rows kept (assemblies and their sub-parts, tires, rims and bearings, mounting hardware).",
     "quantities": "All rows have a qty; 53 are UAR. REQ'D printed out of register only on the electrical system page (42 rows mapped in sequence, counts equal, flagged 'inferred qty'). Tail wheel tire prints qty 8 under a 1-wheel assembly: kept and flagged.",
     "numericalIndex": "None. The table of contents lists parts-list sections only and no numerical index is in the PDF (pp88-90 are blank); the operator's manual has only an alphabetical subject index. No index comparison was possible, so no index-vs-table differences exist.",
-    "partNoForms": "Perkins P + 9 digits stored as printed (source perkins); Case letter prefixes closed up (C45367); hardware codes stored 'NNN-NNNN' (113-104); printed forms kept in partNoAsPrinted. NSS rows (no part number printed) carry the NSS flag. No * / ** part cells are NSS; the 62\" drive * / ** part numbers are real and carry serial variants."
+    "partNoForms": "Perkins P + 9 digits stored as printed (source perkins); Case-style letter prefixes closed up (C45367); source values grazer / grazer-hardware (not case / case-hardware), per the user's 2026-11-18 decision for Grazer books; hardware codes stored 'NNN-NNNN' (113-104); printed forms kept in partNoAsPrinted. NSS rows (no part number printed) carry the NSS flag. No * / ** part cells are NSS; the 62\" drive * / ** part numbers are real and carry serial variants."
   }
 }
